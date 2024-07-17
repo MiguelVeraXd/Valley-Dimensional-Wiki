@@ -56,14 +56,22 @@ Amuleto del caos es un nuevo amuleto el cual hace que los enemigos sean mas peli
 ![Amuleto del caos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/amuleto_del_caos.png)
 
 ## Wither Boss aumenta su dificultad los siguientes cambios son:
-100 corazones más.
-Anula los efectos de los faros en un radio de 50 bloques.
-Tiene regeneración de vida.
-En la fase 2
-Tiene mayor velocidad.
-Mayor regeneración.
-Invoca un defensor el cual es inmortal y se muere cuando matas al wither.
-En el nether se vuelve más complicado pero la dificultad se compensa con su loot el cual son 4 libros de nivel 40 de enchanting y un libro de mending(incluye la nether star)
+
+-100 corazones más.
+
+-Anula los efectos de los faros en un radio de 50 bloques.
+
+-Tiene regeneración de vida.
+
+-En la fase 2
+
+-Tiene mayor velocidad.
+
+-Mayor regeneración.
+
+-Invoca un defensor el cual es inmortal y se muere cuando matas al wither.
+
+-En el nether se vuelve más complicado pero la dificultad se compensa con su loot el cual son 4 libros de nivel 40 de enchanting y un libro de mending(incluye la nether star)
 
 Nuevos minerales los cuales solo se encuentran en el overworld, uno de los minerales se genera en la jungla en las capas 58 a -59 y el otro mineral se puedo encontrar en cualquier bioma entre las capas 0 a -59. Estos minerales tienen funciones variadas, el mineral que se genera en la jungla solo se puede extraer con pico de diamante o superior y el otro mineral de capas negativas solo se puede minar con netherite
 
