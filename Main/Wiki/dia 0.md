@@ -47,7 +47,9 @@ La raíz de manglar es un nuevo amuleto con el siguiente crafteo:
 
 ![raiz de manglar](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/raiz_de_manglar.png)
 
-Bolsa ender es un nuevo amuleto con el siguiente crafteo:image.png
+Bolsa ender es un nuevo amuleto con el siguiente crafteo:
+
+![bolsa_ender](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/bolsa_ender.png)
 
 Amuleto del caos es un nuevo amuleto el cual hace que los enemigos sean mas peligrosos y tengan un mayor spawn, tambien aumenta la probabilidad de drops raros. El crafteo es el siguiente:
 
