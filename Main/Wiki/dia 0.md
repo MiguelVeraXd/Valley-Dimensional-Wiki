@@ -16,7 +16,7 @@ Los warden tienen una probabilidad de dropear un libro de sigilo con un porcenta
 
 Al tener el bad omen los mobs pacíficos te atacaran y tendrás debilidad
 
-## ![Cambio Al Vanilla](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/wiki.md)
+## Cambio al Vanilla
 
 El totem cambia su crafteo al siguiente:image.png
 
