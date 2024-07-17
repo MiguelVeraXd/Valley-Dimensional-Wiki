@@ -1,16 +1,29 @@
-Se añade un boomerang el cual se puede encantar y hace daño a melee, su crafteo es el siguiente: image.png.
+Se añade un boomerang el cual se puede encantar y hace daño a melee, su crafteo es el siguiente: image.png
+
 La torchflower ilumina y da regeneración en un radio
+
 Hay fast totem
+
 Se añade una mochila con el siguiente crafteo: image.png
+
 La miel quita el fatal poison
+
 Los Aldeanos trabajan en tormenta
+
 Los phantoms y los evokers son más agresivos
+
 El ghast ahora trackea desde 64 bloques
+
 Los husk al estar en contacto con luz se le añaden los efectos de velocidad 3 y fuera 3
+
 Los warden tienen una probabilidad de dropear un libro de sigilo con un porcentaje del 60%
+
 Al tener el bad omen los mobs pacíficos te atacaran y tendrás debilidad
+
 Por cada nivel de raid aumenta su dificultad, se agrega nivel 1, 2 y 3. Cada nivel que tiene diferente dificultad y entre mayor nivel mejor la loot table.
+
 El totem cambia su crafteo al siguiente:image.png
+
 El faro cambia su crafteo al siguiente: image.png
 Ahora la reforced deepslate se puede obtener minando el bloque
 Los wandering traders mejoran sus tradeos
