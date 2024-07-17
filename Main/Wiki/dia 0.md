@@ -20,9 +20,13 @@ Se añade una mochila con el siguiente crafteo:
 
 ## Cambio al Vanilla
 
-El totem cambia su crafteo al siguiente:image.png
+El totem cambia su crafteo al siguiente:
 
-El faro cambia su crafteo al siguiente: image.png
+![totem](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/totem.png)
+
+El faro cambia su crafteo al siguiente:
+
+![faro](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/faro.png) 
 
 La torchflower ilumina y da regeneración en un radio
 
