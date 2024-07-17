@@ -42,6 +42,7 @@ Todas las herramientas y armaduras que no sean de netherite tienen la mitad de u
 
 Hay una villa abandonada en la savana la cual tiene un item nuevo
 
+## Reliquia
 La raíz de manglar es un nuevo amuleto con el siguiente crafteo: image.png
 
 Bolsa ender es un nuevo amuleto con el siguiente crafteo:image.png
