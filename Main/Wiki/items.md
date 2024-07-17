@@ -2,7 +2,7 @@
 
 ## Backpacks
 
-![Backpacks]([https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/aire_bueno.png](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/items/aire_bueno.png))
+![Backpacks](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/items/aire_bueno.png)
 
 **Info:** Backpacks are utility items that can provide extra inventory space. They are useful when you need to carry a lot of items with you.
 
