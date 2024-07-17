@@ -1,4 +1,4 @@
-Se añade un boomerang el cual se puede encantar y hace daño a melee, su crafteo es el siguiente: image.png
+Se añade un boomerang el cual se puede encantar y hace daño a melee, su crafteo es el siguiente: image.png.
 La torchflower ilumina y da regeneración en un radio
 Hay fast totem
 Se añade una mochila con el siguiente crafteo: image.png
