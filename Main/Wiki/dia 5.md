@@ -134,7 +134,7 @@ inmunidad a los proyectiles y 3 piezas de diamantes full protección IV y es inm
 
 y mending pero se podrá mejorar en 2 diferentes mejoras.
 
-## Enchatamiento
+## ![Enchatamiento](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/encartamiento.md) 
 
 El comerciante de la jungla tiene nuevos tradeos, estos son:
 
