@@ -42,10 +42,10 @@ Todas las herramientas y armaduras que no sean de netherite tienen la mitad de u
 
 Hay una villa abandonada en la savana la cual tiene un item nuevo
 
-## Reliquia
+## ![Reliquia](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/wiki.md)
 La raíz de manglar es un nuevo amuleto con el siguiente crafteo:
 
-![Reliquia](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/wiki.md)
+![raiz de manglar](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/raiz_de_manglar.png)
 
 Bolsa ender es un nuevo amuleto con el siguiente crafteo:image.png
 
