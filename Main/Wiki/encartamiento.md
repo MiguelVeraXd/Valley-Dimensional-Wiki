@@ -7,7 +7,7 @@ Crop Renewal: Cuando golpeas un cultivo no crecido este no se rompe.
 
 Woodland Wrath: Al talar un árbol este se rompe completo.
 
-## dia 10
+## ![Dia 10](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%2010.md) 
 Nuevo encantamiento para el tridente que atrae objetos: Hydromagic Attraction Nivel Máximo 1
 
 -Nuevo encantamiento para la ballesta Ethereal Piercing, hace la flecha sin colisión puede pasa todo lo bloques Nivel Máximo 1
