@@ -2,17 +2,9 @@ Se añade un boomerang el cual se puede encantar y hace daño a melee, su crafte
 
 ![boomerang](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/boomerang.png)
 
-La torchflower ilumina y da regeneración en un radio
-
-Hay fast totem
-
 Se añade una mochila con el siguiente crafteo:
 
 ![mochila](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/mochila.png)
-
-La miel quita el fatal poison
-
-Los Aldeanos trabajan en tormenta
 
 Los phantoms y los evokers son más agresivos
 
@@ -24,6 +16,14 @@ Los warden tienen una probabilidad de dropear un libro de sigilo con un porcenta
 
 Al tener el bad omen los mobs pacíficos te atacaran y tendrás debilidad
 
+## ![Cambio Al Vanilla](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/wiki.md)
+
+El totem cambia su crafteo al siguiente:image.png
+
+El faro cambia su crafteo al siguiente: image.png
+
+La torchflower ilumina y da regeneración en un radio
+
 Por cada nivel de raid aumenta su dificultad, se agrega nivel 1, 2 y 3. Cada nivel que tiene diferente dificultad y entre mayor nivel mejor la loot table.
 
 Ahora la reforced deepslate se puede obtener minando el bloque
@@ -32,15 +32,15 @@ Los wandering traders mejoran sus tradeos
 
 Se cambia el aldeano carnicero por un aldeano de redstone
 
-Las loot tables de las estructuras contienen mejor loot
-
 Ahora se pueden cocinar bloques de minerales enteros
 
 Todas las herramientas y armaduras que no sean de netherite tienen la mitad de usos
 
-El totem cambia su crafteo al siguiente:image.png
+La miel quita el fatal poison
 
-El faro cambia su crafteo al siguiente: image.png
+Los Aldeanos trabajan en tormenta
+
+Hay fast totem
 
 ## ![Artifacts](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/wiki.md)
 
@@ -93,3 +93,5 @@ En la jungla podrás encontrar un comerciante bastante interesante
 En los pantanos se genera una nueva estructura tendrás que descubrir que hay dentro de la estructura
 
 Hay una villa abandonada en la savana la cual tiene un item nuevo
+
+Las loot tables de las estructuras contienen mejor loot
