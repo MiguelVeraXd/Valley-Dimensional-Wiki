@@ -1,4 +1,6 @@
-Se añade un boomerang el cual se puede encantar y hace daño a melee, su crafteo es el siguiente: image.png
+Se añade un boomerang el cual se puede encantar y hace daño a melee, su crafteo es el siguiente:
+
+![boomerang](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/boomerang.png)
 
 La torchflower ilumina y da regeneración en un radio
 
