@@ -1,4 +1,4 @@
-## dia 5
+## ![Dia 5](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%205.md) 
 El comerciante de la jungla tiene nuevos tradeos, estos son:
 
 Mining Cataclysm: pica todos los minerales del mismo tipo que esten adyacentes al mineral.
