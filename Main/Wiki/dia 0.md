@@ -45,7 +45,7 @@ Hay una villa abandonada en la savana la cual tiene un item nuevo
 ## Reliquia
 La raíz de manglar es un nuevo amuleto con el siguiente crafteo:
 
-![s](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/wiki.md)
+![Reliquia](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/wiki.md)
 
 Bolsa ender es un nuevo amuleto con el siguiente crafteo:image.png
 
