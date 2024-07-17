@@ -32,6 +32,8 @@ La torchflower ilumina y da regeneración en un radio
 
 Los warden tienen una probabilidad de dropear un libro de sigilo con un porcentaje del 60%
 
+![book](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/items/book_enchanted.png) 
+
 Por cada nivel de raid aumenta su dificultad, se agrega nivel 1, 2 y 3. Cada nivel que tiene diferente dificultad y entre mayor nivel mejor la loot table.
 
 Ahora la reforced deepslate se puede obtener minando el bloque
