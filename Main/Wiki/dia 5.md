@@ -146,11 +146,13 @@ Woodland Wrath: Al talar un árbol este se rompe completo.
 
 ## Items Nuevos
 
-Espada de las almas perdidas, quita el efecto de darkness y hace barrido: image.png
+Espada de las almas perdidas, quita el efecto de darkness y hace barrido:
 
 ![espada_de_almas](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/espada_de_las_almas_perdidas.png) 
 
 Espada del anochecer, hace daño a melee sin importar la armadura:image.png
+
+![espada_del_anochecer](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/espada_del_anochecer.png) 
 
 Nuevo arco de vida: image.png
 
