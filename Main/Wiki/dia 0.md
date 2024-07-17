@@ -26,10 +26,6 @@ Al tener el bad omen los mobs pacíficos te atacaran y tendrás debilidad
 
 Por cada nivel de raid aumenta su dificultad, se agrega nivel 1, 2 y 3. Cada nivel que tiene diferente dificultad y entre mayor nivel mejor la loot table.
 
-El totem cambia su crafteo al siguiente:image.png
-
-El faro cambia su crafteo al siguiente: image.png
-
 Ahora la reforced deepslate se puede obtener minando el bloque
 
 Los wandering traders mejoran sus tradeos
@@ -40,13 +36,16 @@ Las loot tables de las estructuras contienen mejor loot
 
 Ahora se pueden cocinar bloques de minerales enteros
 
-Se añade la mecánica de los amuletos en los slots 8,17,26
-
 Todas las herramientas y armaduras que no sean de netherite tienen la mitad de usos
 
-Hay una villa abandonada en la savana la cual tiene un item nuevo
+El totem cambia su crafteo al siguiente:image.png
+
+El faro cambia su crafteo al siguiente: image.png
 
 ## ![Artifacts](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/wiki.md)
+
+Se añade la mecánica de los amuletos en los slots 8,17,26
+
 La raíz de manglar es un nuevo amuleto con el siguiente crafteo:
 
 ![raiz de manglar](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/raiz_de_manglar.png)
@@ -75,6 +74,8 @@ Amuleto del caos es un nuevo amuleto el cual hace que los enemigos sean mas peli
 
 -Invoca un defensor el cual es inmortal y se muere cuando matas al wither.
 
+## Generacion de mundo:
+
 -En el nether se vuelve más complicado pero la dificultad se compensa con su loot el cual son 4 libros de nivel 40 de enchanting y un libro de mending(incluye la nether star)
 
 Nuevos minerales los cuales solo se encuentran en el overworld, uno de los minerales se genera en la jungla en las capas 58 a -59 y el otro mineral se puedo encontrar en cualquier bioma entre las capas 0 a -59. Estos minerales tienen funciones variadas, el mineral que se genera en la jungla solo se puede extraer con pico de diamante o superior y el otro mineral de capas negativas solo se puede minar con netherite
@@ -91,6 +92,4 @@ En la jungla podrás encontrar un comerciante bastante interesante
 
 En los pantanos se genera una nueva estructura tendrás que descubrir que hay dentro de la estructura
 
-## Backpacks
-
-![Backpacks](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/items/aire_bueno.png)
+Hay una villa abandonada en la savana la cual tiene un item nuevo
