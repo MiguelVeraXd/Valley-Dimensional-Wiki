@@ -4,7 +4,9 @@ La torchflower ilumina y da regeneración en un radio
 
 Hay fast totem
 
-Se añade una mochila con el siguiente crafteo: image.png
+Se añade una mochila con el siguiente crafteo:
+
+![mochila](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/mochila.png)
 
 La miel quita el fatal poison
 
