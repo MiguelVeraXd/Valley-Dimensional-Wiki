@@ -127,14 +127,6 @@ inmunidad a los proyectiles y 3 piezas de diamantes full protección IV y es inm
 
 y mending pero se podrá mejorar en 2 diferentes mejoras.
 
-Nuevo amuleto, levitación eterea:image.png
-
-Nuevo amuleto, bendición wither:image.png
-
-Nuevo amuleto, anillo de invisibilidad:image.png
-
-Nuevo amuleto, esencia de agua:image.png
-
 Se puede cambiar de clase y todas se mejoran.
 
 Nueva mejora para las botas, se consigue haciendo que una rana se coma a un magma cube (las ranas spawnean en el nether de normal y son atacadas por todos los mobs).
@@ -168,3 +160,13 @@ Nuevo arco de vida: image.png
 Nuevo arco de hielo:image.png
 
 el cuero de cabra se consigue usando unas tijeras con una cabra demoniaca.
+
+## ![Artifacts](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/wiki.md)
+
+levitación eterea:image.png
+
+bendición wither:image.png
+
+anillo de invisibilidad:image.png
+
+esencia de agua:image.png
