@@ -1,4 +1,4 @@
-CAMBIOS DIA 5
+## Cambios de Dificultad
 
 [Creeper ahora son RegenCreeper:
 son eléctricos.
@@ -12,14 +12,6 @@ tienen más salud (50 punto de vida = 25 corazones).
 tiene regeneración de nivel 1 infinita.
 Mayor velocidad de movimiento.
 Disminuye la pausa de cada bola de fuego. ]
-
-El oxigeno dejo de llegar a la dimension del nether, es nor mal asfixiarte debtro de esta dimension.
-
-Hay un nuevo item que se consigue dando click derecho con una botella en mano: este item te permite refiliar tu oxigeno en el nether.
-
-el efecto de respiracion afecta en la dimension del nether.
-
-el casco de tortuga te hace inmune a la asfixia en nether.
 
 [Wither Skeleton
 tiene la habilidad de atacar a distancia y melee
@@ -56,6 +48,20 @@ lleva armadura de hierro]
 
 [Aldeano zombie
 Aura de desesperación: Los aldeanos zombies te dan el efecto de debilidad 3 y lentitud 2 por 7 segundos]
+
+Los enderman:[su daño pasa a ser daño de vacío (no te salva el totem).
+dropea "soul enderman"]
+
+[las Brujas al morir lanzan una pocion con efectos negativos aleatorios.]
+
+El oxigeno dejo de llegar a la dimension del nether, es nor mal asfixiarte debtro de esta dimension.
+
+Hay un nuevo item que se consigue dando click derecho con una botella en mano: este item te permite refiliar tu oxigeno en el nether.
+
+el efecto de respiracion afecta en la dimension del nether.
+
+el casco de tortuga te hace inmune a la asfixia en nether.
+
 Se añaden nuevos bosses realizar los siguientes functions:
 */blizzard_lord_info
 */flame_sentinel_info
@@ -65,15 +71,11 @@ Guardian de las profundidades
 Demonic Goat
 Warden of devastation
 
-[las Brujas al morir lanzan una pocion con efectos negativos aleatorios.]
 los zombies convierten de un solo golpe a los aldeanos en "aldeanos zombies pequeños"
 
 Hay un 5% de que al interactuar con un aldeano, te de efecto de bad omen lvl3
 
 Los pigman son siempre agresivos y cada que recibe daño de un player, hace un fill de 1x4x1 en su posición
-
-Los enderman:[su daño pasa a ser daño de vacío (no te salva el totem).
-dropea "soul enderman"]
 
 Los mob pacifico hace el doble de daño
 
@@ -97,6 +99,11 @@ Los phantoms han cambiado, al golpearte te inyectan alguna sustancia dañina que
 
 Los Zombies y Husks tienen Knockback Resistance 1.0
 
+Se puede cambiar de clase y todas se mejoran.
+
+el cuero de cabra se consigue usando unas tijeras con una cabra demoniaca.
+
+## Evento
 El Auge de la Luna: 
 
 Descripción: "Moon light" es un evento que ocurre cuando la luna alcanza su punto más alto en el cielo y brilla con una intensidad deslumbrante. Durante esta noche mágica, los mobs se llenan de poder espiritual y se vuelven mucho más desafiantes, ofreciendo a los valientes aventureros una oportunidad única para probar su valía.
@@ -127,9 +134,7 @@ inmunidad a los proyectiles y 3 piezas de diamantes full protección IV y es inm
 
 y mending pero se podrá mejorar en 2 diferentes mejoras.
 
-Se puede cambiar de clase y todas se mejoran.
-
-Nueva mejora para las botas, se consigue haciendo que una rana se coma a un magma cube (las ranas spawnean en el nether de normal y son atacadas por todos los mobs).
+## Enchatamiento
 
 El comerciante de la jungla tiene nuevos tradeos, estos son:
 
@@ -139,17 +144,7 @@ Crop Renewal: Cuando golpeas un cultivo no crecido este no se rompe.
 
 Woodland Wrath: Al talar un árbol este se rompe completo.
 
-Nuevo brewing stand (los bloques de obsidiana son 8 bloques stackeados), sirve para combinar, mejorar, aumentar el poder y hacer nuevas pociones combinadas: image.png
-
-Aparece una I.A
-
-Nuevo yuneque para los nuevos enchants:image.png
-
-Nuevo lingote para crafteos: image.png
-
-Nuevo escudo: image.png
-
-Nuevo invocador para el Guardian de las profundiades:image.png
+## Items Nuevos
 
 Espada de las almas perdidas, quita el efecto de darkness y hace barrido: image.png
 
@@ -159,7 +154,19 @@ Nuevo arco de vida: image.png
 
 Nuevo arco de hielo:image.png
 
-el cuero de cabra se consigue usando unas tijeras con una cabra demoniaca.
+Nuevo escudo: image.png
+
+Nueva mejora para las botas, se consigue haciendo que una rana se coma a un magma cube (las ranas spawnean en el nether de normal y son atacadas por todos los mobs).
+
+Nuevo brewing stand (los bloques de obsidiana son 8 bloques stackeados), sirve para combinar, mejorar, aumentar el poder y hacer nuevas pociones combinadas: image.png
+
+Aparece una I.A
+
+Nuevo yuneque para los nuevos enchants:image.png
+
+Nuevo lingote para crafteos: image.png
+
+Nuevo invocador para el Guardian de las profundiades:image.png
 
 ## ![Artifacts](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/wiki.md)
 
