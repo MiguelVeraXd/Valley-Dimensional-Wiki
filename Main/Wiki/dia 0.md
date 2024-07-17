@@ -48,7 +48,9 @@ Bolsa ender es un nuevo amuleto con el siguiente crafteo:image.png
 
 Amuleto del caos es un nuevo amuleto el cual hace que los enemigos sean mas peligrosos y tengan un mayor spawn, tambien aumenta la probabilidad de drops raros. El crafteo es el siguiente:image.png
 
-##-Ahora el wither boss aumenta su dificultad los siguientes cambios son:
+![Amuleto del caos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/amuleto_del_caos.png)
+
+## Ahora el wither boss aumenta su dificultad los siguientes cambios son:
 100 corazones más.
 Anula los efectos de los faros en un radio de 50 bloques.
 Tiene regeneración de vida.
@@ -74,6 +76,5 @@ En la jungla podrás encontrar un comerciante bastante interesante
 En los pantanos se genera una nueva estructura tendrás que descubrir que hay dentro de la estructura
 
 ## Backpacks
-![Backpacks](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/items/aire_bueno.png)
 
 ![Backpacks](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/items/aire_bueno.png)
