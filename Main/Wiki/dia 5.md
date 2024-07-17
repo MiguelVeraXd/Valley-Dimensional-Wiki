@@ -154,9 +154,13 @@ Espada del anochecer, hace daño a melee sin importar la armadura:image.png
 
 ![espada_del_anochecer](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/espada_del_anochecer.png) 
 
-Nuevo arco de vida: image.png
+Arco de vida:
 
-Nuevo arco de hielo:image.png
+![arco_vida](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/arco_de_vida.png) 
+
+Arco de hielo:
+
+![arco_hielo](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/arco_de_hielo.png) 
 
 Nuevo escudo: image.png
 
