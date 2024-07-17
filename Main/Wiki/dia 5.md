@@ -101,8 +101,6 @@ Los Zombies y Husks tienen Knockback Resistance 1.0
 
 Se puede cambiar de clase y todas se mejoran.
 
-el cuero de cabra se consigue usando unas tijeras con una cabra demoniaca.
-
 ## Evento
 El Auge de la Luna: 
 
@@ -133,6 +131,8 @@ Esqueleto Profanador; este esqueleto tiene la capacidad de bloquear los stos 17 
 inmunidad a los proyectiles y 3 piezas de diamantes full protección IV y es inmunes al fuego , El esqueleto tendrá un drop muy valioso, el cuál es un arco roto sombrío el cual tendrá los encantamiento de infinity 
 
 y mending pero se podrá mejorar en 2 diferentes mejoras.
+
+el cuero de cabra se consigue usando unas tijeras con una cabra demoniaca.
 
 ## ![Enchatamiento](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/encartamiento.md) 
 
