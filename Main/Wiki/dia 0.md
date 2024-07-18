@@ -1,91 +1,91 @@
 ## Cambios de Dificultad
 
-- Los phantoms y los evokers son más agresivos.
+* Los phantoms y los evokers son más agresivos.
 
-- Los ghast ahora trackean desde 64 bloques.
+* Los ghast ahora trackean desde 64 bloques.
 
-- Los husk, al estar en contacto con luz, se les añaden los efectos de "Speed III" y "Strenght III".
+* Los husk, al estar en contacto con luz, se les añaden los efectos de "Speed III" y "Strenght III".
 
-- Al tener el efecto de "Bad Omen" los mobs pacíficos te atacaran y tendrás "Weakness I".
+* Al tener el efecto de "Bad Omen" los mobs pacíficos te atacaran y tendrás "Weakness I".
 
 ## Items Nuevos
 
-- Se añade el "Boomerang" un nuevo item que se puede encantar y con el cual se puede hacer daño tanto a distancia como a melee, su crafteo es el siguiente:
+* Se añade el "Boomerang" un nuevo item que se puede encantar y con el cual se puede hacer daño tanto a distancia como a melee, su crafteo es el siguiente:
 
 ![boomerang](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/boomerang.png)
 
-- Se añade una "Mochila" con el siguiente crafteo:
+* Se añade una "Mochila" con el siguiente crafteo:
 
 ![mochila](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/mochila.png)
 
 ## Cambios al Gameplay Vanilla
 
-- Se cambia el método de obtención de los "Totems de la Inmortalidad". Su crafteo es el siguiente:
+* Se cambia el método de obtención de los "Totems de la Inmortalidad". Su crafteo es el siguiente:
 
 ![totem](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/totem.png)
 
-- El "Faro" cambia su crafteo al siguiente:
+* El "Faro" cambia su crafteo al siguiente:
 
 ![faro](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/faro.png) 
 
-- Las "Torchflower" iluminan y dan "Regeneration I" en un radio de 7 bloques.
+* Las "Torchflower" iluminan y dan "Regeneration I" en un radio de 7 bloques.
 
-- Los "Warden" tienen una probabilidad de dropear un libro de sigilo rápido de nivel I al III con un porcentaje del 60%.
+* Los "Warden" tienen una probabilidad de dropear un libro de sigilo rápido de nivel I al III con un porcentaje del 60%.
 
-- Las "Raids" aumentan su dificultad, se agregan los niveles 1, 2 y 3. Cada nivel tiene una diferente dificultad y entre mayor sea el nivel mejor será la loot table.
+* Las "Raids" aumentan su dificultad, se agregan los niveles 1, 2 y 3. Cada nivel tiene una diferente dificultad y entre mayor sea el nivel mejor será la loot table.
 
-- Ahora se pueden obtener los bloques de "Reforced Deepslate".
+* Ahora se pueden obtener los bloques de "Reforced Deepslate".
 
-- Ahora se pueden cocinar los bloques de minerales crudos.
+* Ahora se pueden cocinar los bloques de minerales crudos.
 
-- Todas las herramientas y armaduras que no sean de netherite tienen la mitad de usos.
+* Todas las herramientas y armaduras que no sean de netherite tienen la mitad de usos.
 
-- Los "Wandering Traders" mejoran sus tradeos.
+* Los "Wandering Traders" mejoran sus tradeos.
 
-- Se cambia el aldeano carnicero por un "Aldeano de Redstone".
+* Se cambia el aldeano carnicero por un "Aldeano de Redstone".
 
-- Los "Aldeanos" trabajan en tormenta.
+* Los "Aldeanos" trabajan en tormenta.
 
-- La "Miel" quita el "Fatal Poison".
+* La "Miel" quita el "Fatal Poison".
 
-- Hay "Fast Totem".
+* Hay "Fast Totem".
 
 ## ![Artifacts](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/wiki.md)
 
-- Se añade la mecánica de los "Amuletos" en los slots 9,18,27.
+* Se añade la mecánica de los "Amuletos" en los slots 9,18 y 27.
 
 ![invetario](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/items/invetario.png)
 
-- La "Raíz de Manglar" es un nuevo amuleto con el siguiente crafteo:
+* La "Raíz de Manglar" es un nuevo amuleto con el siguiente crafteo:
 
 ![raiz de manglar](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/raiz_de_manglar.png)
 
-- La "Bolsa Ender" es un nuevo amuleto con el siguiente crafteo:
+* La "Bolsa Ender" es un nuevo amuleto con el siguiente crafteo:
 
 ![bolsa_ender](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/bolsa_ender.png)
 
-- El "Amuleto del Caos" es un nuevo amuleto, su función se basa en hacer que los enemigos sean mas peligrosos y tengan un mayor spawn, también aumenta la probabilidad de drops raros. Su crafteo es el siguiente:
+* El "Amuleto del Caos" es un nuevo amuleto, su función se basa en hacer que los enemigos sean mas peligrosos y tengan un mayor spawn, también aumenta la probabilidad de drops raros. Su crafteo es el siguiente:
 
 ![Amuleto del caos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/amuleto_del_caos.png)
 
 ## Bosses
 - El "Wither Boss" aumenta su dificultad, sus cambios son:
 
--100 corazones más.
+* 100 corazones más.
 
--Anula los efectos de los "Faros" en un radio de 50 bloques.
+Anula los efectos de los "Faros" en un radio de 50 bloques.
 
--Tiene regeneración de vida.
+Tiene una mejor regeneración de vida.
 
 - Se la añade una segunda fase en la cual:
 
--Tiene mayor velocidad.
+Tiene mayor velocidad
 
--Mayor regeneración de vida.
+Mayor regeneración de vida.
 
--Invoca un defensor el cual es inmortal y se muere cuando matas al wither.
+Invoca un "Defensor" el cual es inmortal y solo muere cuando matas al wither.
 
--En el nether se vuelve más complicado pero la dificultad se compensa con su loot el cual son 4 libros de nivel 40 de enchanting y un libro de mending(incluye la nether star)
+- En el "Nether" este boss se vuelve más complicado, sin embargo, esta dificultad se compensa con su loot el cual son 4 libros de "Nivel 40 de Enchanting" y un libro de "Mending I" (sigue la Nether Star de igual manera).
 
 ## Generación de Mundo:
 
