@@ -1,3 +1,5 @@
+## Cambios de Dificultad
+
 | Item                            | Funciones                                                          | Peso (Weight) | Rango de Cantidad | Mob |
 |---------------------------------|--------------------------------------------------------------------|---------------|-------------------|---------------|
 | minecraft:emerald               | set_count(0-2), looting_enchant(0-2)                               | -             | 0-2               |     Raid      |
