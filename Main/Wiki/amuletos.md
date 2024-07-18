@@ -19,4 +19,25 @@ cuanto está debajo 4 corazones se activa el Ankh haciendo que sea inmune al da�
 
 ## [Dia 5](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%2010.md)
 
+- Bendición del wither
+llevarlo equipado en los slots 9, 18 y 27, te hace inmune al efecto wither
+
+- Polen sagrado
+llevarlo equipado en los slots 9, 18 y 27, te hace inmune al efecto veneno y fatal veneno 
+falta drop 
+
+- Levitación Etérea
+Al tenerlo equipado en los slots 9, 18 y 27, y al gastar un tótem, obtendrás el efecto de Levitación de nivel 8 durante 3 segundos y el efecto de Caída Lenta durante 8 segundos.
+
+- Anillo Invisibility
+llevarlo equipado en los slots 9, 18 y 27, te da el efecto invisibilidad
+
 ## [Dia 10](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%2015.md)
+
+Al equipar el Talismán de Lava en los espacios (9), (18) y (27):
+Este objeto te proporciona 7 segundos de resistencia al fuego
+mientras no estés en contacto con la lava.
+
+-Bolsa Celestial Ender:
+al tenerlo en los slots 9 18 27 aumentará: ahora puede tira elder peral no tiene cooldown la capacidad de stackear sube a 32 no te spawnea endermites
+Crafteo está en el libro 📖 🥶
