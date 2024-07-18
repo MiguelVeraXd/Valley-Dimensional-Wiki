@@ -1,34 +1,55 @@
 ## Cambios de Dificultad
 
 * Todos los creeper ahora son "RegenCreeper":
+
 __Son eléctricos.__
+
 __Pueden ver a través de las paredes.__
+
 __Cada vez que explotan se pueden regenerar como nuevo RegenCreeper en un radio 5 bloques de donde explotan inicialmente.__
+
 __Llevan un Tótem de la Inmortalidad equipado.__
+
 __Tienen los efectos de "Speed II" y "Resistance II" de manera infinita__
 
-* Todos Ghast
-tienen más salud (50 punto de vida = 25 corazones).
-tiene regeneración de nivel 1 infinita.
-Mayor velocidad de movimiento.
-Disminuye la pausa de cada bola de fuego. ]
+* Todos los Ghast:
 
-[Wither Skeleton
-tiene la habilidad de atacar a distancia y melee
-el arco tiene Poder 25, Flame 5 y punch 3.
-la espada netherite tiene filo V y Fire aspect 2.
-cuanto te pega a melee te da wither de nivel 2 por 10 segundos .
-tiene 20 corazones.
-lleva armadura full cuero de color negro.]
+__Tienen más salud (50 puntos de vida = 25 corazones).__
 
-[Los piglins
-muestran un aumento en su IQ, lo que los hace más hábiles en el uso de sus recursos. A continuación, se presentan algunas mejoras que se observan en su comportamiento:
-Utilización de la Perla de Ender
-Pociones de Resistencia al Fuego
-Flechas de Efecto de Wither
-Aprovechamiento de Encantamientos
+__Tienen "Regeneration I" infinita.__
+
+__Tienen una mayor velocidad de movimiento.__
+
+__Disminuyen las pausas que se toman entre cada bola de fuego que disparan.__
+
+* Los Wither Skeletons:
+
+__Tienen más salud (40 puntos de vida = 20 corazones).__
+
+__Llevan una armadura de cuero teñida de color negro.__
+
+__Tienen la habilidad de atacar tanto a distancia como a melee.__
+
+__Llevan consigo un arco de "Power XXV", "Flame V" y "Punch III".__
+
+__Su espada ahora es de netherite, además, tiene "Sharpness V" y "Fire Aspect II".__
+
+__Cuando te pegan a melee te dan "Wither II" por 10 segundos.__
+
+* Los piglins muestran un aumento en su "IQ", lo que los hace más hábiles en cuanto a el uso de sus recursos. A continuación, se presentan algunas mejoras que se observan en su comportamiento:
+
+Utilización de la Perla de Ender.
+
+Uso de pociones de "Fire Resistance".
+
+Cargan sus ballestas con flechas de efecto de Wither.
+
+Mejor aprovechamiento de los encantamientos.
+
 Armaduras mejoradas
-Utilización de la Manzana
+
+Utilización de la Manzana de Oro.
+
 Batalla con encantamientos diversos]
 
 [Arañas
@@ -101,7 +122,7 @@ Los Zombies y Husks tienen Knockback Resistance 1.0
 
 Se puede cambiar de clase y todas se mejoran.
 
-## Evento
+## Eventos
 El Auge de la Luna: 
 
 Descripción: "Moon light" es un evento que ocurre cuando la luna alcanza su punto más alto en el cielo y brilla con una intensidad deslumbrante. Durante esta noche mágica, los mobs se llenan de poder espiritual y se vuelven mucho más desafiantes, ofreciendo a los valientes aventureros una oportunidad única para probar su valía.
