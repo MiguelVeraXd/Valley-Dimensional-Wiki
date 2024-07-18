@@ -150,19 +150,13 @@ __*Slimes Negativos:*__ Son el doble de grandes, tienen más vida y cuando te pe
 
 __*Almas en Pena:*__ Son zombies de varias cualidades; roban vida al pegarte, tienen 60 puntos de vida (30 corazones), tienen 13 puntos daño base y son más rápidos (velocidad similar a la de un zombie bebé).
 
-__*Guerrero Vagante:*__ Este es un vindicador que cuando hace daño su fuerza aumenta, y tiene 60 puntos de vida
+__*Guerrero Vagante:*__ Este es un vindicador de 60 puntos de vida (30 corazones) y que, cada vez que hace daño, su fuerza aumenta.
 
-Invocador de calamidades; este nuevo evocador tiene la capacidad de cada 10 segundos invocar un mob pacifico, además no recibe daño por flechas, invocar golpes como método de defensa y al estar cercas de él en un
+__*Invocador de Calamidades:*__ Este nuevo evocador tiene la capacidad de gólems de hierro con un intervalo de 10 segundos como método de defensa, estos tienen la capacidad de robarse la vida al jugador con cada golpe acertado. Además de todo esto, el evocador no recibe daño por flechas y, al estar cercas de él en un radio de 5 bloques, te dará ceguera.
+Drop = "Poción de Maestro Tortuga en su forma base".
 
-radio de 5 bloques te dará ceguera, drop="poción de tortuga base"
-
-Esqueleto Profanador; este esqueleto tiene la capacidad de bloquear los stos 17 26 35. y se desbloquea a pasar 15 segundos y también 70 puntos de vida, power ?
-
-inmunidad a los proyectiles y 3 piezas de diamantes full protección IV y es inmunes al fuego , El esqueleto tendrá un drop muy valioso, el cuál es un arco roto sombrío el cual tendrá los encantamiento de infinity 
-
-y mending pero se podrá mejorar en 2 diferentes mejoras.
-
-el cuero de cabra se consigue usando unas tijeras con una cabra demoniaca.
+__*Esqueleto Profanador:*__ Este esqueleto tiene la capacidad de bloquear los slots 18, 27 y 36 (estos se desbloquearán al pasar 15 segundos), tiene 70 puntos de vida (35 corazones), "Power ?", inmunidad a los proyectiles y al fuego y lleva consigo 3 piezas de diamante con "Protection IV". 
+Drop = "Arco Roto Sombrío" (el cual es un arco que tendrá los encantamiento de infinity y mending ya incluidos, además, este tiene 2 posibles mejoras).
 
 ## [Encantamientos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/encartamiento.md) 
 
@@ -199,6 +193,8 @@ Nuevo escudo: image.png
 Nueva mejora para las botas, se consigue haciendo que una rana se coma a un magma cube (las ranas spawnean en el nether de normal y son atacadas por todos los mobs).
 
 Nuevo brewing stand (los bloques de obsidiana son 8 bloques stackeados), sirve para combinar, mejorar, aumentar el poder y hacer nuevas pociones combinadas: image.png
+
+El cuero de cabra se consigue usando unas tijeras con una cabra demoníaca.
 
 Aparece una I.A
 
