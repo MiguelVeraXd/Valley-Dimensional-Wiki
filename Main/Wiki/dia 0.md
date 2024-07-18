@@ -68,7 +68,7 @@
 
 ![Amuleto del caos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/amuleto_del_caos.png)
 
-## Bosses
+## [Bosses](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/bosses.md)
 * El "Wither Boss" aumenta su dificultad, sus cambios son:
 
 __100 corazones más.__
