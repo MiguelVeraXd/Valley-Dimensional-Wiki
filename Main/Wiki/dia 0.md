@@ -91,9 +91,9 @@
 
 * Se añaden nuevos minerales los cuales solo se encuentran en el overworld:
 
-**"Jadeita": se genera en junglas y taigas desde la capa 58 hasta la -59 y solo se puede extraer con pico de diamante o superior.**
+__"Jadeita": se genera en junglas y taigas desde la capa 58 hasta la -59 y solo se puede extraer con pico de diamante o superior.__
 
-**"Fluorita": se genera en cualquier bioma desde la capa 0 hasta la -59 y solo se puede minar con un pico de netherite.**
+__"Fluorita": se genera en cualquier bioma desde la capa 0 hasta la -59 y solo se puede minar con un pico de netherite.__
 
 * El "Nether" se vuelve más misterioso, generando 3 nuevas estructuras.
 
