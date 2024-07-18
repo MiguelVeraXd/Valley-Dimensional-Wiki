@@ -32,7 +32,7 @@
 
 * Los "Warden" tienen una probabilidad de dropear un libro de sigilo rápido de nivel I al III con un porcentaje del 60%.
 
-* Las "Raids" aumentan su dificultad, se agregan los niveles 1, 2 y 3. Cada nivel tiene una diferente dificultad y entre mayor sea el nivel mejor será la loot table.
+* Las ["Raids"](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/raid.md) aumentan su dificultad, se agregan los niveles 1, 2 y 3. Cada nivel tiene una diferente dificultad y entre mayor sea el nivel mejor será la loot table.
 
 * Ahora se pueden obtener los bloques de "Reforced Deepslate".
 
