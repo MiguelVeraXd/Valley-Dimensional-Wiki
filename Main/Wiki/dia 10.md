@@ -2,9 +2,9 @@
 
 ## Cambios de Dificultad
 
-Al llover se generan bloques de agua de manera aleatoria.
+- Al llover se generan bloques de agua de manera aleatoria.
 
-Ahora todos los mobs del juego tienen variantes, estas son:
+- Ahora todos los mobs del juego tienen variantes, estas son:
 
 *Variante infernal: 1 de cada 5 golpes te genera lava en los pies
 
@@ -26,9 +26,7 @@ Ahora todos los mobs del juego tienen variantes, estas son:
 
 *Variante de vampiro: te roba vida al pegarte.
 
-Se agrega una nueva caña de pescar exclusiva para el nether: image.png
-
-Ahora todos los efectos negativos se mejoran haciendolos más peligrosos:
+- Ahora todos los efectos negativos se mejoran haciendolos más peligrosos:
 
 *Levitación: te hace mover de forma aleatoria mientras te elevas
 
@@ -42,45 +40,49 @@ Ahora todos los efectos negativos se mejoran haciendolos más peligrosos:
 
 *Darkness: te asfixia.
 
-El wandering trader de la jungla tienen nuevos tradeos
+- Las arañas normales tienen una probabilidad de llevar un spawner que pueden invocar cualquier mob hostil menos el ender dragon
 
-Imagen
+- Las arañas de cueva puede deja telarañas al caminar
 
-Las arañas normales tienen una probabilidad de llevar un spawner que pueden invocar cualquier mob hostil menos el ender dragon
+- El enderman tiene un mejor tp y también son inmunes al fuego y agua, ademas tiene 60 puntos de vida
 
-Las arañas de cueva puede deja telarañas al caminar
+- Los enderman cuanto se enoja no se calma
 
-El enderman tiene un mejor tp y también son inmunes al fuego y agua, ademas tiene 60 puntos de vida
+- Los esqueletos espejo además de cambiar tu efecto positivo te lo roba y te lo cambia por negativo
 
-Los enderman cuanto se enoja no se calma
+- Los pistones al ser activados se rompen
 
-Los esqueletos espejo además de cambiar tu efecto positivo te lo roba y te lo cambia por negativo
+- Las herramientas se gastan el doble de rápido
 
-Los pistones al ser activados se rompen
+- Los creepers pueden desactivar el escudo por 9 segundos después de explotar
 
-Las herramientas se gastan el doble de rápido
+- El warden no recibe daño snow golems
 
-Se añaden nuevas herramientas que al usarlas se upgradean, su upgrade es con una nueva plantilla, herramienta de netherite y un lingote de glaciarium: image.png
+## Items Nuevos
 
-Se añade una nueva mesa de crafteo (a partir de aqui todos los crafteos son en la nueva mesa): image.png
+- Se puedes craftear antorchas contra el agua: image.png
 
-Se pueden descraftear faros
+- Nueva mejora para el polvo de hueso: image.png
 
-Los creepers pueden desactivar el escudo por 9 segundos después de explotar
+- Nuevo item: image.png
 
-El warden no recibe daño snow golems
+- Nuevo item para revivir players: image.png
 
-Se puedes craftear antorchas contra el agua: image.png
+- Nueva mochila: image.png
 
-Nueva mejora para el polvo de hueso: image.png
+- Nuevos bloques stackeados: image.png y image.png
 
-Nuevo item: image.png
+- Se añaden nuevas herramientas que al usarlas se upgradean, su upgrade es con una nueva plantilla, herramienta de netherite y un lingote de glaciarium: image.png
 
-Nuevo item para revivir players: image.png
+- Se añade una nueva mesa de crafteo (a partir de aqui todos los crafteos son en la nueva mesa): image.png
 
-Nueva mochila: image.png
+- Se agrega una nueva caña de pescar exclusiva para el nether: image.png
 
-Nuevos bloques stackeados: image.png y image.png
+## Cambios al Gameplay Vanilla
+
+- El wandering trader de la jungla tienen nuevos tradeos
+
+- Se pueden descraftear faros con la nueva mesa (alta creator)
 
 ## [Enchatamiento](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/encartamiento.md) 
 -ENCANTAMIENTOS:
