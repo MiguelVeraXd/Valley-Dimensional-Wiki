@@ -134,7 +134,7 @@ y mending pero se podrá mejorar en 2 diferentes mejoras.
 
 el cuero de cabra se consigue usando unas tijeras con una cabra demoniaca.
 
-## [Enchatamiento](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/encartamiento.md) 
+## [Encantamientos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/encartamiento.md) 
 
 El comerciante de la jungla tiene nuevos tradeos, estos son:
 
