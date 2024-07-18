@@ -16,6 +16,7 @@
 
 - La "Ankh" se puede obtener en una [Pirámides de desierto](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%200.md#generaci%C3%B3n-del-mundo) o en arena sospechosa
 cuanto está debajo 4 corazones se activa el Ankh haciendo que sea inmune al daño por 8 segundos
+![ankh](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/items/ankh.png)
 
 ## [Dia 5](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%2010.md)
 
