@@ -50,7 +50,7 @@
 
 * Hay "Fast Totem".
 
-## ![Amuletos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/amuletos.md)
+## [Amuletos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/amuletos.md)
 
 * Se añade la mecánica de los "Amuletos" en los slots 9,18 y 27.
 
