@@ -69,40 +69,44 @@
 ![Amuleto del caos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/amuleto_del_caos.png)
 
 ## Bosses
-- El "Wither Boss" aumenta su dificultad, sus cambios son:
+* El "Wither Boss" aumenta su dificultad, sus cambios son:
 
-* 100 corazones más.
+> 100 corazones más.
 
-Anula los efectos de los "Faros" en un radio de 50 bloques.
+> Anula los efectos de los "Faros" en un radio de 50 bloques.
 
-Tiene una mejor regeneración de vida.
+> Tiene una mejor regeneración de vida.
 
-- Se la añade una segunda fase en la cual:
+* Se le añade una segunda fase en la cual:
 
-Tiene mayor velocidad
+> Tiene mayor velocidad.
 
-Mayor regeneración de vida.
+> Mayor regeneración de vida.
 
-Invoca un "Defensor" el cual es inmortal y solo muere cuando matas al wither.
+> Invoca un "Defensor" el cual es inmortal y solo muere cuando matas al Wither.
 
-- En el "Nether" este boss se vuelve más complicado, sin embargo, esta dificultad se compensa con su loot el cual son 4 libros de "Nivel 40 de Enchanting" y un libro de "Mending I" (sigue la Nether Star de igual manera).
+* En el "Nether" este boss se vuelve más complicado, sin embargo, esta dificultad se compensa con su loot el cual son 4 libros de "Nivel 40 de Enchanting" y un libro de "Mending I" (aun así, la Nether Star sigue siendo parte de la loot table).
 
-## Generación de Mundo:
+## Generación del Mundo:
 
-Nuevos minerales los cuales solo se encuentran en el overworld, uno de los minerales se genera en la jungla en las capas 58 a -59 y el otro mineral se puedo encontrar en cualquier bioma entre las capas 0 a -59. Estos minerales tienen funciones variadas, el mineral que se genera en la jungla solo se puede extraer con pico de diamante o superior y el otro mineral de capas negativas solo se puede minar con netherite
+* Se añaden nuevos minerales los cuales solo se encuentran en el overworld:
 
-El nether se vuelve mas misterioso generando 3 nuevas estructuras
+| "Jadeita": se genera en junglas y taigas desde la capa 58 hasta la -59 y solo se puede extraer con pico de diamante o superior.
 
-En los mares puedes encontrar una nueva estructura en la superficie la cual contiene tesoros interesante
+| "Fluorita": se genera en cualquier bioma desde la capa 0 hasta la -59 y solo se puede minar con un pico de netherite.
 
-En la nieve se genera una nueva estructura la cual contiene un item que sirve para craftear 2 amuletos nuevos
+* El "Nether" se vuelve más misterioso, generando 3 nuevas estructuras.
 
-Ahora los desierto se vuelve sofocante provocando alucinaciones las cuales solo se pueden quitar con agua, se recomienda llevar una brocha en el desierto para encontrar nuevos tesoros dentro de las piramides como en la arena
+* En los "Océanos" se puede encontrar una nueva estructura la cual contiene un nuevo item que sirve para la elaboración de diversos crafteos.
 
-En la jungla podrás encontrar un comerciante bastante interesante
+* En los "Biomas de Nieve" se genera una nueva estructura la cual contiene un nuevo item que sirve para la elaboración de diversos crafteos.
 
-En los pantanos se genera una nueva estructura tendrás que descubrir que hay dentro de la estructura
+* Los "Desiertos" se vuelven más sofocantes provocando así alucinaciones las cuales solo se pueden quitar al estar en contacto con agua. De igual manera, se recomienda llevar una "Brocha" para encontrar nuevos tesoros tanto en las pirámides como en la arena de los mismos.
 
-Hay una villa abandonada en la savana la cual tiene un item nuevo
+* En la "Jungla" podrás encontrar un comerciante bastante interesante.
 
-Las loot tables de las estructuras contienen mejor loot
+* En los "Pantanos" se genera una nueva estructura la cual viene acompañada de un atril el cual muestra las instrucciones a seguir para la invocación de un nuevo mini-boss.
+
+* Hay una villa abandonada en la savana la cual tiene un item nuevo.
+
+* La loot table de TODAS las estructuras ha sido mejorada.
