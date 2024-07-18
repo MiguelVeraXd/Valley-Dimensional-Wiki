@@ -176,7 +176,7 @@ Nuevo lingote para crafteos: image.png
 
 Nuevo invocador para el Guardian de las profundiades:image.png
 
-## ![Artifacts](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/wiki.md)
+## ![Amuletos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/amuletos.md)
 
 levitación eterea:image.png
 
