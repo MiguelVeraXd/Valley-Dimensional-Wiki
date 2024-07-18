@@ -52,34 +52,36 @@
 
 ## ![Artifacts](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/wiki.md)
 
-Se añade la mecánica de los amuletos en los slots 8,17,26
+- Se añade la mecánica de los "Amuletos" en los slots 9,18,27.
 
-La raíz de manglar es un nuevo amuleto con el siguiente crafteo:
+
+
+- La "Raíz de Manglar" es un nuevo amuleto con el siguiente crafteo:
 
 ![raiz de manglar](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/raiz_de_manglar.png)
 
-Bolsa ender es un nuevo amuleto con el siguiente crafteo:
+- La "Bolsa Ender" es un nuevo amuleto con el siguiente crafteo:
 
 ![bolsa_ender](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/bolsa_ender.png)
 
-Amuleto del caos es un nuevo amuleto el cual hace que los enemigos sean mas peligrosos y tengan un mayor spawn, tambien aumenta la probabilidad de drops raros. El crafteo es el siguiente:
+- El "Amuleto del Caos" es un nuevo amuleto, su función se basa en hacer que los enemigos sean mas peligrosos y tengan un mayor spawn, también aumenta la probabilidad de drops raros. Su crafteo es el siguiente:
 
 ![Amuleto del caos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/amuleto_del_caos.png)
 
-## Jefes y Bosses
-Wither Boss aumenta su dificultad los siguientes cambios son:
+## Bosses
+- El "Wither Boss" aumenta su dificultad, sus cambios son:
 
 -100 corazones más.
 
--Anula los efectos de los faros en un radio de 50 bloques.
+-Anula los efectos de los "Faros" en un radio de 50 bloques.
 
 -Tiene regeneración de vida.
 
--En la fase 2
+- Se la añade una segunda fase en la cual:
 
 -Tiene mayor velocidad.
 
--Mayor regeneración.
+-Mayor regeneración de vida.
 
 -Invoca un defensor el cual es inmortal y se muere cuando matas al wither.
 
