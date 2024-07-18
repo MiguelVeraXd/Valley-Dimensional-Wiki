@@ -1,4 +1,6 @@
-## Cambios de Dificultad
+## Loot Table
+
+## Raid de nivel 2
 
 | Item                            | Funciones                                                          | Peso (Weight) | Rango de Cantidad | Mob |
 |---------------------------------|--------------------------------------------------------------------|---------------|-------------------|---------------|
@@ -17,7 +19,7 @@
 | minecraft:iron_boots            | enchant_with_levels(20-39, treasure=true), set_damage(0.3-0.9)     | 10            | 1                 |     Raid      |
 | minecraft:golden_apple          | set_count(4)                                                       | 100%          | 4                 |     Ravager   |
 
-
+## Raid de nivel 3
 
 | Item                            | Funciones                                                          | Peso (Weight) | Rango de Cantidad | Mob            |
 |---------------------------------|--------------------------------------------------------------------|---------------|-------------------|----------------|
