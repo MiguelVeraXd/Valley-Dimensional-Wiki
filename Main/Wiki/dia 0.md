@@ -34,7 +34,7 @@ Los Warden tienen una probabilidad de dropear un libro de sigilo rápido de nive
 
 Por cada nivel de Raid aumenta su dificultad, se agrega nivel 1, 2 y 3. Cada nivel que tiene diferente dificultad y entre mayor nivel mejor la loot table.
 
-Ahora la reforced deepslate se puede obtener minando el bloque
+Ahora la reforced deepslate se puede obtener.
 
 Ahora se pueden cocinar bloques de minerales enteros
 
