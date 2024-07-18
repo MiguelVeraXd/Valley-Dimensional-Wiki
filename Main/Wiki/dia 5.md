@@ -86,11 +86,11 @@ __Dropean "Soul of Enderman".__
 
 * El oxígeno dejó de llegar a la dimensión del "Nether", por lo tanto, ahora es normal asfixiarte dentro de esta dimensión.
 
-el efecto de respiracion afecta en la dimension del nether.
+* El efecto de respiración afecta en la dimensión del "Nether".
 
-el casco de tortuga te hace inmune a la asfixia en nether.
+* El casco de tortuga te hace inmune a la asfixia en "Nether".
 
-Se añaden nuevos bosses realizar los siguientes functions:
+* Se añaden nuevos bosses. Realizar los siguientes functions te brindará su información correspondiente:
 */blizzard_lord_info
 */flame_sentinel_info
 
