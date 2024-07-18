@@ -1,5 +1,7 @@
 | CAMBIOS DIA 10 |
 
+## Cambios de Dificultad
+
 Al llover se generan bloques de agua de manera aleatoria.
 
 Ahora todos los mobs del juego tienen variantes, estas son:
@@ -80,6 +82,7 @@ Nueva mochila: image.png
 
 Nuevos bloques stackeados: image.png y image.png
 
+## [Enchatamiento](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/encartamiento.md) 
 -ENCANTAMIENTOS:
 -Nuevo encantamiento para el tridente que atrae objetos: Hydromagic Attraction
 Nivel Máximo 1 
