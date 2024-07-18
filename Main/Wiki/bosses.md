@@ -1,4 +1,3 @@
-#Boss
 ## [Dia 0](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%200.md) 
 
 ### Wither Boss
