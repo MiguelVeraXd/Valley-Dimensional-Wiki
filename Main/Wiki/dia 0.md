@@ -4,35 +4,35 @@
 
 - Los ghast ahora trackean desde 64 bloques.
 
-- Los husk, al estar en contacto con luz, se les añaden los efectos de velocidad 3 y fuerza 3.
+- Los husk, al estar en contacto con luz, se les añaden los efectos de "Speed III" y "Strenght III".
 
 - Al tener el efecto de "Bad Omen" los mobs pacíficos te atacaran y tendrás "Weakness I".
 
 ## Items Nuevos
 
-Se añade un boomerang el cual se puede encantar y hace daño a melee, su crafteo es el siguiente:
+- Se añade el "Boomerang" un nuevo item que se puede encantar y con el cual se puede hacer daño tanto a distancia como a melee, su crafteo es el siguiente:
 
 ![boomerang](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/boomerang.png)
 
-Se añade una mochila con el siguiente crafteo:
+Se añade una "Mochila" con el siguiente crafteo:
 
 ![mochila](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/mochila.png)
 
-## Cambio al Vanilla
+## Cambios al Gameplay Vanilla
 
-El totem cambia su crafteo al siguiente:
+Se cambia el método de obtención de los "Totems de la Inmortalidad". Su crafteo es el siguiente:
 
 ![totem](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/totem.png)
 
-El faro cambia su crafteo al siguiente:
+El "Faro" cambia su crafteo al siguiente:
 
 ![faro](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/faro.png) 
 
-La torchflower ilumina y da regeneración en un radio
+Las Torchflower iluminan y dan "Regeneration I" en un radio de 7 bloques.
 
-Los warden tienen una probabilidad de dropear un libro de sigilo con un porcentaje del 60%
+Los Warden tienen una probabilidad de dropear un libro de sigilo rápido de nivel I al III con un porcentaje del 60%.
 
-Por cada nivel de raid aumenta su dificultad, se agrega nivel 1, 2 y 3. Cada nivel que tiene diferente dificultad y entre mayor nivel mejor la loot table.
+Por cada nivel de Raid aumenta su dificultad, se agrega nivel 1, 2 y 3. Cada nivel que tiene diferente dificultad y entre mayor nivel mejor la loot table.
 
 Ahora la reforced deepslate se puede obtener minando el bloque
 
