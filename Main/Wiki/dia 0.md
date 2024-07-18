@@ -1,6 +1,6 @@
 ## Cambios de Dificultad
 
-Los phantoms y los evokers son más agresivos
+- Los phantoms y los evokers son más agresivos
 
 El ghast ahora trackea desde 64 bloques
 
