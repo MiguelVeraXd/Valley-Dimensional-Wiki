@@ -1,4 +1,4 @@
-## [Dia 0](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%205.md) 
+## [Dia 0](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%200.md) 
 
 ![invetario](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/items/invetario.png)
 
