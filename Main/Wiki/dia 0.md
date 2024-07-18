@@ -14,41 +14,41 @@
 
 ![boomerang](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/boomerang.png)
 
-Se añade una "Mochila" con el siguiente crafteo:
+- Se añade una "Mochila" con el siguiente crafteo:
 
 ![mochila](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/mochila.png)
 
 ## Cambios al Gameplay Vanilla
 
-Se cambia el método de obtención de los "Totems de la Inmortalidad". Su crafteo es el siguiente:
+- Se cambia el método de obtención de los "Totems de la Inmortalidad". Su crafteo es el siguiente:
 
 ![totem](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/totem.png)
 
-El "Faro" cambia su crafteo al siguiente:
+- El "Faro" cambia su crafteo al siguiente:
 
 ![faro](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/faro.png) 
 
-Las "Torchflower" iluminan y dan "Regeneration I" en un radio de 7 bloques.
+- Las "Torchflower" iluminan y dan "Regeneration I" en un radio de 7 bloques.
 
-Los "Warden" tienen una probabilidad de dropear un libro de sigilo rápido de nivel I al III con un porcentaje del 60%.
+- Los "Warden" tienen una probabilidad de dropear un libro de sigilo rápido de nivel I al III con un porcentaje del 60%.
 
-Las "Raids" aumentan su dificultad, se agregan los niveles 1, 2 y 3. Cada nivel tiene una diferente dificultad y entre mayor sea el nivel mejor será la loot table.
+- Las "Raids" aumentan su dificultad, se agregan los niveles 1, 2 y 3. Cada nivel tiene una diferente dificultad y entre mayor sea el nivel mejor será la loot table.
 
-Ahora se pueden obtener los bloques de "Reforced Deepslate".
+- Ahora se pueden obtener los bloques de "Reforced Deepslate".
 
-Ahora se pueden cocinar los bloques de minerales crudos.
+- Ahora se pueden cocinar los bloques de minerales crudos.
 
-Todas las herramientas y armaduras que no sean de netherite tienen la mitad de usos.
+- Todas las herramientas y armaduras que no sean de netherite tienen la mitad de usos.
 
-Los "Wandering Traders" mejoran sus tradeos.
+- Los "Wandering Traders" mejoran sus tradeos.
 
-Se cambia el aldeano carnicero por un "Aldeano de Redstone".
+- Se cambia el aldeano carnicero por un "Aldeano de Redstone".
 
-Los "Aldeanos" trabajan en tormenta.
+- Los "Aldeanos" trabajan en tormenta.
 
-La "Miel" quita el "Fatal Poison".
+- La "Miel" quita el "Fatal Poison".
 
-Hay "Fast Totem".
+- Hay "Fast Totem".
 
 ## ![Artifacts](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/wiki.md)
 
