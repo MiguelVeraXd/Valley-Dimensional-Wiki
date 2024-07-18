@@ -71,19 +71,19 @@
 ## Bosses
 * El "Wither Boss" aumenta su dificultad, sus cambios son:
 
-> 100 corazones más.
+__100 corazones más.__
 
-> Anula los efectos de los "Faros" en un radio de 50 bloques.
+__Anula los efectos de los "Faros" en un radio de 50 bloques.__
 
-> Tiene una mejor regeneración de vida.
+__Tiene una mejor regeneración de vida.__
 
 * Se le añade una segunda fase en la cual:
 
-> Tiene mayor velocidad.
+__Tiene mayor velocidad.__
 
-> Mayor regeneración de vida.
+__Mayor regeneración de vida.__
 
-> Invoca un "Defensor" el cual es inmortal y solo muere cuando matas al Wither.
+__Invoca un "Defensor" el cual es inmortal y solo muere cuando matas al Wither.__
 
 * En el "Nether" este boss se vuelve más complicado, sin embargo, esta dificultad se compensa con su loot el cual son 4 libros de "Nivel 40 de Enchanting" y un libro de "Mending I" (aun así, la Nether Star sigue siendo parte de la loot table).
 
@@ -101,12 +101,12 @@ __"Fluorita": se genera en cualquier bioma desde la capa 0 hasta la -59 y solo s
 
 * En los "Biomas de Nieve" se genera una nueva estructura la cual contiene un nuevo item que sirve para la elaboración de diversos crafteos.
 
-* Los "Desiertos" se vuelven más sofocantes provocando así alucinaciones las cuales solo se pueden quitar al estar en contacto con agua. De igual manera, se recomienda llevar una "Brocha" para encontrar nuevos tesoros tanto en las pirámides como en la arena de los mismos.
+* Los "Desiertos" se vuelven más sofocantes provocando así alucinaciones las cuales solo se pueden quitar al estar en contacto con agua. De igual manera, se recomienda llevar una "Brocha" para encontrar nuevos tesoros.
 
-* En la "Jungla" podrás encontrar un comerciante bastante interesante.
+* En las "Junglas" podrás encontrar un comerciante bastante interesante.
 
-* En los "Pantanos" se genera una nueva estructura la cual viene acompañada de un atril el cual muestra las instrucciones a seguir para la invocación de un nuevo mini-boss.
+* En los "Pantanos" se genera una nueva estructura la cual viene acompañada de un atril que muestra las instrucciones a seguir para llevar a cabo la invocación de un nuevo "Mini-Boss".
 
-* Hay una villa abandonada en la savana la cual tiene un item nuevo.
+* En las "Savannas" se genera una nueva estructura.
 
 * La loot table de TODAS las estructuras ha sido mejorada.
