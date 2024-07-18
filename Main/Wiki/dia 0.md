@@ -54,7 +54,7 @@
 
 - Se añade la mecánica de los "Amuletos" en los slots 9,18,27.
 
-
+![invetario](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/items/invetario.png)
 
 - La "Raíz de Manglar" es un nuevo amuleto con el siguiente crafteo:
 
