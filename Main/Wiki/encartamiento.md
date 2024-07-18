@@ -1,4 +1,4 @@
-## ![Dia 5](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%205.md) 
+## [Dia 5](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%205.md) 
 
 El comerciante de la jungla tiene nuevos tradeos, estos son:
 
@@ -6,7 +6,7 @@ El comerciante de la jungla tiene nuevos tradeos, estos son:
 - **Crop Renewal Nivel Máximo 1:** Cuando golpeas un cultivo no crecido este no se rompe.
 - **Woodland Wrath Nivel Máximo 1:** Al talar un árbol este se rompe completo.
 
-## ![Dia 10](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%2010.md)
+## [Dia 10](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%2010.md)
 
 Nuevo encantamiento para el tridente que atrae objetos: **Hydromagic Attraction Nivel Máximo 1**
 
@@ -16,7 +16,7 @@ Nuevo encantamiento para el tridente que atrae objetos: **Hydromagic Attraction 
 - **Fragmentáctil Nivel Máximo 1:** herramientas que permite cambiar entre **Fortuna 3** y **Toque de Seda:**
 - **Hydromagic Attraction Nivel Máximo 1:** El tridente puede atraer los ítems al ser lanzado. tridente
 
-## ![Dia 15](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%2015.md)
+## [Dia 15](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%2015.md)
 
 - **Butcher Nivel Máximo 5:** para las arma melee que hace más daño a los enemigos cerdos: 
 - **Growing Vitality Nivel Máximo 5:** para las armaduras que aumenta la regeneración en 0.4 por nivel: 
