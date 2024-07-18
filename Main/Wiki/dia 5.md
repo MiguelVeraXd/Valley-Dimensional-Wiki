@@ -1,13 +1,13 @@
 ## Cambios de Dificultad
 
-[Creeper ahora son RegenCreeper:
-son eléctricos.
-puede ver atravez de la paredes.
-cada que explota se puede regenerar como nuevo RegenCreeper en un radio 5 bloques donde explotó.
-lleva un tótem.
-tiene efectos de speed 2 y resistencia 2 infinita]
+* Todos los creeper ahora son "RegenCreeper":
+__Son eléctricos.__
+__Pueden ver a través de las paredes.__
+__Cada vez que explotan se pueden regenerar como nuevo RegenCreeper en un radio 5 bloques de donde explotan inicialmente.__
+__Llevan un Tótem de la Inmortalidad equipado.__
+__Tienen los efectos de "Speed II" y "Resistance II" de manera infinita__
 
-[Ghast
+* Todos Ghast
 tienen más salud (50 punto de vida = 25 corazones).
 tiene regeneración de nivel 1 infinita.
 Mayor velocidad de movimiento.
