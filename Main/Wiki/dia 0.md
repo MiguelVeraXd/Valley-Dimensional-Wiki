@@ -20,7 +20,7 @@
 
 ## Cambios al Gameplay Vanilla
 
-* Se cambia el método de obtención de los "Totems de la Inmortalidad". Su crafteo es el siguiente:
+* Se cambia el método de obtención de los "Tótems de la Inmortalidad". Su crafteo es el siguiente:
 
 ![totem](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/totem.png)
 
