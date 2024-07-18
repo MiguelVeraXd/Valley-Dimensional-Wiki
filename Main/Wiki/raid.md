@@ -1,3 +1,34 @@
+## Dificultad:
+
+### Configuración de Raid Nivel 3: Pillager Avanzado
+
+**Características del Pillager Avanzado**
+
+#### Ataque Mejorado
+
+- **Rango de Ataque Ampliado**: Los pillagers en el nivel 3 de raid pueden atacar desde una distancia mayor, con un rango de ataque de hasta 8 bloques.
+- **Precisión de Disparo**: Los pillagers disparan flechas con mayor precisión, haciendo que sus ataques a distancia sean más letales.
+
+#### Efectos de Pocion
+
+- **Resistencia Mejorada**: Los pillagers tienen un efecto de resistencia nivel 1 permanente, lo que reduce el daño que reciben y los hace más difíciles de derrotar.
+- **Velocidad Mejorada**: Los pillagers también cuentan con un efecto de velocidad nivel 1 permanente, permitiéndoles moverse más rápido y esquivar ataques con mayor facilidad.
+
+#### Detalles Técnicos
+
+- **Configuración de Comportamiento**
+  - **Sensor de Daño**: Los pillagers de nivel 3 tienen un sensor de daño que les permite evitar ciertos tipos de daño bajo condiciones específicas.
+  - **Ataque a Distancia**: Prioridad alta en ataques a distancia, con intervalos de ataque muy cortos (1 segundo).
+  - **Selección de Objetivos**: Los pillagers pueden atacar a jugadores, golems de nieve, golems de hierro, y comerciantes errantes dentro de un radio de 18 bloques. También pueden atacar a aldeanos adultos.
+
+#### Equipamiento
+
+- **Ballesta Encantada**: Los pillagers pueden dejar caer una ballesta con los encantamientos Quick Charge III y Piercing IV.
+
+Tabla de Loot:
+["Raid de nivel 3"](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/edit/main/Main/Wiki/raid.md#raid-de-nivel-3)
+
+
 ## Loot Table
 
 ### Raid de nivel 2:
