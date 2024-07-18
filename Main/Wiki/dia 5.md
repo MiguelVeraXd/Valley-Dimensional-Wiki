@@ -90,65 +90,67 @@ __Dropean "Soul of Enderman".__
 
 * El casco de tortuga te hace inmune a la asfixia en "Nether".
 
+## Bosses
+
 * Se añaden nuevos bosses. Realizar los siguientes functions te brindará su información correspondiente:
-*/blizzard_lord_info
-*/flame_sentinel_info
 
-Los siguiente bosses seran explicados por vc:
-Guardian de las profundidades
+/blizzard_lord_info
+
+/flame_sentinel_info
+
+Guardián de las Profundidades
 Demonic Goat
-Warden of devastation
+Warden of Devastation
 
-los zombies convierten de un solo golpe a los aldeanos en "aldeanos zombies pequeños"
+* Los zombies convierten de un solo golpe a los aldeanos en "Aldeanos Zombies Bebés".
 
-Hay un 5% de que al interactuar con un aldeano, te de efecto de bad omen lvl3
+* Hay un 5% de que al interactuar con un aldeano, te de efecto de "Bad Omen III".
 
-Los pigman son siempre agresivos y cada que recibe daño de un player, hace un fill de 1x4x1 en su posición
+* Los pigmans siempre son agresivos y cada vez que reciben daño de un jugador, hacen un fill de 1x4x1 en su posición.
 
-Los mob pacifico hace el doble de daño
+* Los mobs pacíficos hacen el doble de daño.
 
-Los magmacube:[al morir dejan un cubo de lava en sus bloques.]
+* Los magma cubes al morir dejan lava.
 
-Los iren golem tiene el efecto resistencia al fuego de manera infinita
+* Los iron gólems tienen el efecto "Fire Resistance" de manera infinita.
 
-Los guardianes tienen la capacidad de paralizar con su ataque láser durante 7 segundos
+* Los guardianes tienen la capacidad de paralizar con su ataque láser durante 7 segundos.
 
-a Los zombies y zombies aldeanos no le hace daño la luz del sol.
+* A los zombies y zombies aldeanos ya no les hace daño la luz del sol.
 
-Los Slimes ahora son de colores y cada color hace cosas distintas.
+* Los slimes ahora son diferentes colores y cada color representa una variante que a su vez hace cosas distintas:
 
-[el azul te da ceguera por 1 minuto].
+__Azul: Te dan "Blindness" por 1 minuto.__
 
-[el rojo te prenden en fuego cuanto te pega y lanza fuego por la boca].
+__Rojo: Te prenden en fuego cuando te pegan y lanzan fuego por la boca.__
 
-[el verde te da el efecto de veneno por 1 minuto de nivel 2].
+__Verde: Te dan el efecto de "Poison II" por 1 minuto.__
 
-Los phantoms han cambiado, al golpearte te inyectan alguna sustancia dañina que no se elimina al menos que tomes leche o gastes totem.
+* Los phantoms han cambiado y ahora al golpearte te inyectan una sustancia dañina cuya cura solo se encuentra al tomar leche o gastar tótem.
 
-Los Zombies y Husks tienen Knockback Resistance 1.0
+* Los zombies y husks tienen Knockback Resistance 1.0.
 
-Se puede cambiar de clase y todas se mejoran.
+* Los jugadores se pueden cambiar de clase nuevamente y todas estas se han mejorado.
 
 ## Eventos
-El Auge de la Luna: 
 
-Descripción: "Moon light" es un evento que ocurre cuando la luna alcanza su punto más alto en el cielo y brilla con una intensidad deslumbrante. Durante esta noche mágica, los mobs se llenan de poder espiritual y se vuelven mucho más desafiantes, ofreciendo a los valientes aventureros una oportunidad única para probar su valía.
+* El Auge de la Luna (Moonlight): 
 
-Características del evento:
+__Este es un evento el cual ocurre cuando la luna alcanza su punto más alto en el cielo y brilla con una intensidad deslumbrante (Luna Llena). Durante esta noche mágica, los mobs se llenan de poder espiritual y se vuelven mucho más desafiantes, ofreciendo a los valientes aventureros una oportunidad única para probar su valía.__
 
-Fragmento de etérea : Durante el evento "Moon light", los Mod de evento tienen una probabilidad de dejar caer un misterioso "Fragmento de etérea" al ser derrotados.
+* Características del Evento:
 
-Estos fragmentos son objetos valiosos que contienen la esencia etérea del mundo.
+__Fragmento de Etérea: Durante el evento "Moonlight", los mobs del mismo tienen una probabilidad de dropear un misterioso "Fragmento de Etérea" al ser derrotados.__
 
-Duración del evento: El evento "Moon Full" dura el doble de una noche completa en el juego.
+__Duración del Evento: El evento "Moonlight" dura el doble de una noche completa en el juego.__
 
-Mobs: durante el evento pueden spawnear diferentes mobs:
+__Mobs: Durante el evento pueden spawnear diferentes mobs...__
 
-slime negativo: el doble de grande y tiene más vida y cuanto te pega te rota la cámara en 180 grados.
+__*Slimes Negativos:*__ Son el doble de grandes, tienen más vida y cuando te pegan te rotarán la cámara en un ángulo de 180 grados.
 
-Almas en pena: son zombies que tienen distintas capacidades las cuales son, de, robar la vida cuanto te pega tiene 60 puntos de vida y tiene 13 daño base y son más rápidos (como zombie pequeño).
+__*Almas en Pena:*__ Son zombies de varias cualidades; roban vida al pegarte, tienen 60 puntos de vida (30 corazones), tienen 13 puntos daño base y son más rápidos (velocidad similar a la de un zombie bebé).
 
-Guerrero vagante; es un vindicador que cuando hace daño su fuerza aumenta, y tiene 60 puntos de vida
+__*Guerrero Vagante:*__ Este es un vindicador que cuando hace daño su fuerza aumenta, y tiene 60 puntos de vida
 
 Invocador de calamidades; este nuevo evocador tiene la capacidad de cada 10 segundos invocar un mob pacifico, además no recibe daño por flechas, invocar golpes como método de defensa y al estar cercas de él en un
 
