@@ -32,7 +32,7 @@ Al tenerlo equipado en los slots 9, 18 y 27, y al gastar un tótem, obtendrás e
 - Anillo Invisibility
 llevarlo equipado en los slots 9, 18 y 27, te da el efecto invisibilidad
 
-## [Dia 10](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%2015.md)
+## [Dia 10](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%2010.md)
 
 Al equipar el Talismán de Lava en los espacios (9), (18) y (27):
 Este objeto te proporciona 7 segundos de resistencia al fuego
