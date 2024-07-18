@@ -36,48 +36,55 @@ __Su espada ahora es de netherite, además, tiene "Sharpness V" y "Fire Aspect I
 
 __Cuando te pegan a melee te dan "Wither II" por 10 segundos.__
 
-* Los piglins muestran un aumento en su "IQ", lo que los hace más hábiles en cuanto a el uso de sus recursos. A continuación, se presentan algunas mejoras que se observan en su comportamiento:
+* Los Piglins muestran un aumento en su "IQ", lo que los hace más hábiles en cuanto a el uso de sus recursos. A continuación, se presentan algunas mejoras que se observan en su comportamiento:
 
-Utilización de la Perla de Ender.
+__Utilización de la Perla de Ender.__
 
-Uso de pociones de "Fire Resistance".
+__Uso de pociones de "Fire Resistance".__
 
-Cargan sus ballestas con flechas de efecto de Wither.
+__Cargan sus ballestas con flechas de efecto de Wither.__
 
-Mejor aprovechamiento de los encantamientos.
+__Mejor aprovechamiento de los encantamientos.__
 
-Armaduras mejoradas
+__Utilización de la Manzana de Oro.__
 
-Utilización de la Manzana de Oro.
+* Las Arañas:
 
-Batalla con encantamientos diversos]
+__Están equipadas con un casco de diamante encantado con Thorns XX y Protection II, además, traen consigo unas botas de diamante encantadas con Depth Strider V y Fire Protection IV y Thorns XX.__
 
-[Arañas
-Ahora están equipadas con un casco encantado con Espinas nivel 20 y Protección 2, tambien: 
-llevan unas botas especiales con Agilidad Acuática 5 y Protección contra el Fuego 4 y Espinas nivel 20] 
-[Ahogado:
-siempre lleva tridente con empalamiento XXV.
-spawnean por todo el overworld donde haya agua.
-son más veloces.
-ataca a 50 bloques de radio.
-al impactarte su tridente, este tiene una probabilidad del 25% de hacerte tp a su posicion.
-tiene menos drop de tridente.]
+* Los Ahogados:
 
-[Mirror Skeleton:
-El Esqueleto Espejo es similar a un esqueleto normal que aparece en el mundo. Sin embargo, su mecánica se basa en invertir los efectos positivos en negativos.
-lleva armadura de hierro]
+__Siempre llevan un Tridente con Impaling XXV.__
 
-[Aldeano zombie
-Aura de desesperación: Los aldeanos zombies te dan el efecto de debilidad 3 y lentitud 2 por 7 segundos]
+__Spawnean por todo el Overworld en cualquier lugar donde haya agua.__
 
-Los enderman:[su daño pasa a ser daño de vacío (no te salva el totem).
-dropea "soul enderman"]
+__Son más veloces.__
 
-[las Brujas al morir lanzan una pocion con efectos negativos aleatorios.]
+__Atacan en un radio de 50 bloques.__
 
-El oxigeno dejo de llegar a la dimension del nether, es nor mal asfixiarte debtro de esta dimension.
+__Al impactarte con su Tridente, este tiene una probabilidad del 25% de hacerte tp a su posición.__
 
-Hay un nuevo item que se consigue dando click derecho con una botella en mano: este item te permite refiliar tu oxigeno en el nether.
+__Tiene menos probabilidad de dropear su Tridente.__
+
+* Mirror Skeletons:
+
+__Siempre llevan una armadura de hierro.__
+
+__Su mecánica se basa en invertir los efectos del jugador, pasándolos de positivos a negativos.__
+
+* Aldeanos Zombies:
+
+__Aura de desesperación: Los aldeanos zombies te dan el efecto de "Weakness III" y "Slowness II" por 7 segundos al estar cerca de ellos.__
+
+* Los Endermans:
+
+__Ahora hacen daño de vacío (no te salva el tótem).__
+
+__Dropean "Soul of Enderman".__
+
+* Las Brujas al morir lanzan una poción de un efecto negativo completamente aleatorio.
+
+* El oxígeno dejó de llegar a la dimensión del "Nether", por lo tanto, ahora es normal asfixiarte dentro de esta dimensión.
 
 el efecto de respiracion afecta en la dimension del nether.
 
@@ -166,6 +173,8 @@ Crop Renewal: Cuando golpeas un cultivo no crecido este no se rompe.
 Woodland Wrath: Al talar un árbol este se rompe completo.
 
 ## Items Nuevos
+
+* Hay un nuevo item que se consigue dando click derecho con una botella en mano: este item te permite refiliar tu oxigeno en el nether.
 
 Espada de las almas perdidas, quita el efecto de darkness y hace barrido:
 
