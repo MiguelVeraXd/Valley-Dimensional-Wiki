@@ -68,6 +68,10 @@
 
 ![Amuleto del caos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/amuleto_del_caos.png)
 
+* La "Piedra Solar" es un nuevo item que se puede encontrar en una nueva estructura que aparece en las savannas. Al equiparse este objeto, aumenta tu regeneración en +1 y te quita la ceguera solo funciona de dia solar
+
+* La "Ankh" se puede obtener en una Pirámides de desierto o en arena sospechosa cuanto está debajo 4 corazones se activa el Ankh haciendo que sea inmune al daño por 8 segundos ankh
+
 ## [Bosses](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/bosses.md)
 * El "Wither Boss" aumenta su dificultad, sus cambios son:
 
