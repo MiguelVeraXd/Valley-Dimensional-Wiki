@@ -5,15 +5,15 @@
 | minecraft:emerald               | set_count(3-4), looting_enchant(0-2)                               | 20            | 3-4               |        Raid       |
 | minecraft:emerald               | set_count(5-6), looting_enchant(0-2)                               | 8             | 5-6               |        Raid       |
 | minecraft:book                  | enchant_with_levels(30, treasure=true)                             | 8             | 1                 |        Raid       |
-| minecraft:diamond_pickaxe       | enchant_with_levels(20-39, treasure=true), set_damage(0.3-0.9)     | 10            | 1                 |      Raid          |
-| minecraft:iron_axe              | enchant_with_levels(20-39, treasure=true), set_damage(0.3-0.9)     | 10            | 1                 |      Raid          |
-| minecraft:iron_shovel           | enchant_with_levels(20-39, treasure=true), set_damage(0.3-0.9)     | 10            | 1                 |       Raid         |
-| minecraft:iron_sword            | enchant_with_levels(20-39, treasure=true), set_damage(0.3-0.9)     | 10            | 1                 |       Raid         |
-| minecraft:iron_helmet           | enchant_with_levels(20-39, treasure=true), set_damage(0.3-0.9)     | 10            | 1                 |       Raid         |
-| minecraft:iron_chestplate       | enchant_with_levels(20-39, treasure=true), set_damage(0.3-0.9)     | 10            | 1                 |      Raid          |
+| minecraft:diamond_pickaxe       | enchant_with_levels(20-39, treasure=true), set_damage(0.3-0.9)     | 10            | 1                 |     Raid          |
+| minecraft:iron_axe              | enchant_with_levels(20-39, treasure=true), set_damage(0.3-0.9)     | 10            | 1                 |     Raid          |
+| minecraft:iron_shovel           | enchant_with_levels(20-39, treasure=true), set_damage(0.3-0.9)     | 10            | 1                 |     Raid         |
+| minecraft:iron_sword            | enchant_with_levels(20-39, treasure=true), set_damage(0.3-0.9)     | 10            | 1                 |     Raid         |
+| minecraft:iron_helmet           | enchant_with_levels(20-39, treasure=true), set_damage(0.3-0.9)     | 10            | 1                 |     Raid         |
+| minecraft:iron_chestplate       | enchant_with_levels(20-39, treasure=true), set_damage(0.3-0.9)     | 10            | 1                 |     Raid          |
 | minecraft:iron_leggings         | enchant_with_levels(20-39, treasure=true), set_damage(0.3-0.9)     | 10            | 1                 |     Raid           |
-| minecraft:iron_boots            | enchant_with_levels(20-39, treasure=true), set_damage(0.3-0.9)     | 10            | 1                 |  Raid              |
-| minecraft:golden_apple          | set_count(4)                                                       | 100%          | 4                 |  Ravager           |
+| minecraft:iron_boots            | enchant_with_levels(20-39, treasure=true), set_damage(0.3-0.9)     | 10            | 1                 |     Raid              |
+| minecraft:golden_apple          | set_count(4)                                                       | 100%          | 4                 |     Ravager           |
 
 
 
@@ -33,4 +33,4 @@
 | minecraft:diamond_leggings      | enchant_with_levels(20-39, treasure=true), set_damage(0.3-0.9)     | 10            | 1                 |      Raid      |
 | minecraft:diamond_boots         | enchant_with_levels(20-39, treasure=true), set_damage(0.3-0.9)     | 10            | 1                 |      Raid      |
 | minecraft:golden_apple          | set_count(8)                                                       | 100%          | 8                 |     Ravager    |
-| mv:totem_void                   | set_count(8)                                                       | 100%          | 8                 |Evocation Illager |
+| mv:totem_void                   | set_count(8)                                                       | 100%          | 1                 |Evocation Illager |
