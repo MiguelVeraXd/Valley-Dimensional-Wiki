@@ -1,12 +1,12 @@
 ## Cambios de Dificultad
 
-- Los phantoms y los evokers son más agresivos
+- Los phantoms y los evokers son más agresivos.
 
-El ghast ahora trackea desde 64 bloques
+- Los ghast ahora trackean desde 64 bloques.
 
-Los husk al estar en contacto con luz se le añaden los efectos de velocidad 3 y fuera 3
+- Los husk, al estar en contacto con luz, se les añaden los efectos de velocidad 3 y fuerza 3.
 
-Al tener el bad omen los mobs pacíficos te atacaran y tendrás debilidad
+- Al tener el efecto de "Bad Omen" los mobs pacíficos te atacaran y tendrás "Weakness I".
 
 ## Items Nuevos
 
