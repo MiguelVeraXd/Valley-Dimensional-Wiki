@@ -8,8 +8,6 @@ El comerciante de la jungla tiene nuevos tradeos, estos son:
 
 ## [Dia 10](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%2010.md)
 
-Nuevo encantamiento para el tridente que atrae objetos: **Hydromagic Attraction Nivel Máximo 1**
-
 - **Ethereal Piercing Nivel Máximo 1:** Hace que la flecha no tenga colisión y pueda pasar a través de todos los bloques.
 - **Fire Riptide Nivel Máximo 1:** Funciona como el riptide normal pero en fuego y lava.
 - **Sharp Ignition Nivel Máximo 3:** Incrementa significativamente el daño a los mobs en fuego o lava.
