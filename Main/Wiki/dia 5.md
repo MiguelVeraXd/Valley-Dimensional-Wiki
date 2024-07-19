@@ -206,9 +206,9 @@ El cuero de cabra se consigue usando unas tijeras con una cabra demoníaca.
 
 image.png
 
-* Nuevo "Yunque de Fluorita": Utilizado para la aplicación de los nuevos encantamientos.
+* Nuevo "Yunque de Fluorita Reforzada": Utilizado para la aplicación de los nuevos encantamientos.
 
-image.png
+![yunque_de_fluorita_reforzada](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/yunque_de_fluorita_reforzada.png)
 
 * Nuevo "Lingote de Glaciarium": Utilizando en la elaboración de los nuevos arcos. 
 
