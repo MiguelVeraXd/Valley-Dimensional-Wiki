@@ -34,7 +34,7 @@
 
 * Las ["Raids"](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/raid.md) aumentan su dificultad, se agregan los niveles 1, 2 y 3. Cada nivel tiene una diferente dificultad y entre mayor sea el nivel mejor será la loot table.
 
-* Ahora se pueden obtener los bloques de "Reforced Deepslate".
+* Ahora se pueden obtener los bloques de "Reinforced Deepslate".
 
 * Ahora se pueden cocinar los bloques de minerales crudos.
 
