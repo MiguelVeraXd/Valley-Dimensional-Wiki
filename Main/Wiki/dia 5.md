@@ -192,6 +192,8 @@ __*Woodland Wrath:*__ Al talar un árbol, toda la madera de este se romperá por
 
 ![escudo_infernal](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/escudo_infernal.png)
 
+*Los bloques de obsidiana son "Bloques de Obsidiana x8"*
+
 * Nueva mejora para las botas, se consigue haciendo que una rana se coma a un magma cube (las ranas spawnean en el nether de manera natural y estas son atacadas por todos los mobs hostiles).
 
 * Nuevo "Brewing Stand": Sirve para combinar, potenciar y amplificar la duración de las pociones, llevándolas así a nuevos niveles.
