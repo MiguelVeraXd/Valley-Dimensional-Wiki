@@ -222,7 +222,7 @@ image.png
 
 * Levitación Etérea: 
 
-image.png
+![levitación_etérea](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/levitaci%C3%B3n_et%C3%A9rea.png)
 
 * Bendición Wither:
 
