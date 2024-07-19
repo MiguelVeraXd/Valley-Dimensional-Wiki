@@ -222,7 +222,7 @@ image.png
 
 * Levitación Etérea: 
 
-![test](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/Lunar%20Client%201.19.4%20(v2.7.2-2324)%202023-06-22%2010-41-51.gif)
+image.png
 
 * Bendición Wither:
 
