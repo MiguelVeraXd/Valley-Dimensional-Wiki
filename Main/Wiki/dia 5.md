@@ -214,9 +214,9 @@ image.png
 
 image.png
 
-Nuevo "Invocador del Guardian de las Profundidades".
+Nuevo "Invocador del Guardián de las Profundidades".
 
-image.png
+![invocador_del_guardián_de_las_profundidades](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/invocador_del_guardi%C3%A1n_de_las_profundidades.png)
 
 ## [Amuletos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/amuletos.md)
 
