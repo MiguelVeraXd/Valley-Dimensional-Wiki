@@ -230,7 +230,7 @@ image.png
 
 * Anillo de Invisibilidad:
 
-image.png
+![anillo_de_invisibilidad](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/anillo_de_invisivilidad.png)
 
 * Esencia de Agua:
 
