@@ -22,7 +22,7 @@
 
 * Se cambia el método de obtención de los "Tótems de la Inmortalidad". Su crafteo es el siguiente:
 
-![totem](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/totem.png)
+![títem_de_la_inmortalidad](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/totem.png)
 
 * El "Faro" cambia su crafteo al siguiente:
 
