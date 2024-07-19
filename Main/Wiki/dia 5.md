@@ -218,17 +218,17 @@ image.png
 
 Nuevo "Invocador del Guardián de las Profundidades".
 
-![invocador_del_guardián_de_las_profundidades](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/invocador_del_guardian_de_las_profundidades)
+![invocador_del_guardian_de_las_profundidades](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/invocador_del_guardian_de_las_profundidades)
 
 ## [Amuletos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/amuletos.md)
 
 * Levitación Etérea: 
 
-![levitación_etérea](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/levitacion_eterea.png)
+![levitación_eterea](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/levitacion_eterea.png)
 
 * Bendición Wither:
 
-![bendición_wither](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/bendicion_wither) 
+![bendicion_wither](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/bendicion_wither) 
 
 * Anillo de Invisibilidad:
 
