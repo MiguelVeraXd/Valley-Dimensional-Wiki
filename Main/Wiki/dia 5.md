@@ -226,7 +226,7 @@ image.png
 
 * Bendición Wither:
 
-image.png
+![bendición_wither]() 
 
 * Anillo de Invisibilidad:
 
