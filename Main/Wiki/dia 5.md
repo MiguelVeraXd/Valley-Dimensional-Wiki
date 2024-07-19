@@ -212,7 +212,7 @@ image.png
 
 * Nuevo "Lingote de Glaciarium": Utilizando en la elaboración de los nuevos arcos. 
 
-image.png
+![lingote_de_glaciarium](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/lingote_de_glaciarium.png)
 
 Nuevo "Invocador del Guardián de las Profundidades".
 
