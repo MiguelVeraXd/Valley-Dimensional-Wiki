@@ -172,27 +172,33 @@ __*Woodland Wrath:*__ Al talar un árbol, toda la madera de este se romperá por
 
 * Hay un nuevo item que se consigue dando click derecho con una botella en mano: este item te permite refiliar tu oxigeno en el nether.
 
-Espada de las almas perdidas, quita el efecto de darkness y hace barrido:
+* "Espada de las Almas Perdidas": Quita el efecto de "Darkness" y hace barrido:
 
-![espada_de_almas](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/espada_de_las_almas_perdidas.png) 
+![espada_de_las_almas_perdidas](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/espada_de_las_almas_perdidas.png) 
 
-Espada del anochecer, hace daño a melee sin importar la armadura:image.png
+* "Espada del Anochecer": Hace daño a melee sin importar la armadura:
 
 ![espada_del_anochecer](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/espada_del_anochecer.png) 
 
-Arco de vida:
+* Arco de vida:
 
 ![arco_vida](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/arco_de_vida.png) 
 
-Arco de hielo:
+* Arco de hielo:
 
 ![arco_hielo](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/arco_de_hielo.png) 
 
-Nuevo escudo: image.png
+* Nuevo Escudo:
 
-Nueva mejora para las botas, se consigue haciendo que una rana se coma a un magma cube (las ranas spawnean en el nether de normal y son atacadas por todos los mobs).
+image.png
 
-Nuevo brewing stand (los bloques de obsidiana son 8 bloques stackeados), sirve para combinar, mejorar, aumentar el poder y hacer nuevas pociones combinadas: image.png
+* Nueva mejora para las botas, se consigue haciendo que una rana se coma a un magma cube (las ranas spawnean en el nether de manera natural y estas son atacadas por todos los mobs hostiles).
+
+* Nuevo "Brewing Stand": Sirve para combinar, potenciar y amplificar la duración de las pociones a nuevos niveles.
+
+image.png
+
+*Los bloques de obsidiana son "Bloques de Obsidiana x8"*
 
 El cuero de cabra se consigue usando unas tijeras con una cabra demoníaca.
 
