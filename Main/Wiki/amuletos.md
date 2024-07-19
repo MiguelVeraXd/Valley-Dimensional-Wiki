@@ -12,10 +12,9 @@
 
 ![Amuleto del caos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/amuleto_del_caos.png)
 
-- La "Piedra Solar" se puede encontrar en una [mazmorra](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%200.md#generaci%C3%B3n-del-mundo) que aparece en las savannas. Al equipar este objeto, aumenta tu regeneración en +1 y te quita la Blindness, sin embargo, solo funcionará de día ![piedra_solar](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/items/solar_stone.png)
+- La "Piedra Solar" se puede encontrar en una [mazmorra](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%200.md#generaci%C3%B3n-del-mundo) que aparece en las savannas. Al equipar este objeto, aumenta tu regeneración en +1 y te quita la Blindness, sin embargo, solo funcionará de día. ![piedra_solar](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/items/solar_stone.png)
 
-- La "Ankh" se puede obtener en una [Pirámides de desierto](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%200.md#generaci%C3%B3n-del-mundo) o en arena sospechosa
-cuanto está debajo 4 corazones se activa el Ankh haciendo que sea inmune al daño por 8 segundos ![ankh](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/items/ankh.png)
+- El "Ankh" se puede obtener en [Pirámides de Desierto](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%200.md#generaci%C3%B3n-del-mundo) o en "Arena Sospechosa". Cuando la vida del jugador está debajo de 4 corazones se activa, haciendolo inmune al daño durante 8 segundos. ![ankh](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/items/ankh.png)
 
 ## [Dia 5](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%2010.md)
 
