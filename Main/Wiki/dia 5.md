@@ -234,4 +234,4 @@ image.png
 
 * Esencia de Agua:
 
-image.png
+![escencia_de_agua](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/escencia_de_agua.png)
