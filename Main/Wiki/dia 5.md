@@ -190,7 +190,7 @@ __*Woodland Wrath:*__ Al talar un árbol, toda la madera de este se romperá por
 
 * Nuevo Escudo:
 
-image.png
+![escudo_infernal](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/escudo_infernal.png).
 
 * Nueva mejora para las botas, se consigue haciendo que una rana se coma a un magma cube (las ranas spawnean en el nether de manera natural y estas son atacadas por todos los mobs hostiles).
 
