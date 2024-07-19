@@ -162,11 +162,11 @@ Drop = "Arco Roto Sombrío" (el cual es un arco que tendrá los encantamiento de
 
 * El comerciante de la jungla tiene nuevos tradeos, estos son:
 
-__Mining Cataclysm: Al picar un mineral, todos los minerales del mismo tipo que estén adyacentes a este serán destruidos por igual.__
+__*Mining Cataclysm:*__ Al picar un mineral, todos los minerales del mismo tipo que estén adyacentes a este serán destruidos por igual.
 
-__Crop Renewal: Cuando golpeas un cultivo no crecido, este no se romperá.__
+__*Crop Renewal:*__ Cuando golpeas un cultivo no crecido, este no se romperá.
 
-__Woodland Wrath: Al talar un árbol, toda la madera de este se romperá por completo.__
+__*Woodland Wrath:*__ Al talar un árbol, toda la madera de este se romperá por completo.
 
 ## Items Nuevos
 
