@@ -226,7 +226,7 @@ image.png
 
 * Bendición Wither:
 
-![bendición_wither]() 
+![bendición_wither](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/bendici%C3%B3n_wither.png) 
 
 * Anillo de Invisibilidad:
 
