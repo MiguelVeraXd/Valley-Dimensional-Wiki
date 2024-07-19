@@ -180,11 +180,11 @@ __*Woodland Wrath:*__ Al talar un árbol, toda la madera de este se romperá por
 
 ![espada_del_anochecer](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/espada_del_anochecer.png) 
 
-* Arco de vida:
+* Arco de Vida:
 
 ![arco_vida](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/arco_de_vida.png) 
 
-* Arco de hielo:
+* Arco de Hielo:
 
 ![arco_hielo](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/arco_de_hielo.png) 
 
@@ -194,7 +194,7 @@ image.png
 
 * Nueva mejora para las botas, se consigue haciendo que una rana se coma a un magma cube (las ranas spawnean en el nether de manera natural y estas son atacadas por todos los mobs hostiles).
 
-* Nuevo "Brewing Stand": Sirve para combinar, potenciar y amplificar la duración de las pociones a nuevos niveles.
+* Nuevo "Brewing Stand": Sirve para combinar, potenciar y amplificar la duración de las pociones, llevándolas así a nuevos niveles.
 
 image.png
 
@@ -202,20 +202,36 @@ image.png
 
 El cuero de cabra se consigue usando unas tijeras con una cabra demoníaca.
 
-Aparece una I.A
+* Aparece una I.A.
 
-Nuevo yuneque para los nuevos enchants:image.png
+image.png
 
-Nuevo lingote para crafteos: image.png
+* Nuevo "Yunque de Fluorita": Utilizado para la aplicación de los nuevos encantamientos.
 
-Nuevo invocador para el Guardian de las profundiades:image.png
+image.png
+
+* Nuevo "Lingote de Glaciarium": Utilizando en la elaboración de los nuevos arcos. 
+
+image.png
+
+Nuevo "Invocador del Guardian de las Profundidades".
+
+image.png
 
 ## [Amuletos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/amuletos.md)
 
-levitación eterea:image.png
+* Levitación Etérea: 
 
-bendición wither:image.png
+image.png
 
-anillo de invisibilidad:image.png
+* Bendición Wither:
 
-esencia de agua:image.png
+image.png
+
+* Anillo de Invisibilidad:
+
+image.png
+
+* Esencia de Agua:
+
+image.png
