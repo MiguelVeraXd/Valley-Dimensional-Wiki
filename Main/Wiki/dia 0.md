@@ -58,7 +58,7 @@
 
 * La "Raíz de Manglar" es un nuevo amuleto con el siguiente crafteo:
 
-![raiz de manglar](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/raiz_de_manglar.png)
+![raiz de manglar](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/ra%C3%ADz_de_manglar.png)
 
 * La "Bolsa Ender" es un nuevo amuleto con el siguiente crafteo:
 
