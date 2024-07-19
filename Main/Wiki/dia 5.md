@@ -160,13 +160,13 @@ Drop = "Arco Roto Sombrío" (el cual es un arco que tendrá los encantamiento de
 
 ## [Encantamientos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/encartamiento.md) 
 
-El comerciante de la jungla tiene nuevos tradeos, estos son:
+* El comerciante de la jungla tiene nuevos tradeos, estos son:
 
-Mining Cataclysm: pica todos los minerales del mismo tipo que esten adyacentes al mineral.
+__Mining Cataclysm: Al picar un mineral, todos los minerales del mismo tipo que estén adyacentes a este serán destruidos por igual.__
 
-Crop Renewal: Cuando golpeas un cultivo no crecido este no se rompe.
+__Crop Renewal: Cuando golpeas un cultivo no crecido, este no se romperá.__
 
-Woodland Wrath: Al talar un árbol este se rompe completo.
+__Woodland Wrath: Al talar un árbol, toda la madera de este se romperá por completo.__
 
 ## Items Nuevos
 
