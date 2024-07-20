@@ -1,15 +1,14 @@
 ## [Dia 0](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%200.md) 
 
-- La "Raíz de Manglar" es un nuevo amuleto con el siguiente crafteo:
+* La "Raíz de Manglar" es un nuevo amuleto que le brindará al jugador una pesca más eficiente, aumentando el poder de esta en un 15%. Su crafteo es el siguiente:
 
 ![raiz de manglar](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/raiz_de_manglar.png)
 
-- La "Bolsa Ender" es un nuevo amuleto con el siguiente crafteo:
-La Bolsa de Ender aumentará la capacidad de apilar Ender Pearls, permitiendo llevar hasta 26 en un solo stack, en lugar del límite habitual de 16.
+* La "Bolsa Ender" es un nuevo amuleto con el cual el jugador podrá stackear sus "Ender Pearls" hasta 26 unidades. Su crafteo es el siguiente:
 
 ![bolsa_ender](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/bolsa_ender.png)
 
-- El "Amuleto del Caos" es un nuevo amuleto, su función se basa en hacer que los enemigos sean mas peligrosos y tengan un mayor spawn, también aumenta la probabilidad de drops raros. Su crafteo es el siguiente:
+* El "Amuleto del Caos" es un nuevo amuleto, su función se basa en hacer que los enemigos sean mas peligrosos y tengan un mayor spawn, también aumenta la probabilidad de drops raros. Su crafteo es el siguiente:
 
 ![Amuleto del caos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/amuleto_del_caos.png)
 
