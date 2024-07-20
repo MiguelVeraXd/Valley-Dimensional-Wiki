@@ -107,7 +107,7 @@ __"Fluorita": se genera en cualquier bioma desde la capa 0 hasta la -59 y solo s
 
 * En los "Biomas de Nieve" se genera una nueva estructura la cual contiene un nuevo item que sirve para la elaboración de diversos crafteos.
 
-* Los "Desiertos" se vuelven más sofocantes provocando así alucinaciones las cuales solo se pueden quitar al estar en contacto con agua. De igual manera, se recomienda llevar una "Brocha" para encontrar nuevos tesoros.
+* Los "Desiertos" se vuelven más sofocantes provocando así alucinaciones las cuales solo se pueden quitar al estar en contacto con agua. De igual manera, se recomienda llevar una "Brocha" para desenterrar los nuevos tesoros que este aguarda.
 
 * En las "Junglas" podrás encontrar un comerciante bastante interesante.
 
