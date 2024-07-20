@@ -97,7 +97,8 @@ __Invoca un "Defensor" el cual es inmortal y solo muere cuando matas al Wither._
 
 __"Jadeita": se genera en junglas y taigas desde la capa 58 hasta la -59 y solo se puede extraer con pico de diamante o superior.__
 
-![jadeita_cocinandose](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/jadeita_cocinandose.gif)
+![jadeita_cocinandose](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/jadeita_cocinandose(!).gif)
+![bloque_de_jadeita](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/bloque_de_jadeita.png)
 
 __"Fluorita": se genera en cualquier bioma desde la capa 0 hasta la -59 y solo se puede minar con un pico de netherite.__
 
