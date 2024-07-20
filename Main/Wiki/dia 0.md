@@ -103,7 +103,7 @@ __"Fluorita": se genera en cualquier bioma desde la capa 0 hasta la -59 y solo s
 
 * El "Nether" se vuelve más misterioso, generando 3 nuevas estructuras.
 
-* En los "Océanos" se puede encontrar una nueva estructura la cual contiene un nuevo item que sirve para la elaboración de diversos crafteos.
+* En los "Océanos" se puede encontrar una nueva estructura la cual contiene un nuevo item que sirve para la elaboración de diversos crafteos. Además, nuevas "Geodas" son generadas en las profundidades de este bioma.
 
 * En los "Biomas de Nieve" se genera una nueva estructura la cual contiene un nuevo item que sirve para la elaboración de diversos crafteos.
 
