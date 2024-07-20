@@ -56,7 +56,7 @@
 
 ![invetario](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/items/invetario.png)
 
-* La "Raíz de Manglar" es un nuevo amuleto con el siguiente crafteo:
+* La "Raíz de Manglar" es un nuevo amuleto que le brindará al jugador una pesca más eficiente, aumentando el poder de esta en un 15%. Su crafteo es el siguiente:
 
 ![raiz de manglar](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/raiz_de_manglar.png)
 
