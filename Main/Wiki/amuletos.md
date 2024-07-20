@@ -5,6 +5,7 @@
 ![raiz de manglar](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/raiz_de_manglar.png)
 
 - La "Bolsa Ender" es un nuevo amuleto con el siguiente crafteo:
+La Bolsa de Ender aumentará la capacidad de apilar Ender Pearls, permitiendo llevar hasta 26 en un solo stack, en lugar del límite habitual de 16.
 
 ![bolsa_ender](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/bolsa_ender.png)
 
