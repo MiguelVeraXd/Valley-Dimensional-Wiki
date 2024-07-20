@@ -103,6 +103,10 @@ __"Jadeita": se genera en junglas y taigas desde la capa 58 hasta la -59 y solo 
 
 __"Fluorita": se genera en cualquier bioma desde la capa 0 hasta la -59 y solo se puede minar con un pico de netherite.__
 
+![fluorita_cocinandose](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/fluorita_cocinandose(!).gif)
+
+![bloque_de_fluorita](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/bloque_de_fluorita.png)
+
 * El "Nether" se vuelve más misterioso, generando 3 nuevas estructuras.
 
 * En los "Océanos" se puede encontrar una nueva estructura la cual contiene un nuevo item que sirve para la elaboración de diversos crafteos. Además, nuevas "Geodas" son generadas en las profundidades de este bioma.
