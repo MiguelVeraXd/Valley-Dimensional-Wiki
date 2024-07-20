@@ -60,7 +60,7 @@
 
 ![raiz de manglar](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/raiz_de_manglar.png)
 
-* La "Bolsa Ender" es un nuevo amuleto con el cual el jugador podrá stackear sus ender pearls hasta 26 unidades. Su crafteo es el siguiente:
+* La "Bolsa Ender" es un nuevo amuleto con el cual el jugador podrá stackear sus "Ender Pearls" hasta 26 unidades. Su crafteo es el siguiente:
 
 ![bolsa_ender](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/bolsa_ender.png)
 
@@ -68,9 +68,9 @@
 
 ![Amuleto del caos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/amuleto_del_caos.png)
 
-* La "Piedra Solar" es un nuevo item que se puede encontrar en una nueva estructura que aparece en las savannas. Al equiparse este objeto, aumenta tu regeneración en +1 y te quita la ceguera solo funciona de dia solar
+- La "Piedra Solar" se puede encontrar en una ["Mazmorra"](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%200.md#generaci%C3%B3n-del-mundo) que aparece en las savannas. Al equipar este objeto, aumenta tu regeneración en +1 y te quita la Blindness, sin embargo, solo funcionará de día. ![piedra_solar](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/items/solar_stone.png)
 
-* La "Ankh" se puede obtener en una Pirámides de desierto o en arena sospechosa cuanto está debajo 4 corazones se activa el Ankh haciendo que sea inmune al daño por 8 segundos ankh
+- El "Ankh" se puede obtener en ["Pirámides de Desierto"](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%200.md#generaci%C3%B3n-del-mundo) o en "Arena Sospechosa". Cuando la vida del jugador está debajo de 4 corazones se activa, haciendolo inmune al daño durante 8 segundos. ![ankh](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/items/ankh.png)
 
 ## [Bosses](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/bosses.md)
 * El "Wither Boss" aumenta su dificultad, sus cambios son:
