@@ -2,7 +2,4 @@
 
 ## Armaduras
 
-## Otro
-
-## Item de vanida
-
+## Utilidades
