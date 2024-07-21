@@ -18,6 +18,14 @@
 
 ![mochila](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/mochila.png)
 
+* Nuevo "Casco de Netherita Demoníaco":
+
+image.png
+
+* "Respawn Anchor Conduit Rest":
+
+image.png
+
 ## Cambios al Gameplay Vanilla
 
 * Se cambia el método de obtención de los "Tótems de la Inmortalidad". Su crafteo es el siguiente:
