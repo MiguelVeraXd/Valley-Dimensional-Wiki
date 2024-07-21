@@ -107,6 +107,8 @@ __"Fluorita": se genera en cualquier bioma desde la capa 0 hasta la -59 y solo s
 
 * El "Nether" se vuelve más misterioso, generando 3 nuevas estructuras.
 
+__*Nether Trial Grounds:*__ Nether Trial Grounds
+
 * En los "Océanos" se puede encontrar una nueva estructura la cual contiene un nuevo item que sirve para la elaboración de diversos crafteos. Además, nuevas "Geodas" son generadas en las profundidades de este bioma.
 
 * En los "Biomas de Nieve" se genera una nueva estructura la cual contiene un nuevo item que sirve para la elaboración de diversos crafteos.
@@ -118,5 +120,9 @@ __"Fluorita": se genera en cualquier bioma desde la capa 0 hasta la -59 y solo s
 * En los "Pantanos" se genera una nueva estructura la cual viene acompañada de un atril que muestra las instrucciones a seguir para llevar a cabo la invocación de un nuevo "Mini-Boss".
 
 * En las "Savannas" se genera una nueva estructura.
+
+* Las "Cuevas" ahora vienen con una nueva generación y esta varia dependiendo del bioma en el que se encuentren.
+
+* Ahora se generan nuevas " Dungeons / Mazmorras" en las cuevas.
 
 * La loot table de TODAS las estructuras ha sido mejorada.
