@@ -123,6 +123,6 @@ __*Nether Trial Grounds:*__ Nether Trial Grounds
 
 * Las "Cuevas" ahora vienen con una nueva generación y esta varia dependiendo del bioma en el que se encuentren.
 
-* Ahora se generan nuevas " Dungeons / Mazmorras" en las cuevas.
+* Ahora se generan nuevas "Dungeons / Mazmorras" en las cuevas.
 
 * La loot table de TODAS las estructuras ha sido mejorada.
