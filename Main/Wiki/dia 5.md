@@ -216,6 +216,10 @@ image.png
 
 ![lingote_de_glaciarium](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/lingote_de_glaciarium.png)
 
+Nuevo "Invocador del Warden de la Devastación".
+
+image.png
+
 Nuevo "Invocador del Guardián de las Profundidades".
 
 ![invocador_del_guardian_de_las_profundidades](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/invocador_del_guardian_de_las_profundidades.png)
