@@ -126,7 +126,7 @@ __*Casa:*__ Una pequeña cabaña que aguarda en su interior antiguos conocimient
 
 * En las "Savannas" se genera una nueva estructura.
 
-* Las "Cuevas" ahora vienen con una nueva generación y esta varia dependiendo del bioma en el que se encuentren.
+* Las "Cuevas" ahora vienen con una nueva generación, y esta varia dependiendo del bioma en el que se encuentren.
 
 * Ahora se generan nuevas "Dungeons / Mazmorras" en las cuevas.
 
