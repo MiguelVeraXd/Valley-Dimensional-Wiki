@@ -105,9 +105,14 @@ __"Fluorita": se genera en cualquier bioma desde la capa 0 hasta la -59 y solo s
 ![fluorita_cocinandose](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/fluorita_cocinandose(!).gif)
 ![bloque_de_fluorita](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/bloque_de_fluorita.png)
 
-* El "Nether" se vuelve más misterioso, generando 3 nuevas estructuras.
+* El "Nether" se vuelve más misterioso, generando 3 nuevas estructuras:
 
-__*Nether Trial Grounds:*__ Nether Trial Grounds
+__*Nether Trial Grounds:*__ 2 nuevos objetos pueden ser obtenidos en esta estructura haciendo un "Mob Arena" de 2 dificultades diferentes. Para activar este evento, el jugador debe ir a un nuevo bloque que se encontrará en el centro de la sala de esta estructura y colocar un nuevo objeto llamado "Libro de Convocación", el cual, se puede conseguir en los "Bastiones en Ruinas". Después de hacer esto, se abrirá un menú donde se le preguntará qué nivel quiere jugar. Dependiendo del nivel que se escoja, el "Mob Arena" será más o menos difícil. 
+*Cabe resaltar que este evento SOLO SE ACTIVARÁ si hay 1 jugador dentro de la estructura, si se presentan más jugadores, este no se funcionará.*
+
+__*Unber Core:*__ Nueva estructura para el bioma de "Basalt Deltas". Es la combinación de una "Bastión" y una "Nether Fortress" que trae consigo varios de los recursos y peligros de estas estructuras.
+
+__*Casa:*__ Una pequeña cabaña que aguarda en su interior antiguos conocimientos plasmados en un libro.
 
 * En los "Océanos" se puede encontrar una nueva estructura la cual contiene un nuevo item que sirve para la elaboración de diversos crafteos. Además, nuevas "Geodas" son generadas en las profundidades de este bioma.
 
