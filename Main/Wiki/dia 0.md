@@ -26,7 +26,7 @@ __*+4 Puntos de "Armadura"*__
 
 __*+1 Punto de "Knockback Resistance"*__
 
-__*Al "shiftear" mientras se tiene un arco en mano, se creará una área de partículas en la posición del jugador durante unos segundos. Estar dentro del área (aplica para todo jugador presente), aumentará en un 20% el daño de las flechas. la habilidad tiene un "Cooldown" de 40 segundos.*__
+__*Al "shiftear" mientras se tiene un arco en mano, se creará una área de partículas en la posición del jugador durante unos segundos. Estar dentro del área (aplica para todo jugador presente), aumentará en un 20% el daño de las flechas. La habilidad tiene un "Cooldown" de 40 segundos.*__
 
 ![casco_de_netherita_demoniaco](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/casco_de_netherita_demoniaco.png)
 
