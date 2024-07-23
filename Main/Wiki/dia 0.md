@@ -20,7 +20,7 @@
 
 * Nuevo "Casco de Netherita Demoníaco":
 
-image.png
+![casco_de_netherita_demoniaco](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/casco_de_netherita_demoniaco.png)
 
 * "Respawn Anchor Conduit Rest":
 
