@@ -44,6 +44,10 @@ __*???*__
 
 ![faro](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/faro.png) 
 
+* La afiladora / piedra de afilar ha sido mejorada y ahora tiene una nueva interfaz que le permite al jugador elegir con exactitud el encantamiento que desea retirar.
+
+![grindstone](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/grindstone.png)
+
 * Las "Torchflower" iluminan y dan "Regeneration I" en un radio de 7 bloques.
 
 * Los "Warden" tienen una probabilidad de dropear un libro de sigilo rápido de nivel I al III con un porcentaje del 60%.
