@@ -103,6 +103,8 @@ __*Anula los efectos de los "Faros" en un radio de 50 bloques.*__
 
 __*Tiene una mejor regeneración de vida.*__
 
+__*Puede romper bloques de "Reinforced Deepslate".*__ 
+
 __*Ahora, aparte de la "Nether Star", este dropeará un libro de "Mending I".*__
 
 * Se le añade una segunda fase en la cual:
