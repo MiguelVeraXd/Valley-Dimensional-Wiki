@@ -129,7 +129,9 @@ __Verde: Te dan el efecto de "Poison II" por 1 minuto.__
 /flame_sentinel_info
 
 Guardián de las Profundidades
+
 Demonic Goat
+
 Warden of Devastation
 
 ## Eventos
