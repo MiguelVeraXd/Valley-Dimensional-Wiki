@@ -109,7 +109,7 @@ __*Ahora, aparte de la "Nether Star", este dropeará un libro de "Mending I".*__
 
 * En su segunda fase:
 
-__*El explosión de sus "Wither Skull" aumenta a "2".*__ 
+__*El "Explosion Power" de sus "Wither Skull" y "Wither Skull Dangerous" aumenta a "2".*__ 
 
 __*Tiene mayor velocidad.*__
 
@@ -119,7 +119,11 @@ __*Invoca un "Defensor" el cual es inmortal y solo muere cuando matas al Wither.
 
 * En el "Nether" este boss se vuelve más complicado, sin embargo, esta dificultad se compensa con su loot el cual son 4 libros de "Nivel 40 de Enchanting" (aún así, el libro de "Mending I" y la "Nether Star" siguen siendo parte su loot table). Dicho esto, sus cambios en esta dimensión serán los siguientes:
 
+__*Todas sus "Wither Skull" y "Wither Skull Dangerous" dan "Wither III".*__
+
 __*El "Explosion Power" de sus "Wither Skull" aumenta a "3" en su primera fase y a "4" en la segunda.*__
+
+__*Las "Wither Skull Dangerous" tienen un "Explosion Power" de nivel "4" en su primera fase y nivel "5" en su segunda.*__
 
 ## Generación del Mundo:
 
