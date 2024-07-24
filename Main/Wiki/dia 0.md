@@ -44,9 +44,11 @@ __*???*__
 
 ![faro](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/faro.png) 
 
-* La afiladora / piedra de afilar ha sido mejorada y ahora tiene una nueva interfaz que le permite al jugador elegir con exactitud el encantamiento que desea retirar.
+* La afiladora / piedra de afilar ha sido mejorada y ahora tiene una nueva interfaz que le permite al jugador elegir con exactitud el encantamiento que desee retirar.
 
 ![grindstone](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/grindstone.png)
+
+__*Para activar esta inferfaz el jugador debe de "interactuar" con la mesa mientras tiene en mano el item que quiera desencantar*__ 
 
 * Las "Torchflower" iluminan y dan "Regeneration I" en un radio de 7 bloques.
 
