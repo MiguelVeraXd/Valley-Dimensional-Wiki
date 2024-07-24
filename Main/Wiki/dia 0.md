@@ -32,7 +32,7 @@ __*Al "shiftear" mientras se tiene un arco en mano, se creará una área de part
 
 * "Respawn Anchor Conduit Rest":
 
-image.png
+__*???*__
 
 ## Cambios al Gameplay Vanilla
 
