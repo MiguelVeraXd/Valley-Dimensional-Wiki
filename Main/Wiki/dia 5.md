@@ -90,18 +90,6 @@ __Dropean "Soul of Enderman".__
 
 * El casco de tortuga te hace inmune a la asfixia en "Nether".
 
-## Bosses
-
-* Se añaden nuevos bosses. Realizar los siguientes functions te brindará su información correspondiente:
-
-/blizzard_lord_info
-
-/flame_sentinel_info
-
-Guardián de las Profundidades
-Demonic Goat
-Warden of Devastation
-
 * Los zombies convierten de un solo golpe a los aldeanos en "Aldeanos Zombies Bebés".
 
 * Hay un 5% de que al interactuar con un aldeano, te de efecto de "Bad Omen III".
@@ -131,6 +119,18 @@ __Verde: Te dan el efecto de "Poison II" por 1 minuto.__
 * Los zombies y husks tienen Knockback Resistance 1.0.
 
 * Los jugadores se pueden cambiar de clase nuevamente y todas estas se han mejorado.
+
+## Bosses
+
+* Se añaden nuevos bosses. Realizar los siguientes functions te brindará su información correspondiente:
+
+/blizzard_lord_info
+
+/flame_sentinel_info
+
+Guardián de las Profundidades
+Demonic Goat
+Warden of Devastation
 
 ## Eventos
 
