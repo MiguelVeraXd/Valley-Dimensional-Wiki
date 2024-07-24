@@ -97,11 +97,13 @@ __*Para activar esta inferfaz el jugador debe de "interactuar" con la mesa mient
 ## [Bosses](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/bosses.md)
 * El "Wither Boss" aumenta su dificultad, sus cambios son:
 
-__100 corazones más.__
+__*100 corazones más.*__
 
-__Anula los efectos de los "Faros" en un radio de 50 bloques.__
+__*Anula los efectos de los "Faros" en un radio de 50 bloques.*__
 
-__Tiene una mejor regeneración de vida.__
+__*Tiene una mejor regeneración de vida.*__
+
+__*Ahora, aparte de la "Nether Star", este dropeará un libro de "Mending I".*__
 
 * Se le añade una segunda fase en la cual:
 
@@ -111,7 +113,9 @@ __Mayor regeneración de vida.__
 
 __Invoca un "Defensor" el cual es inmortal y solo muere cuando matas al Wither.__
 
-* En el "Nether" este boss se vuelve más complicado, sin embargo, esta dificultad se compensa con su loot el cual son 4 libros de "Nivel 40 de Enchanting" y un libro de "Mending I" (aun así, la Nether Star sigue siendo parte de la loot table).
+* En el "Nether" este boss se vuelve más complicado, sin embargo, esta dificultad se compensa con su loot el cual son 4 libros de "Nivel 40 de Enchanting" (aún así, el libro de "Mending I" y la "Nether Star" siguen siendo parte su loot table). Además de esto:
+
+__*El "Explosion Power" de sus cabezas aumenta a "2" en su primera fase y a "3" en la segunda.*__
 
 ## Generación del Mundo:
 
