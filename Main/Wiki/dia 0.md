@@ -101,23 +101,25 @@ __*100 corazones más.*__
 
 __*Anula los efectos de los "Faros" en un radio de 50 bloques.*__
 
-__*Tiene una mejor regeneración de vida.*__
+__*Tiene una "Regeneración de Vida".*__
 
 __*Puede romper bloques de "Reinforced Deepslate".*__ 
 
 __*Ahora, aparte de la "Nether Star", este dropeará un libro de "Mending I".*__
 
-* Se le añade una segunda fase en la cual:
+* En su segunda fase:
 
-__Tiene mayor velocidad.__
+__*El explosión de sus "Wither Skull" aumenta a "2".*__ 
 
-__Mayor regeneración de vida.__
+__*Tiene mayor velocidad.*__
 
-__Invoca un "Defensor" el cual es inmortal y solo muere cuando matas al Wither.__
+__*Mayor regeneración de vida.*__
 
-* En el "Nether" este boss se vuelve más complicado, sin embargo, esta dificultad se compensa con su loot el cual son 4 libros de "Nivel 40 de Enchanting" (aún así, el libro de "Mending I" y la "Nether Star" siguen siendo parte su loot table). Además de esto:
+__*Invoca un "Defensor" el cual es inmortal y solo muere cuando matas al Wither.*__
 
-__*El "Explosion Power" de sus cabezas aumenta a "2" en su primera fase y a "3" en la segunda.*__
+* En el "Nether" este boss se vuelve más complicado, sin embargo, esta dificultad se compensa con su loot el cual son 4 libros de "Nivel 40 de Enchanting" (aún así, el libro de "Mending I" y la "Nether Star" siguen siendo parte su loot table). Dicho esto, sus cambios en esta dimensión serán los siguientes:
+
+__*El "Explosion Power" de sus "Wither Skull" aumenta a "3" en su primera fase y a "4" en la segunda.*__
 
 ## Generación del Mundo:
 
