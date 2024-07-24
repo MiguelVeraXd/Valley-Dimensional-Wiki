@@ -128,7 +128,7 @@ __*Nether Trial Grounds:*__ 2 nuevos objetos pueden ser obtenidos en esta estruc
 
 __*Unber Core:*__ Nueva estructura para el bioma de "Basalt Deltas". Es la combinación de una "Bastión" y una "Nether Fortress" que trae consigo varios de los recursos y peligros de estas estructuras.
 
-__*Casa:*__ Una pequeña cabaña que aguarda en su interior antiguos conocimientos plasmados en un libro.
+__*The House:*__ Una pequeña cabaña que aguarda en su interior antiguos conocimientos plasmados en un libro.
 
 * En los "Océanos" se puede encontrar una nueva estructura la cual contiene un nuevo item que sirve para la elaboración de diversos crafteos. Además, nuevas "Geodas" son generadas en las profundidades de este bioma.
 
