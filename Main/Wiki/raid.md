@@ -28,7 +28,7 @@
 Tabla de Loot:
 ["Raid de nivel 3"](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/edit/main/Main/Wiki/raid.md#raid-de-nivel-3)
 
-###En Bedrock Edition , el número de hordas depende de la dificultad, independientemente del nivel de Mal presagio sin hordas adicionales. Hay 3 hordas en dificultad fácil, 5 en normal y 7 en dificil. Aparecen con armas encantadas en el nivel 5 en fácil y en los niveles 5-19 en otras dificultades.
+### En Bedrock Edition , el número de hordas depende de la dificultad, independientemente del nivel de Mal presagio sin hordas adicionales. Hay 3 hordas en dificultad fácil, 5 en normal y 7 en dificil.
 
 ## Tabla de Criaturas
 
