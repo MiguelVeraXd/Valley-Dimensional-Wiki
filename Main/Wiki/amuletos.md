@@ -1,4 +1,4 @@
-## [Dia 0](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%200.md) 
+## [Dia 1](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%201.md) 
 
 * La "Raíz de Manglar" es un nuevo amuleto que le brindará al jugador una pesca más eficiente, aumentando el poder de esta en un 15%. Su crafteo es el siguiente:
 
