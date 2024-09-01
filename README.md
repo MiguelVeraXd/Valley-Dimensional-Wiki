@@ -37,8 +37,8 @@ Si estás interesado en ayudar a mejorar la wiki, puedes contactarme directament
 - [**Dificultad**](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dificultad.md)
 - [Eventos](#)
 - [Pesca](#)
-- [Rareza](#)
-
+- [](#)
+- [**Rareza**](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/rareza%20de%20item.md)
 ### Biomas y Estructuras
 
 - [**Overworld and Nether**](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%201.md#generaci%C3%B3n-del-mundo)
