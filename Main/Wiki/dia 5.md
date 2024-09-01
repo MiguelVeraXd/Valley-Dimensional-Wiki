@@ -34,7 +34,7 @@ __Llevan consigo un arco de "Power XXV", "Flame V" y "Punch III".__
 
 __Su espada ahora es de netherite, además, tiene "Sharpness V" y "Fire Aspect II".__
 
-__Cuando te pegan a melee te dan "Wither II" por 10 segundos.__
+__Cuando te pegan a melee te dan "Wither I" por 10 segundos.__
 
 * Los Piglins muestran un aumento en su "IQ", lo que los hace más hábiles en cuanto a el uso de sus recursos. A continuación, se presentan algunas mejoras que se observan en su comportamiento:
 
