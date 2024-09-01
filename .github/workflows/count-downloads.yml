@@ -1,0 +1,28 @@
+name: Count Downloads
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  update-download-count:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Increment download count
+        run: |
+          COUNT_FILE="download_count.json"
+          CURRENT_COUNT=$(jq '.downloads' $COUNT_FILE)
+          UPDATED_COUNT=$((CURRENT_COUNT + 1))
+          jq --argjson new_count $UPDATED_COUNT '.downloads = $new_count' $COUNT_FILE > $COUNT_FILE.tmp
+          mv $COUNT_FILE.tmp $COUNT_FILE
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+          git add $COUNT_FILE
+          git commit -m "Increment download count"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
