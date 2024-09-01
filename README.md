@@ -43,8 +43,7 @@ Si estás interesado en ayudar a mejorar la wiki, puedes contactarme directament
 
 ### Biomas y Estructuras
 
-- **Valle Místico**
-[**Talismanes**](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%201.md#generaci%C3%B3n-del-mundo)
+- [**Overworld and Nether**](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%201.md#generaci%C3%B3n-del-mundo)
 
 ### Jefes y Mini Jefes
 
