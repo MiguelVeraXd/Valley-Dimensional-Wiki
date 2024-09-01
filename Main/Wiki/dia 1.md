@@ -1,4 +1,8 @@
 ## Cambios de Dificultad
+## Conteo de Descargas
+
+Puedes ver el número total de descargas en el siguiente enlace:
+[Ver Conteo de Descargas](https://raw.githubusercontent.com/usuario/repo/main/download_count.json)
 
 * Los phantoms y los evokers son más agresivos.
 
