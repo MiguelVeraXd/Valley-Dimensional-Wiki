@@ -21,22 +21,20 @@ Si estás interesado en ayudar a mejorar la wiki, puedes contactarme directament
 - **Armaduras**
 - **Armas**
 - **Herramientas**
-- **Accesorios**
 - **Pociones**
-- ![Vista previa del Valley Dimensional](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/items/ankh.png) [**Talismanes**](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/amuletos.md)
-- **Runas**
+- ![Vista previa del Valley Dimensional](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/items/ankh.png) [**Amuletos**](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/amuletos.md)
 - **Gemstones**
-- **Alquimista Avanzada**
+- **Alquimista Avanzado**
 
 ### Mecánicas
 
 - **Sistema de Clases**
-- **Nuevo Sistema de Crafteo**
+- **Sistema de Crafteo**
 - **Magia**
 - **Nuevo Enchantments**
 - **Mecánica de Vida Avanzada**
 - [Opciones de configuración](#)
-- [Dificultad](#)
+- [**Dificultad**](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dificultad.md)
 - [Eventos](#)
 - [Pesca](#)
 - [Rareza](#)
