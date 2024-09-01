@@ -1,8 +1,4 @@
 ## Cambios de Dificultad
-## Conteo de Descargas
-
-Puedes ver el número total de descargas en el siguiente enlace:
-[Ver Conteo de Descargas](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/download_count.json)
 
 * Los phantoms y los evokers son más agresivos.
 
