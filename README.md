@@ -23,8 +23,7 @@ Si estás interesado en ayudar a mejorar la wiki, puedes contactarme directament
 - **Herramientas**
 - **Accesorios**
 - **Pociones**
-- [**Talismanes**](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/amuletos.md)
-- ![Vista previa del Valley Dimensional](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/items/ankh.png) [Descargar el add-on aquí](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/amuletos.md)
+- ![Vista previa del Valley Dimensional](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/items/ankh.png) [**Talismanes**](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/amuletos.md)
 - **Runas**
 - **Gemstones**
 - **Alquimista Avanzada**
@@ -45,11 +44,7 @@ Si estás interesado en ayudar a mejorar la wiki, puedes contactarme directament
 ### Biomas y Estructuras
 
 - **Valle Místico**
-- **Ruinas Antiguas**
-- **Bosque Encantado**
-- **Cueva de Cristal**
-- **Santuario del Dragón**
-- **Torre del Mago**
+[**Talismanes**](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%201.md#generaci%C3%B3n-del-mundo)
 
 ### Jefes y Mini Jefes
 
