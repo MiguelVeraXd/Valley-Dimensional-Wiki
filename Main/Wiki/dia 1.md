@@ -1,5 +1,5 @@
 ## Cambios de Dificultad
-
+[Descargar Add-on](https://github.com/usuario/repo/releases/latest/download/addon.zip)
 * Los phantoms y los evokers son más agresivos.
 
 * Los ghast ahora trackean desde 64 bloques.
