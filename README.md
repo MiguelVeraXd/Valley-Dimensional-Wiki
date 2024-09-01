@@ -31,13 +31,12 @@ Si estás interesado en ayudar a mejorar la wiki, puedes contactarme directament
 - **Sistema de Clases**
 - **Sistema de Crafteo**
 - **Magia**
-- **Nuevo Enchantments**
+- [**Nuevo Encantamientos**](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/encartamiento.md)
 - **Mecánica de Vida Avanzada**
-- [Opciones de configuración](#)
+- [Opciones de configuración]
 - [**Dificultad**](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dificultad.md)
 - [Eventos](#)
 - [Pesca](#)
-- [](#)
 - [**Rareza de items**](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/rareza%20de%20item.md)
 ### Biomas y Estructuras
 
@@ -58,5 +57,5 @@ Si estás interesado en ayudar a mejorar la wiki, puedes contactarme directament
 - **Recetas de Crafteo**
 - **Erudición y Lore del Add-on**
 - **Guía de Instalación y Compatibilidad**
-- [Progresión de mods](#)
-- [Cambios en la vainilla](#)
+- [Progresión de mods]
+- [Cambios en la vainilla]
