@@ -27,6 +27,7 @@ Si estás interesado en ayudar a mejorar la wiki, puedes contactarme directament
 - ![Vista previa del Valley Dimensional](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/items/ankh.png) [Descargar el add-on aquí](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/amuletos.md)
 - **Runas**
 - **Gemstones**
+- **Alquimista Avanzada**
 
 ### Mecánicas
 
@@ -57,14 +58,6 @@ Si estás interesado en ayudar a mejorar la wiki, puedes contactarme directament
 - **Coloso de Piedra**
 - **Bruja del Valle**
 - **Bestia de las Sombras**
-
-### PNJs
-
-- **El Sabio**
-- **Herrero del Valle**
-- **Guardiana del Bosque**
-- **Alquimista del Santuario**
-- **Explorador Místico**
 
 ---
 
