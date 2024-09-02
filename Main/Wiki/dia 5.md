@@ -90,7 +90,7 @@ __Dropean "Soul of Enderman".__
 
 * El casco de tortuga te hace inmune a la asfixia en "Nether".
 
-* Los zombies convierten de un solo golpe a los aldeanos en "Aldeanos Zombies Bebés". (error)
+* Los zombies convierten de un solo golpe a los aldeanos en "Aldeanos Zombies Bebés".
 
 * Hay un 5% de que al interactuar con un aldeano, te de efecto de "Bad Omen III".
 
