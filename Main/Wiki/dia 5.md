@@ -42,7 +42,7 @@ __Utilización de la Perla de Ender.__
 
 __Uso de pociones de "Fire Resistance".__
 
-__Cargan sus ballestas con flechas de efecto de Wither.__
+__Cargan sus ballestas con flechas de efecto de Wither.__ (error)
 
 __Mejor aprovechamiento de los encantamientos.__
 
@@ -54,7 +54,7 @@ __Están equipadas con un casco de diamante encantado con Thorns XX y Protection
 
 * Los Ahogados:
 
-__Siempre llevan un Tridente con Impaling XXV.__
+__Siempre llevan un Tridente con Impaling XV.__ (error)
 
 __Spawnean por todo el Overworld en cualquier lugar donde haya agua.__
 
@@ -82,7 +82,7 @@ __Ahora hacen daño de vacío (no te salva el tótem).__
 
 __Dropean "Soul of Enderman".__
 
-* Las Brujas al morir lanzan una poción de un efecto negativo completamente aleatorio.
+* Las Brujas al morir lanzan una poción de un efecto negativo completamente aleatorio. (error)
 
 * El oxígeno dejó de llegar a la dimensión del "Nether", por lo tanto, ahora es normal asfixiarte dentro de esta dimensión.
 
@@ -90,15 +90,15 @@ __Dropean "Soul of Enderman".__
 
 * El casco de tortuga te hace inmune a la asfixia en "Nether".
 
-* Los zombies convierten de un solo golpe a los aldeanos en "Aldeanos Zombies Bebés".
+* Los zombies convierten de un solo golpe a los aldeanos en "Aldeanos Zombies Bebés". (error)
 
 * Hay un 5% de que al interactuar con un aldeano, te de efecto de "Bad Omen III".
 
-* Los pigmans siempre son agresivos y cada vez que reciben daño de un jugador, hacen un fill de 1x4x1 en su posición.
+* Los pigmans siempre son agresivos y, cada vez que reciben daño de un jugador, hacen un fill en su posición (siendo este de un radio de 1 bloque hacia cada lado y 5 bloques hacia arriba).
 
 * Los mobs pacíficos hacen el doble de daño.
 
-* Los magma cubes al morir dejan lava.
+* Los magma cubes (de tamaño pequeño) al morir dejan lava.
 
 * Los iron gólems tienen el efecto "Fire Resistance" de manera infinita.
 
@@ -118,7 +118,7 @@ __Verde: Te dan el efecto de "Poison II" por 1 minuto.__
 
 * Los zombies y husks tienen Knockback Resistance 1.0.
 
-* Los jugadores se pueden cambiar de clase nuevamente y todas estas se han mejorado.
+* Los jugadores se pueden cambiar de clase nuevamente y todas estas se han mejorado. (error)
 
 ## Bosses
 
