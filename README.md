@@ -21,7 +21,7 @@ Si estás interesado en ayudar a mejorar la wiki, puedes contactarme directament
 - **Armaduras**
 - **Armas**
 - **Herramientas**
-- **Pociones**
+- [**Potionexus**](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/potionexus.md)
 - ![Vista previa del Valley Dimensional](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/items/ankh.png) [**Amuletos**](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/amuletos.md)
 - **Gemstones**
 - **Alquimista Avanzado**
