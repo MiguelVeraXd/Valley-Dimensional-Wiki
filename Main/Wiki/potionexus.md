@@ -31,7 +31,7 @@ En el sistema **Potionexus**, los jugadores pueden utilizar gemas especiales com
 
 | **Nombre**            | **Ícono** | **Efecto**            | **Efecto cuando se corrompe**    |
 |-----------------------|-----------|-----------------------|----------------------------------|
-| **Sugar**             | ![icon]   | Speed                  | Slowness                         |
+| **Sugar**             | ![icon](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/items/emerald_currupte.png)   | Speed                  | Slowness                         |
 | **Rabbit's Foot**     | ![icon]   | Jump Boost             | N/A                              |
 | **Glistering Melon Slice** | ![icon] | Instant Health         | Instant Damage                   |
 | **Spider Eye**        | ![icon]   | Poison                 | N/A                              |
