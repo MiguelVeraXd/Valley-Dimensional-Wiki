@@ -26,3 +26,25 @@ En el sistema **Potionexus**, los jugadores pueden utilizar gemas especiales com
 - **Cómo Usarla**:
   1. **Paso 1**: Prepara la poción base en el Brewing Stand usando **Redstone** para extender su duración.
   2. **Paso 2**: Una vez preparada la poción con Redstone, añade la Jadeíta para mejorar la duración de la poción.
+
+## Ingredientes de Pociones y Efectos
+
+| **Nombre**            | **Ícono** | **Efecto**            | **Efecto cuando se corrompe**    |
+|-----------------------|-----------|-----------------------|----------------------------------|
+| **Sugar**             | ![icon]   | Speed                  | Slowness                         |
+| **Rabbit's Foot**     | ![icon]   | Jump Boost             | N/A                              |
+| **Glistering Melon Slice** | ![icon] | Instant Health         | Instant Damage                   |
+| **Spider Eye**        | ![icon]   | Poison                 | N/A                              |
+| **Pufferfish**        | ![icon]   | Water Breathing        | None                             |
+| **Magma Cream**       | ![icon]   | Fire Resistance        | N/A                              |
+| **Golden Carrot**     | ![icon]   | Night Vision           | Invisibility                     |
+| **Blaze Powder**      | ![icon]   | Strength               | Weakness                         |
+| **Ghast Tear**        | ![icon]   | Regeneration           | None                             |
+| **Turtle Shell**      | ![icon]   | Slowness, Resistance   | N/A                              |
+| **Phantom Membrane**  | ![icon]   | Slow Falling           | N/A                              |
+| **Cobweb**            | ![icon]   | Weaving                | N/A                              |
+| **Slime Block**       | ![icon]   | Oozing                 | N/A                              |
+| **Stone**             | ![icon]   | Infested               | N/A                              |
+| **Breeze Rod**        | ![icon]   | Wind Charged           | N/A                              |
+
+## Recetas de Pociones
