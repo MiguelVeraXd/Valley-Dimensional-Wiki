@@ -7,8 +7,6 @@ El **Modo Pesadilla** es una opción de dificultad avanzada introducida en el **
 Solo los jugadores más experimentados y valientes se atreverán a enfrentar el Modo Pesadilla.
 
 ### Cambios generales
--Los enemigo no infige daño entre ellos (en desarrolo)
-
 
 - Las tasas de aparición de enemigos aumentan un **17,65%**.
 - Los jefes soltarán objetos exclusivos del **Modo Pesadilla**.
@@ -16,6 +14,8 @@ Solo los jugadores más experimentados y valientes se atreverán a enfrentar el 
 - Todos los enemigos normales tienen un **25%** más de vida.
 
 dia 5
+-Los enemigo no infige daño entre ellos (en desarrolo)
+
 -Los Mirror Skeletons pueden duplicar la una copia del jugador con sus mismos objetos y efectos activos durante 30 segundos.
 
 -los ahogado hace tp siempre 
