@@ -14,12 +14,14 @@ Solo los jugadores más experimentados y valientes se atreverán a enfrentar el 
 - Todos los enemigos normales tienen un **25%** más de vida.
 
 dia 5
+-Explosión en cadena: Cuando un RegenCreeper explota, genera una explosión en cadena con otros creepers cercanos, que también explotan en un radio de 15 bloques.
+
 -Los enemigo no infige daño entre ellos (en desarrolo)
 
--Los Mirror Skeletons pueden duplicar la una copia del jugador con sus mismos objetos y efectos activos durante 30 segundos.
+-Los Mirror Skeletons pueden duplicar la una copia del jugador con sus mismos objetos y efectos activos durante 30 segundos. (en desarrolo)
 
 -los ahogado hace tp siempre 
 
--Daño por veneno acumulado: Si una araña golpea al jugador varias veces seguidas, el veneno acumula daño y sube hasta "Poison IV".
+-Daño por Veneno Acumulado: Después de cinco ataques de una araña (normal o de cueva), el jugador queda con veneno de nivel IV durante 15 segundos, y este efecto se mantiene tras cada ataque adicional.
 
 -Si un jugador es alcanzado por un Wither Skeleton, recibe "Wither II" 10 segundos.
