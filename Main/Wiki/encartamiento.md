@@ -5,7 +5,7 @@ El comerciante de la jungla tiene nuevos tradeos, estos son:
 - **Mining Cataclysm Nivel Máximo 1:** Pica todos los minerales del mismo tipo que estén adyacentes al mineral.
 - **Crop Renewal Nivel Máximo 1:** Cuando golpeas un cultivo no crecido este no se rompe.
 - **Woodland Wrath Nivel Máximo 1:** Al talar un árbol este se rompe completo.
-
+- **Double Jump Nivel Máximo 4:** Te agrega un salto doble y cada nivel aumenta la altura de salto.
 ## [Dia 10](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%2010.md)
 
 - **Ethereal Piercing Nivel Máximo 1:** Hace que la flecha no tenga colisión y pueda pasar a través de todos los bloques.
