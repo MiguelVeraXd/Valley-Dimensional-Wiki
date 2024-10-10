@@ -13,7 +13,7 @@ Solo los jugadores más experimentados y valientes se atreverán a enfrentar el 
 - La vida de todos los jefes aumenta un **50%** por cada jugador adicional que se una a la pelea.
 - Todos los enemigos normales tienen un **25%** más de vida.
 
-dia 5
+## [Dia 5](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%2010.md)
 -Explosión en cadena: Cuando un RegenCreeper explota, genera una explosión en cadena con otros creepers cercanos, que también explotan en un radio de 15 bloques.
 
 -Los enemigo no infige daño entre ellos (en desarrolo)
