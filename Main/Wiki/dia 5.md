@@ -188,11 +188,13 @@ __*Woodland Wrath:*__ Al talar un árbol, toda la madera de este se romperá por
 
 ![arco_vida](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/arco_de_vida.png)
 
-*El lingote utilizado en su creación es el "lingote de Glaciarium"*
+*El lingote utilizado en su creación es el "Lingote de Glaciarium"*
 
 * Arco de Hielo:
 
 ![arco_hielo](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/arco_de_hielo.png) 
+
+*El lingote utilizado en su creación es el "Lingote de Glaciarium"*
 
 * Nuevo Escudo:
 
