@@ -206,7 +206,7 @@ __*Woodland Wrath:*__ Al talar un árbol, toda la madera de este se romperá por
 
 * Nueva mejora para las botas, se consigue haciendo que una rana se coma a un magma cube (las ranas spawnean en el nether de manera natural y estas son atacadas por todos los mobs hostiles).
 
-* Nuevo "Brewing Stand": Sirve para combinar, potenciar y amplificar la duración de las pociones, llevándolas así a nuevos niveles.
+* Nuevo "Potionexus": Sirve para combinar, potenciar y amplificar la duración de las pociones, llevándolas así a nuevos niveles.
 
 ![potionexus](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/potionexus.png)
 
