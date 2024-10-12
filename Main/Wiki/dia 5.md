@@ -210,7 +210,7 @@ __*Woodland Wrath:*__ Al talar un árbol, toda la madera de este se romperá por
 
 ![potionexus](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/potionexus.png)
 
-*Los bloques de obsidiana son "Bloques de Obsidiana x8"*
+*El bloque de obsidiana es un "Bloque de Obsidiana x8"*
 
 El cuero de cabra se consigue usando unas tijeras con una cabra demoníaca.
 
