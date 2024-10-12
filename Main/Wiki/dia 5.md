@@ -42,7 +42,7 @@ __Utilización de la Perla de Ender.__
 
 __Uso de pociones de "Fire Resistance".__
 
-__Cargan sus ballestas con flechas de efecto de Wither.__ (error)
+__Cargan sus ballestas con flechas de efecto de Wither.__
 
 __Mejor aprovechamiento de los encantamientos.__
 
@@ -54,7 +54,7 @@ __Están equipadas con un casco de diamante encantado con Thorns XX y Protection
 
 * Los Ahogados:
 
-__Siempre llevan un Tridente con Impaling XV.__ (error)
+__Siempre llevan un Tridente con Impaling XV.__
 
 __Spawnean por todo el Overworld en cualquier lugar donde haya agua.__
 
@@ -118,7 +118,7 @@ __Verde: Te dan el efecto de "Poison II" por 1 minuto.__
 
 * Los zombies y husks tienen Knockback Resistance 1.0.
 
-* Los jugadores se pueden cambiar de clase nuevamente y todas estas se han mejorado. (error)
+* Los jugadores se pueden cambiar de clase nuevamente y todas estas se han mejorado.
 
 ## Bosses
 
