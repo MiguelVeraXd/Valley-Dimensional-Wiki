@@ -208,7 +208,7 @@ __*Woodland Wrath:*__ Al talar un árbol, toda la madera de este se romperá por
 
 * Nuevo "Brewing Stand": Sirve para combinar, potenciar y amplificar la duración de las pociones, llevándolas así a nuevos niveles.
 
-image.png
+![potionexus](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/potionexus.png)
 
 *Los bloques de obsidiana son "Bloques de Obsidiana x8"*
 
