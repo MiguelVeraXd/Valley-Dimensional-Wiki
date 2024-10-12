@@ -162,7 +162,7 @@ __*Invocador de Calamidades:*__ Este nuevo evocador tiene la capacidad de gólem
 Drop = "Poción de Maestro Tortuga en su forma base".
 
 __*Esqueleto Profanador:*__ Este esqueleto tiene la capacidad de bloquear los slots 18, 27 y 36 (estos se desbloquearán al pasar 15 segundos), tiene 70 puntos de vida (35 corazones), "Power ?", inmunidad a los proyectiles y al fuego y lleva consigo 3 piezas de diamante con "Protection IV". 
-Drop = "Arco Roto Sombrío" (el cual es un arco que tendrá los encantamiento de infinity y mending ya incluidos, además, este tiene 2 posibles mejoras).
+Drop = "Arco Roto Sombrío" (el cual es un arco que tendrá los encantamiento de infinity y mending ya incluidos, además, este tiene 2 posibles mejoras). (error)
 
 ## [Encantamientos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/encartamiento.md) 
 
