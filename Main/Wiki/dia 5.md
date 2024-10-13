@@ -136,8 +136,6 @@ Warden of Devastation
 
 ![warden_of_devastation](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/bosses/warden_of_devastation-crop.gif)
 
-![warden_comparación](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/bosses/warden_of_devastation.gif)
-
 ## Eventos
 
 * El Auge de la Luna (Moonlight): 
