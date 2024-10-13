@@ -136,7 +136,7 @@ Demonic Goat
 
 Warden of Devastation
 
-![warden_of_devastation](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/bosses/warden_of_devastation-resize.gif) ![flame_sentinel](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/bosses/flame_sentinel-resize.gif)
+![warden_of_devastation](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/bosses/warden_of_devastation-crop2.gif) ![flame_sentinel](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/bosses/flame_sentinel-resize.gif)
 
 ## Eventos
 
