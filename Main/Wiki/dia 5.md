@@ -126,7 +126,7 @@ __Verde: Te dan el efecto de "Poison II" por 1 minuto.__
 
 /blizzard_lord_info
 
-* Flame Sentinel:
+* __Flame Sentinel:__
 
 ![flame_sentinel](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/bosses/flame_sentinel-resize.gif)
 
@@ -134,7 +134,7 @@ Guardián de las Profundidades
 
 Demonic Goat
 
-Warden of Devastation
+* __Warden of Devastation:__
 
 ![warden_of_devastation](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/bosses/warden_of_devastation-crop2.gif)
 
