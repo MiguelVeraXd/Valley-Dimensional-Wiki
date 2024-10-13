@@ -128,7 +128,7 @@ __Verde: Te dan el efecto de "Poison II" por 1 minuto.__
 
 Flame Sentinel
 
-![flame_sentinel](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/bosses/flame_sentinel.gif)
+![flame_sentinel](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/bosses/flame_sentinel-resize.gif)
 
 Guardián de las Profundidades
 
