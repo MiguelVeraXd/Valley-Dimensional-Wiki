@@ -37,6 +37,7 @@ Si estás interesado en ayudar a mejorar la wiki, puedes contactarme directament
 - [**Dificultad**](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dificultad.md)
 - [Eventos](#)
 - [Pesca](#)
+- [**Logros**](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/logros.md)
 - [**Rareza de items**](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/rareza%20de%20item.md)
 ### Biomas y Estructuras
 
