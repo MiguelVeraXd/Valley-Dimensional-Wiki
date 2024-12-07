@@ -6,49 +6,47 @@
 
 - Ahora todos los mobs del juego tienen variantes, estas son:
 
-*Variante infernal: 1 de cada 5 golpes te genera lava en los pies
+_Variante Infernal: Sus golpes tendrán un 20% de probabilidad de generar lava en tus pies_
 
-*Variante invisible: al golpearte se vuelve invisible
+_Variante Invisible: Al golpearte se volverá invisible_
 
-*Variante de cuevas: los golpes aturden y te rompen la armadura más rápido
+_Variante de Cuevas: Sus golpes te aturdirán y romperán la armadura con una mayor rapidez._
 
-*Variante desértica: al estar cerca en un radio de 5 bloques te dan náuseas.
+_Variante Desértica: Al estar cerca del mob (dentro de un radio de 5 bloques) recibirás náuseas._
 
-*Variante salvaje: tiene fuerza 1 y velocidad 1 además se mueve más rápido por el agua
+_Variante Salvaje: El mob tendrá Strenght I y Speed I y además se moverá más rápido por el agua._
 
-*Variante del caos: te da un efecto negativo aleatorio por 15 segundos de nivel 1-2-3 
+_Variante del Caos: Sus golpes te darán un efecto negativo aleatorio por 15 segundos y este puede variar entre los niveles 1, 2 y 3._
 
-*Variante de noche: los enemigos te pueden ver a través de las paredes y a una distancia mayor
+_Variante de Noche: Te podrá ver a través de las paredes y a una mayor distancia._
 
-*Variante de brujo: al golpearte te quita Mana.
+_Variante de Brujo: Al golpearte te quitará Mana._
 
-*Variante de quebradiza: te desactiva el escudo.
+_Variante de Quebradiza: Te desactivará el escudo con cada golpe acertado._
 
-*Variante de vampiro: te roba vida al pegarte.
+_Variante de Vampiro: Te robará vida al pegarte._
 
-- Ahora todos los efectos negativos se mejoran haciendolos más peligrosos:
+- Ahora todos los efectos negativos se mejoran, haciéndolos así más peligrosos:
 
-*Levitación: te hace mover de forma aleatoria mientras te elevas
+_Levitación: Te hará moverte de forma aleatoria y errática mientras te elevas._
 
-*Nauseas: te revuelve la hotbar
+_Nauseas: Te revolerán la hotbar mientras hagan efecto._
 
-*Fatiga minera: al minar bloques te hace daño
+_Fatiga minera: Al minar bloques recibirás daño._
 
-*Debilidad: hacer daño, correr, agacharte y saltar te reduce tu barra de comida x3
+_Debilidad: Hacer daño, correr, agacharte y saltar reducirán tu barra de comida 3 veces más rápido._
 
-*Hambre: el daño de hambre se multiplica x5
+_Hambre: El daño por hambre se multiplicará en un x5._
 
-*Darkness: te asfixia.
+_Darkness: Te asfixiarás mientras la oscuridad este presente._
 
-- Las arañas normales tienen una probabilidad de llevar un spawner que pueden invocar cualquier mob hostil menos el ender dragon
+- Las arañas tienen una probabilidad de llevar un spawner en su espalda que puede invocar a cualquier mob hostil (sin incluir al Ender Dragon).
 
-- Las arañas de cueva puede deja telarañas al caminar
+- Las arañas de cueva dejan una telaraña cada 25 segundos en su posición.
 
-- El enderman tiene un mejor tp y también son inmunes al fuego y agua, ademas tiene 60 puntos de vida
+- Los endermans tienen un mejor tp, se vuelven inmunes al fuego y agua, su vida aumenta a 60 puntos de vida y su "Aggro" nunca se acaba.
 
-- Los enderman cuanto se enoja no se calma
-
-- Los esqueletos espejo además de cambiar tu efecto positivo te lo roba y te lo cambia por negativo
+- Los esqueletos espejo ahora te roban tu efecto positivo por uno negativo
 
 - Los pistones al ser activados se rompen
 
