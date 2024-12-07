@@ -46,15 +46,15 @@ _Darkness: Te asfixiarás mientras la oscuridad este presente._
 
 - Los endermans tienen un mejor tp, se vuelven inmunes al fuego y agua, su vida aumenta a 60 puntos de vida y su "Aggro" nunca se acaba.
 
-- Los esqueletos espejo ahora te roban tu efecto positivo por uno negativo
+- Los "Mirror Skeletons" ahora adquieren tus efectos positivos al momento de realizar el intercambio de efectos.
 
-- Los pistones al ser activados se rompen
+- Los pistones al ser activados se rompen.
 
-- Las herramientas se gastan el doble de rápido
+- Las herramientas se gastan el doble de rápido.
 
-- Los creepers pueden desactivar el escudo por 9 segundos después de explotar
+- Los creepers, al explotar, desactivan el escudo durante 9 segundos.
 
-- El warden no recibe daño snow golems
+- El warden ya no recibe daño por snow golems.
 
 ## Items Nuevos
 
