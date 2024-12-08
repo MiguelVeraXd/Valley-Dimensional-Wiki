@@ -58,19 +58,31 @@ _Darkness: Te asfixiarás mientras la oscuridad este presente._
 
 ## Items Nuevos
 
-- Se puedes craftear antorchas contra el agua: image.png
+- Ahora se pueden craftear antorchas contra el agua: 
 
-- Nueva mejora para el polvo de hueso: image.png
+image.png
 
-- Nuevo item: image.png
+- Nueva mejora para el polvo de hueso: 
 
-- Nuevo item para revivir players: image.png
+image.png
 
-- Nueva mochila: image.png
+- Nuevo item: 
 
-- Nuevos bloques stackeados: image.png y image.png
+image.png
 
-- Se añaden nuevas herramientas que al usarlas se upgradean, su upgrade es con una nueva plantilla, herramienta de netherite y un lingote de glaciarium: image.png
+- Nuevo item para revivir players: 
+
+image.png
+
+- Nueva mochila: 
+
+image.png
+
+- Nuevos bloques stackeados: 
+
+image.png y image.png
+
+- Se añaden las herramientas de Estelarita. Al usarlas se upgradean. su upgrade es con una nueva plantilla, herramienta de netherite y un lingote de glaciarium: image.png
 
 - Se añade una nueva mesa de crafteo (a partir de aqui todos los crafteos son en la nueva mesa): image.png
 
