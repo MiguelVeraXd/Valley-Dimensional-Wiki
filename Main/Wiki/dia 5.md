@@ -10,31 +10,31 @@ _Cada vez que explotan se pueden regenerar como nuevo RegenCreeper en un radio 5
 
 _Llevan un Tótem de la Inmortalidad equipado._
 
-__Tienen los efectos de "Speed II" y "Resistance II" de manera infinita__
+_Tienen los efectos de "Speed II" y "Resistance II" de manera infinita_
 
 * Todos los Ghast:
 
-__Tienen más salud (50 puntos de vida = 25 corazones).__
+_Tienen más salud (50 puntos de vida = 25 corazones)._
 
-__Tienen "Regeneration I" infinita.__
+_Tienen "Regeneration I" infinita._
 
-__Tienen una mayor velocidad de movimiento.__
+_Tienen una mayor velocidad de movimiento._
 
-__Disminuyen las pausas que se toman entre cada bola de fuego que disparan.__
+_Disminuyen las pausas que se toman entre cada bola de fuego que disparan._
 
 * Los Wither Skeletons:
 
-__Tienen más salud (40 puntos de vida = 20 corazones).__
+_Tienen más salud (40 puntos de vida = 20 corazones)._
 
-__Llevan una armadura de cuero teñida de color negro.__
+_Llevan una armadura de cuero teñida de color negro._
 
-__Tienen la habilidad de atacar tanto a distancia como a melee.__
+_Tienen la habilidad de atacar tanto a distancia como a melee._
 
-__Llevan consigo un arco de "Power XXV", "Flame V" y "Punch III".__
+_Llevan consigo un arco de "Power XXV", "Flame V" y "Punch III"._
 
-__Su espada ahora es de netherite, además, tiene "Sharpness V" y "Fire Aspect II".__
+_Su espada ahora es de netherite, además, tiene "Sharpness V" y "Fire Aspect II"._
 
-__Cuando te pegan a melee te dan "Wither I" por 10 segundos.__
+_Cuando te pegan a melee te dan "Wither I" por 10 segundos.__
 
 * Los Piglins muestran un aumento en su "IQ", lo que los hace más hábiles en cuanto a el uso de sus recursos. A continuación, se presentan algunas mejoras que se observan en su comportamiento:
 
