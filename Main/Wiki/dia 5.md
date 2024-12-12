@@ -1,6 +1,6 @@
 ## Cambios de Dificultad
 
-__* Todos los creeper ahora son "RegenCreeper":__
+__- Todos los creeper ahora son "RegenCreeper":__
 
 _Son eléctricos._
 
