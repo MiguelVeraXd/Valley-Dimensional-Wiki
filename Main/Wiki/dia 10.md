@@ -98,7 +98,7 @@ image.png
 
 - Ahora los zombies pueden romper cualquier tipo de bloque luminoso.
 
-## [Enchatamiento](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/encartamiento.md) 
+## [Encantamientos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/encartamiento.md) 
 
 -Nuevo encantamiento para el tridente: Hydromagic Attraction (Nivel Máximo: 1). Con este, el jugador podrá atraer los objetos del suelo hacia él con un simple lanzamiento de tridente (es importante recalcar que, para poder aplicar este encantamiento, el tridente seleccionado debe ya estar encantado con Lealtad, ya sea de nivel I, II o III.)
 
