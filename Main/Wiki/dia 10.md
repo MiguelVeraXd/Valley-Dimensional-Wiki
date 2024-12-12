@@ -1,5 +1,3 @@
-| CAMBIOS DIA 10 |
-
 ## Cambios de Dificultad
 
 - Al llover se generan bloques de agua de manera aleatoria.
