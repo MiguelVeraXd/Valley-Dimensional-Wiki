@@ -82,19 +82,22 @@ image.png
 
 image.png y image.png
 
-- Se añaden las herramientas de Estelarita. Al usarlas se upgradean. su upgrade es con una nueva plantilla, herramienta de netherite y un lingote de glaciarium: image.png
+- Ahora se pueden upgradear las herramientas de Netherite y convertirlas en __herramientas de Stelarita.__ Para obtener esta mejora se debe colocar la nueva plantilla, la herramienta de netherite que se desee mejorar y un lingote de glaciarium: 
 
-- Se añade una nueva mesa de crafteo (a partir de aqui todos los crafteos son en la nueva mesa): image.png
+image.png
 
-- Se agrega una nueva caña de pescar exclusiva para el nether: image.png
+- Se añade una nueva mesa de crafteo, el __"Altar of Creation"__ (a partir de aqui todos los crafteos son en la nueva mesa): image.png
+
+- Se agrega una nueva __"Caña de Pescar"__ exclusiva para el nether: image.png
 
 ## Cambios al Gameplay Vanilla
 
-- El wandering trader de la jungla tienen nuevos tradeos
+- El wandering trader de la jungla tiene nuevos tradeos.
 
-- Se pueden descraftear faros con la nueva mesa (alta creator)
+- Se pueden descraftear faros con la nueva mesa.
 
 ## [Enchatamiento](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/encartamiento.md) 
+
 -ENCANTAMIENTOS:
 -Nuevo encantamiento para el tridente que atrae objetos: Hydromagic Attraction
 Nivel Máximo 1 
