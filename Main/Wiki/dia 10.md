@@ -62,7 +62,7 @@ _Darkness: Te asfixiarás mientras la oscuridad este presente._
 
 image.png
 
-- Nueva mejora para el polvo de hueso: 
+- Nueva mejora para el Polvo de Hueso: 
 
 image.png
 
@@ -78,7 +78,7 @@ image.png
 
 image.png
 
-- Nuevos bloques stackeados: 
+- Nuevos bloques de Oro y Diamante stackeados: 
 
 image.png y image.png
 
