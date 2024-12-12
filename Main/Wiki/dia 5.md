@@ -2,39 +2,39 @@
 
 - Todos los creeper ahora son "RegenCreeper":
 
-_Son eléctricos._
+__Son eléctricos.__
 
-_Pueden ver a través de las paredes._
+__Pueden ver a través de las paredes.__
 
-_Cada vez que explotan se pueden regenerar como nuevo RegenCreeper en un radio 5 bloques de donde explotan inicialmente._
+__Cada vez que explotan se pueden regenerar como nuevo RegenCreeper en un radio 5 bloques de donde explotan inicialmente.__
 
-_Llevan un Tótem de la Inmortalidad equipado._
+__Llevan un Tótem de la Inmortalidad equipado.__
 
-_Tienen los efectos de "Speed II" y "Resistance II" de manera infinita_
+__Tienen los efectos de "Speed II" y "Resistance II" de manera infinita__
 
 * Todos los Ghast:
 
-_Tienen más salud (50 puntos de vida = 25 corazones)._
+__Tienen más salud (50 puntos de vida = 25 corazones).__
 
-_Tienen "Regeneration I" infinita._
+__Tienen "Regeneration I" infinita.__
 
-_Tienen una mayor velocidad de movimiento._
+__Tienen una mayor velocidad de movimiento.__
 
-_Disminuyen las pausas que se toman entre cada bola de fuego que disparan._
+__Disminuyen las pausas que se toman entre cada bola de fuego que disparan.__
 
 * Los Wither Skeletons:
 
-_Tienen más salud (40 puntos de vida = 20 corazones)._
+__Tienen más salud (40 puntos de vida = 20 corazones).__
 
-_Llevan una armadura de cuero teñida de color negro._
+__Llevan una armadura de cuero teñida de color negro.__
 
-_Tienen la habilidad de atacar tanto a distancia como a melee._
+__Tienen la habilidad de atacar tanto a distancia como a melee.__
 
-_Llevan consigo un arco de "Power XXV", "Flame V" y "Punch III"._
+__Llevan consigo un arco de "Power XXV", "Flame V" y "Punch III".__
 
-_Su espada ahora es de netherite, además, tiene "Sharpness V" y "Fire Aspect II"._
+__Su espada ahora es de netherite, además, tiene "Sharpness V" y "Fire Aspect II".__
 
-_Cuando te pegan a melee te dan "Wither I" por 10 segundos.__
+__Cuando te pegan a melee te dan "Wither I" por 10 segundos.__
 
 * Los Piglins muestran un aumento en su "IQ", lo que los hace más hábiles en cuanto a el uso de sus recursos. A continuación, se presentan algunas mejoras que se observan en su comportamiento:
 
