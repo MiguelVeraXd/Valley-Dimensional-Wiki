@@ -2,13 +2,13 @@
 
 * Todos los creeper ahora son "RegenCreeper":
 
-__Son eléctricos.__
+_Son eléctricos._
 
-__Pueden ver a través de las paredes.__
+_Pueden ver a través de las paredes._
 
-__Cada vez que explotan se pueden regenerar como nuevo RegenCreeper en un radio 5 bloques de donde explotan inicialmente.__
+_Cada vez que explotan se pueden regenerar como nuevo RegenCreeper en un radio 5 bloques de donde explotan inicialmente._
 
-__Llevan un Tótem de la Inmortalidad equipado.__
+_Llevan un Tótem de la Inmortalidad equipado._
 
 __Tienen los efectos de "Speed II" y "Resistance II" de manera infinita__
 
