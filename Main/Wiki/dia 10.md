@@ -38,6 +38,8 @@ _Hambre: El daño por hambre se multiplicará en un x5._
 
 _Darkness: Te asfixiarás mientras la oscuridad este presente._
 
+_Oozing: No te deja salta._
+
 - Las arañas tienen una probabilidad de llevar un spawner en su espalda que puede invocar a cualquier mob hostil (sin incluir al Ender Dragon).
 
 - Las arañas de cueva dejan una telaraña cada 25 segundos en su posición.
