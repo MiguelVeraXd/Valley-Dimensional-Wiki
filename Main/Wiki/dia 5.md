@@ -1,16 +1,16 @@
 ## Cambios de Dificultad
 
-- Todos los creeper ahora son "RegenCreeper":
+- Todos los creeper ahora son __"RegenCreeper":__
 
-__Son eléctricos.__
+  - __Son eléctricos.__
 
-__Pueden ver a través de las paredes.__
+  - __Pueden ver a través de las paredes.__
 
-__Cada vez que explotan se pueden regenerar como nuevo RegenCreeper en un radio 5 bloques de donde explotan inicialmente.__
+  - __Cada vez que explotan se pueden regenerar como nuevo RegenCreeper en un radio 5 bloques de donde explotan inicialmente.__
 
-__Llevan un Tótem de la Inmortalidad equipado.__
+  - __Llevan un Tótem de la Inmortalidad equipado.__
 
-__Tienen los efectos de "Speed II" y "Resistance II" de manera infinita__
+  - __Tienen los efectos de "Speed II" y "Resistance II" de manera infinita__
 
 * Todos los Ghast:
 
