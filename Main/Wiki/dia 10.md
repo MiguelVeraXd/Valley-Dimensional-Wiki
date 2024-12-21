@@ -26,19 +26,19 @@ __Variante de Vampiro: Te robará vida al pegarte.__
 
 - Ahora todos los efectos negativos se mejoran, haciéndolos así más peligrosos:
 
-_Levitación: Te hará moverte de forma aleatoria y errática mientras te elevas._
+__Levitación: Te hará moverte de forma aleatoria y errática mientras te elevas.__
 
-_Nauseas: Te revolerán la hotbar mientras hagan efecto._
+__Nauseas: Te revolerán la hotbar mientras hagan efecto.__
 
-_Fatiga minera: Al minar bloques recibirás daño._
+__Fatiga minera: Al minar bloques recibirás daño.__
 
-_Debilidad: Hacer daño, correr, agacharte y saltar reducirán tu barra de comida 3 veces más rápido._
+__Debilidad: Hacer daño, correr, agacharte y saltar reducirán tu barra de comida 3 veces más rápido.__
 
-_Hambre: El daño por hambre se multiplicará en un x5._
+__Hambre: El daño por hambre se multiplicará en un x5.__
 
-_Darkness: Te asfixiarás mientras la oscuridad este presente._
+__Darkness: Te asfixiarás mientras la oscuridad este presente.__
 
-_Oozing: No te deja salta._
+__Oozing: No te deja salta.__
 
 - Las arañas tienen una probabilidad de llevar un spawner en su espalda que puede invocar a cualquier mob hostil (sin incluir al Ender Dragon).
 
