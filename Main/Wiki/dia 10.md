@@ -14,15 +14,15 @@
 
   - __Variante Salvaje:__ El mob tendrá Strenght I y Speed I y además se moverá más rápido por el agua.
 
-__Variante del Caos: Sus golpes te darán un efecto negativo aleatorio por 15 segundos y este puede variar entre los niveles 1, 2 y 3.__
+  - __Variante del Caos:__ Sus golpes te darán un efecto negativo aleatorio por 15 segundos y este puede variar entre los niveles 1, 2 y 3.
 
-__Variante de Noche: Te podrá ver a través de las paredes y a una mayor distancia.__
+  - __Variante de Noche:__ Te podrá ver a través de las paredes y a una mayor distancia.
 
-__Variante de Brujo: Al golpearte te quitará Mana.__
+  - __Variante de Brujo:__ Al golpearte te quitará Mana.
 
-__Variante de Quebradiza: Te desactivará el escudo con cada golpe acertado.__
+  - __Variante de Quebradiza:__ Te desactivará el escudo con cada golpe acertado.
 
-__Variante de Vampiro: Te robará vida al pegarte.__
+  - __Variante de Vampiro:__ Te robará vida al pegarte.
 
 - Ahora todos los efectos negativos se mejoran, haciéndolos así más peligrosos:
 
