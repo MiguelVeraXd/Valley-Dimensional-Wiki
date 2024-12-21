@@ -20,15 +20,15 @@
 
 * Nuevo "Casco de Netherita Demoníaco" con:
 
-__*Doble de "Durabilidad"*__
+  - __Doble de "Durabilidad"__
 
-__*+4 Puntos de "Armadura"*__
+  - __+4 Puntos de "Armadura"__
 
-__*+1 Punto de "Knockback Resistance"*__
-
-__*Al "shiftear" mientras se tiene un arco en mano, se creará una área de partículas en la posición del jugador durante unos segundos. Estar dentro del área (aplica para todo jugador presente), aumentará en un 20% el daño de las flechas. La habilidad tiene un "Cooldown" de 40 segundos.*__
+  - __+1 Punto de "Knockback Resistance"__
 
 ![casco_de_netherita_demoniaco](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/casco_de_netherita_demoniaco.png)
+
+*Al "shiftear" mientras se tiene un arco en mano, se creará una área de partículas en la posición del jugador durante unos segundos. Estar dentro del área (aplica para todo jugador presente), aumentará en un 20% el daño de las flechas. La habilidad tiene un "Cooldown" de 40 segundos.*
 
 * "Respawn Anchor Conduit Rest":
 
@@ -97,33 +97,33 @@ __*Para activar esta inferfaz el jugador debe de "interactuar" con la mesa mient
 ## [Bosses](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/bosses.md)
 * El "Wither Boss" aumenta su dificultad, sus cambios son:
 
-__*100 corazones más.*__
+  - __100 corazones más.__
 
-__*Anula los efectos de los "Faros" en un radio de 50 bloques.*__
+  - __Anula los efectos de los "Faros" en un radio de 50 bloques.__
 
-__*Tiene una "Regeneración de Vida".*__
+  - __Tiene una "Regeneración de Vida".__
 
-__*Puede romper bloques de "Reinforced Deepslate".*__ 
+  - __Puede romper bloques de "Reinforced Deepslate".__ 
 
-__*Ahora, aparte de la "Nether Star", este dropeará un libro de "Mending I".*__
+  - __Ahora, aparte de la "Nether Star", este dropeará un libro de "Mending I".__
 
 * En su segunda fase:
 
-__*El "Explosion Power" de sus "Wither Skull" y "Wither Skull Dangerous" aumenta a "2".*__ 
+  - __El "Explosion Power" de sus "Wither Skull" y "Wither Skull Dangerous" aumenta a "2".__ 
 
-__*Tiene mayor velocidad.*__
+  - __Tiene mayor velocidad.__
 
-__*Mayor regeneración de vida.*__
+  - __Mayor regeneración de vida.__
 
-__*Invoca un "Defensor" el cual es inmortal y solo muere cuando matas al Wither.*__
+  - __Invoca un "Defensor" el cual es inmortal y solo muere cuando matas al Wither.__
 
 * En el "Nether" este boss se vuelve más complicado, sin embargo, esta dificultad se compensa con su loot el cual son 4 libros de "Nivel 40 de Enchanting" (aún así, el libro de "Mending I" y la "Nether Star" siguen siendo parte su loot table). Dicho esto, sus cambios en esta dimensión serán los siguientes:
 
-__*Todas sus "Wither Skull" y "Wither Skull Dangerous" dan "Wither III".*__
+  - __*Todas sus "Wither Skull" y "Wither Skull Dangerous" dan "Wither III".*__
 
-__*El "Explosion Power" de sus "Wither Skull" aumenta a "3" en su primera fase y a "4" en la segunda.*__
+  - __*El "Explosion Power" de sus "Wither Skull" aumenta a "3" en su primera fase y a "4" en la segunda.*__
 
-__*Las "Wither Skull Dangerous" tienen un "Explosion Power" de nivel "4" en su primera fase y nivel "5" en su segunda.*__
+  - __*Las "Wither Skull Dangerous" tienen un "Explosion Power" de nivel "4" en su primera fase y nivel "5" en su segunda.*__
 
 ## Generación del Mundo:
 
