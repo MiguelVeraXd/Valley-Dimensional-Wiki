@@ -125,6 +125,8 @@ __*Para activar esta inferfaz el jugador debe de "interactuar" con la mesa mient
 
   - __*Las "Wither Skull Dangerous" tienen un "Explosion Power" de nivel "4" en su primera fase y nivel "5" en su segunda.*__
 
+* Se añade un nuevo boss, el __"Coloso Salvaje"__, este nuevo jefe a llegado a los pantanos de este mundo para aterrorizar a los jugadores que se atrevan a desafiarlo.
+
 ## Generación del Mundo:
 
 * Se añaden nuevos minerales los cuales solo se encuentran en el overworld:
@@ -156,7 +158,7 @@ __*The House:*__ Una pequeña cabaña que aguarda en su interior antiguos conoci
 
 * En las "Junglas" podrás encontrar un comerciante bastante interesante.
 
-* En los "Pantanos" se genera una nueva estructura la cual viene acompañada de un atril que muestra las instrucciones a seguir para llevar a cabo la invocación de un nuevo "Mini-Boss".
+* En los "Pantanos" se genera una nueva estructura la cual viene acompañada de un atril que muestra las instrucciones a seguir para llevar a cabo la invocación de un nuevo "Boss".
 
 * En las "Savannas" se genera una nueva estructura.
 
