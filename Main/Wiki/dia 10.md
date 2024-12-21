@@ -4,21 +4,15 @@
 
 - Ahora todos los mobs del juego tienen variantes, estas son:
 
-- Item 1
-- Item 2
-  - Subitem 1
-  - Subitem 2
+  - __Variante Infernal:__ Sus golpes tendrán un 20% de probabilidad de generar lava en tus pies
 
+  - __Variante Invisible:__ Al golpearte se volverá invisible
 
-__Variante Infernal: Sus golpes tendrán un 20% de probabilidad de generar lava en tus pies__
+  - __Variante de Cuevas:__ Sus golpes te aturdirán y romperán la armadura con una mayor rapidez.
 
-__Variante Invisible: Al golpearte se volverá invisible__
+  - __Variante Desértica:__ Al estar cerca del mob (dentro de un radio de 5 bloques) recibirás náuseas.
 
-__Variante de Cuevas: Sus golpes te aturdirán y romperán la armadura con una mayor rapidez.__
-
-__Variante Desértica: Al estar cerca del mob (dentro de un radio de 5 bloques) recibirás náuseas.__
-
-__Variante Salvaje: El mob tendrá Strenght I y Speed I y además se moverá más rápido por el agua.__
+  - __Variante Salvaje:__ El mob tendrá Strenght I y Speed I y además se moverá más rápido por el agua.
 
 __Variante del Caos: Sus golpes te darán un efecto negativo aleatorio por 15 segundos y este puede variar entre los niveles 1, 2 y 3.__
 
