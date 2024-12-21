@@ -38,19 +38,19 @@
 
 * Los Piglins muestran un aumento en su "IQ", lo que los hace más hábiles en cuanto a el uso de sus recursos. A continuación, se presentan algunas mejoras que se observan en su comportamiento:
 
-__Utilización de la Perla de Ender.__
+  - __Utilización de la Perla de Ender.__
 
-__Uso de pociones de "Fire Resistance".__
+  - __Uso de pociones de "Fire Resistance".__
 
-__Cargan sus ballestas con flechas de efecto de Wither.__
+  - __Cargan sus ballestas con flechas de efecto de Wither.__
 
-__Mejor aprovechamiento de los encantamientos.__
+  - __Mejor aprovechamiento de los encantamientos.__
 
-__Utilización de la Manzana de Oro.__
+  - __Utilización de la Manzana de Oro.__
 
 * Las Arañas:
 
-__Están equipadas con un casco de diamante encantado con Thorns XX y Protection II, además, traen consigo unas botas de diamante encantadas con Depth Strider V y Fire Protection IV y Thorns XX.__
+  - __Están equipadas con un casco de diamante encantado con Thorns XX y Protection II, además, traen consigo unas botas de diamante encantadas con Depth Strider V y Fire Protection IV y Thorns XX.__
 
 * Los Ahogados:
 
