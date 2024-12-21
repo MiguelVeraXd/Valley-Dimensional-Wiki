@@ -100,14 +100,14 @@ image.png
 
 ## [Encantamientos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/encartamiento.md) 
 
-- Nuevo encantamiento para el tridente: Hydromagic Attraction (Nivel Máximo: 1). Con este, el jugador podrá atraer los objetos del suelo hacia él con un simple lanzamiento de tridente (es importante recalcar que, para poder aplicar este encantamiento, el tridente seleccionado debe ya estar encantado con Lealtad, ya sea de nivel I, II o III.)
+- Nuevo encantamiento para el tridente: __Hydromagic Attraction (Nivel Máximo: 1).__ Con este, el jugador podrá atraer los objetos del suelo hacia él con un simple lanzamiento de tridente (es importante recalcar que, para poder aplicar este encantamiento, el tridente seleccionado debe ya estar encantado con Lealtad, ya sea de nivel I, II o III.)
 
-- Nuevo encantamiento para la ballesta: Ethereal Piercing (Nivel Máximo: 1). Con este, las flechas saldrán disparadas sin colisión, por lo tanto, pueden traspasar todo tipo de bloques. 
+- Nuevo encantamiento para la ballesta: __Ethereal Piercing (Nivel Máximo: 1).__ Con este, las flechas saldrán disparadas sin colisión, por lo tanto, pueden traspasar todo tipo de bloques. 
 
-- Nuevo encantamiento para el tridente: Fire Riptide (Nivel Máximo: 1). Funciona igual que el Riptide tradicional solo que, a diferencia de este, sólo se activa en fuego y lava (para poder aplicar este encantamiento, el tridente seleccionado debe ya estar encantado con riptide, ya sea de nivel I, II o III.)
+- Nuevo encantamiento para el tridente: __Fire Riptide (Nivel Máximo: 1).__ Funciona igual que el Riptide tradicional solo que, a diferencia de este, sólo se activa en fuego y lava (para poder aplicar este encantamiento, el tridente seleccionado debe ya estar encantado con riptide, ya sea de nivel I, II o III.)
 
-- Nuevo encantamiento para el tridente: Sharp Ignition (Nivel Máximo: 3). Al Atacar a un mob que esté en fuego o lava, este recibirá mucho más daño de lo habitual (similiar a lo que hace el encantamiento de Empaleamiento).
+- Nuevo encantamiento para el tridente: __Sharp Ignition (Nivel Máximo: 3).__ Al Atacar a un mob que esté en fuego o lava, este recibirá mucho más daño de lo habitual (similiar a lo que hace el encantamiento de Empaleamiento).
 
-- Nuevo encantamiento para las herramientas: Fragmentáctil (Nivel Máximo: 1). Te permite cambiar entre fortuna 3 y toque de seda en tus herramientas.
+- Nuevo encantamiento para las herramientas: __Fragmentáctil (Nivel Máximo: 1).__ Te permite cambiar entre fortuna 3 y toque de seda en tus herramientas.
 
 
