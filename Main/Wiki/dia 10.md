@@ -4,6 +4,12 @@
 
 - Ahora todos los mobs del juego tienen variantes, estas son:
 
+- Item 1
+- Item 2
+  - Subitem 1
+  - Subitem 2
+
+
 __Variante Infernal: Sus golpes tendrán un 20% de probabilidad de generar lava en tus pies__
 
 __Variante Invisible: Al golpearte se volverá invisible__
