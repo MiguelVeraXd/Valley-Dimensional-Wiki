@@ -4,25 +4,25 @@
 
 - Ahora todos los mobs del juego tienen variantes, estas son:
 
-_Variante Infernal: Sus golpes tendrán un 20% de probabilidad de generar lava en tus pies_
+__Variante Infernal: Sus golpes tendrán un 20% de probabilidad de generar lava en tus pies__
 
-_Variante Invisible: Al golpearte se volverá invisible_
+__Variante Invisible: Al golpearte se volverá invisible__
 
-_Variante de Cuevas: Sus golpes te aturdirán y romperán la armadura con una mayor rapidez._
+__Variante de Cuevas: Sus golpes te aturdirán y romperán la armadura con una mayor rapidez.__
 
-_Variante Desértica: Al estar cerca del mob (dentro de un radio de 5 bloques) recibirás náuseas._
+__Variante Desértica: Al estar cerca del mob (dentro de un radio de 5 bloques) recibirás náuseas.__
 
-_Variante Salvaje: El mob tendrá Strenght I y Speed I y además se moverá más rápido por el agua._
+__Variante Salvaje: El mob tendrá Strenght I y Speed I y además se moverá más rápido por el agua.__
 
-_Variante del Caos: Sus golpes te darán un efecto negativo aleatorio por 15 segundos y este puede variar entre los niveles 1, 2 y 3._
+__Variante del Caos: Sus golpes te darán un efecto negativo aleatorio por 15 segundos y este puede variar entre los niveles 1, 2 y 3.__
 
-_Variante de Noche: Te podrá ver a través de las paredes y a una mayor distancia._
+__Variante de Noche: Te podrá ver a través de las paredes y a una mayor distancia.__
 
-_Variante de Brujo: Al golpearte te quitará Mana._
+__Variante de Brujo: Al golpearte te quitará Mana.__
 
-_Variante de Quebradiza: Te desactivará el escudo con cada golpe acertado._
+__Variante de Quebradiza: Te desactivará el escudo con cada golpe acertado.__
 
-_Variante de Vampiro: Te robará vida al pegarte._
+__Variante de Vampiro: Te robará vida al pegarte.__
 
 - Ahora todos los efectos negativos se mejoran, haciéndolos así más peligrosos:
 
