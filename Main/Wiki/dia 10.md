@@ -4,9 +4,9 @@
 
 - Ahora todos los mobs del juego tienen variantes, estas son:
 
-  - __Variante Infernal:__ Sus golpes tendrán un 20% de probabilidad de generar lava en tus pies
+  - __Variante Infernal:__ Sus golpes tendrán un 20% de probabilidad de generar lava en tus pies.
 
-  - __Variante Invisible:__ Al golpearte se volverá invisible
+  - __Variante Invisible:__ Al golpearte se volverá invisible.
 
   - __Variante de Cuevas:__ Sus golpes te aturdirán y romperán la armadura con una mayor rapidez.
 
@@ -26,19 +26,19 @@
 
 - Ahora todos los efectos negativos se mejoran, haciéndolos así más peligrosos:
 
-__Levitación: Te hará moverte de forma aleatoria y errática mientras te elevas.__
+  - __Levitación:__ Te hará moverte de forma aleatoria y errática mientras te elevas.
 
-__Nauseas: Te revolerán la hotbar mientras hagan efecto.__
+  - __Nauseas:__ Te revolerán la hotbar mientras hagan efecto.
 
-__Fatiga minera: Al minar bloques recibirás daño.__
+  - __Fatiga Minera:__ Al minar bloques recibirás daño.
 
-__Debilidad: Hacer daño, correr, agacharte y saltar reducirán tu barra de comida 3 veces más rápido.__
+  - __Debilidad:__ Hacer daño, correr, agacharte y saltar reducirán tu barra de comida 3 veces más rápido.
 
-__Hambre: El daño por hambre se multiplicará en un x5.__
+  - __Hambre:__ El daño por hambre se multiplicará en un x5.
 
-__Darkness: Te asfixiarás mientras la oscuridad este presente.__
+  - __Darkness:__ Te asfixiarás mientras la oscuridad este presente.
 
-__Oozing: No te deja salta.__
+  - __Oozing:__ No te deja saltar.
 
 - Las arañas tienen una probabilidad de llevar un spawner en su espalda que puede invocar a cualquier mob hostil (sin incluir al Ender Dragon).
 
