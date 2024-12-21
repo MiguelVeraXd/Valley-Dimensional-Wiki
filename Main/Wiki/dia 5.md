@@ -54,33 +54,33 @@
 
 * Los Ahogados:
 
-__Siempre llevan un Tridente con Impaling XV.__
+  - __Siempre llevan un Tridente con Impaling XV.__
 
-__Spawnean por todo el Overworld en cualquier lugar donde haya agua.__
+  - __Spawnean por todo el Overworld en cualquier lugar donde haya agua.__
 
-__Son más veloces.__
+  - __Son más veloces.__
 
-__Atacan en un radio de 50 bloques.__
+  - __Atacan en un radio de 50 bloques.__
 
-__Al impactarte con su Tridente, este tiene una probabilidad del 25% de hacerte tp a su posición.__
+  - __Al impactarte con su Tridente, este tiene una probabilidad del 25% de hacerte tp a su posición.__
 
-__Tiene menos probabilidad de dropear su Tridente.__
+  - __Tiene menos probabilidad de dropear su Tridente.__
 
 * Mirror Skeletons:
 
-__Siempre llevan una armadura de hierro.__
+  - __Siempre llevan una armadura de hierro.__
 
-__Su mecánica se basa en invertir los efectos del jugador, pasándolos de positivos a negativos.__
+  - __Su mecánica se basa en invertir los efectos del jugador, pasándolos de positivos a negativos.__
 
 * Aldeanos Zombies:
 
-__Aura de desesperación: Los aldeanos zombies te dan el efecto de "Weakness III" y "Slowness II" por 7 segundos al estar cerca de ellos.__
+  - __Aura de desesperación: Los aldeanos zombies te dan el efecto de "Weakness III" y "Slowness II" por 7 segundos al estar cerca de ellos.__
 
 * Los Endermans:
 
-__Ahora hacen daño de vacío (no te salva el tótem).__
+  - __Ahora hacen daño de vacío (no te salva el tótem).__
 
-__Dropean "Soul of Enderman".__
+  - __Dropean "Soul of Enderman".__
 
 * Las Brujas al morir lanzan una poción de un efecto negativo completamente aleatorio. (error)
 
@@ -108,11 +108,11 @@ __Dropean "Soul of Enderman".__
 
 * Los slimes ahora son diferentes colores y cada color representa una variante que a su vez hace cosas distintas:
 
-__Azul: Te dan "Blindness" por 1 minuto.__
+  - __Azul: Te dan "Blindness" por 1 minuto.__
 
-__Rojo: Te prenden en fuego cuando te pegan y lanzan fuego por la boca.__
+  - __Rojo: Te prenden en fuego cuando te pegan y lanzan fuego por la boca.__
 
-__Verde: Te dan el efecto de "Poison II" por 1 minuto.__
+  - __Verde: Te dan el efecto de "Poison II" por 1 minuto.__
 
 * Los phantoms han cambiado y ahora al golpearte te inyectan una sustancia dañina cuya cura solo se encuentra al tomar leche o gastar tótem.
 
