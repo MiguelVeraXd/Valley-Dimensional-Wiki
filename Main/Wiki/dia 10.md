@@ -38,7 +38,7 @@
 
   - __Darkness:__ Te asfixiarás mientras la oscuridad este presente.
 
-  - __Oozing:__ No te deja saltar.
+  - __Oozing:__ No te dejará saltar.
 
 - Las arañas tienen una probabilidad de llevar un spawner en su espalda que puede invocar a cualquier mob hostil (sin incluir al Ender Dragon).
 
