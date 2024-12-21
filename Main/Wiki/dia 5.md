@@ -146,33 +146,33 @@ __Este es un evento el cual ocurre cuando la luna alcanza su punto más alto en 
 
 * Características del Evento:
 
-__Fragmento de Etérea: Durante el evento "Moonlight", los mobs del mismo tienen una probabilidad de dropear un misterioso "Fragmento de Etérea" al ser derrotados.__
+  - __Fragmento de Etérea:__ Durante el evento "Moonlight", los mobs del mismo tienen una probabilidad de dropear un misterioso "Fragmento de Etérea" al ser derrotados.
 
-__Duración del Evento: El evento "Moonlight" dura el doble de una noche completa en el juego.__
+  - __Duración del Evento:__ El evento "Moonlight" dura el doble de una noche completa en el juego.
 
-__Mobs: Durante el evento pueden spawnear diferentes mobs...__
+  - __Mobs:__ Durante el evento pueden spawnear diferentes mobs...
 
-__*Slimes Negativos:*__ Son el doble de grandes, tienen más vida y cuando te pegan te rotarán la cámara en un ángulo de 180 grados.
+  - __*Slimes Negativos:*__ Son el doble de grandes, tienen más vida y cuando te pegan te rotarán la cámara en un ángulo de 180 grados.
 
-__*Almas en Pena:*__ Son zombies de varias cualidades; roban vida al pegarte, tienen 60 puntos de vida (30 corazones), tienen 13 puntos daño base y son más rápidos (velocidad similar a la de un zombie bebé).
+  - __*Almas en Pena:*__ Son zombies de varias cualidades; roban vida al pegarte, tienen 60 puntos de vida (30 corazones), tienen 13 puntos daño base y son más rápidos (velocidad similar a la de un zombie bebé).
 
-__*Guerrero Vagante:*__ Este es un vindicador de 60 puntos de vida (30 corazones) y que, cada vez que hace daño, su fuerza aumenta.
+  - __*Guerrero Vagante:*__ Este es un vindicador de 60 puntos de vida (30 corazones) y que, cada vez que hace daño, su fuerza aumenta.
 
-__*Invocador de Calamidades:*__ Este nuevo evocador tiene la capacidad de gólems de hierro con un intervalo de 10 segundos como método de defensa, estos tienen la capacidad de robarse la vida al jugador con cada golpe acertado. Además de todo esto, el evocador no recibe daño por flechas y, al estar cercas de él en un radio de 5 bloques, te dará ceguera.
+  - __*Invocador de Calamidades:*__ Este nuevo evocador tiene la capacidad de gólems de hierro con un intervalo de 10 segundos como método de defensa, estos tienen la capacidad de robarse la vida al jugador con cada golpe acertado. Además de todo esto, el evocador no recibe daño por flechas y, al estar cercas de él en un radio de 5 bloques, te dará ceguera.
 Drop = "Poción de Maestro Tortuga en su forma base".
 
-__*Esqueleto Profanador:*__ Este esqueleto tiene la capacidad de bloquear los slots 18, 27 y 36 (estos se desbloquearán al pasar 15 segundos), tiene 70 puntos de vida (35 corazones), "Power ?", inmunidad a los proyectiles y al fuego y lleva consigo 3 piezas de diamante con "Protection IV". 
+  - __*Esqueleto Profanador:*__ Este esqueleto tiene la capacidad de bloquear los slots 18, 27 y 36 (estos se desbloquearán al pasar 15 segundos), tiene 70 puntos de vida (35 corazones), "Power ?", inmunidad a los proyectiles y al fuego y lleva consigo 3 piezas de diamante con "Protection IV". 
 Drop = "Arco Roto Sombrío" (el cual es un arco que tendrá los encantamiento de infinity y mending ya incluidos, además, este tiene 2 posibles mejoras). (error)
 
 ## [Encantamientos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/encartamiento.md) 
 
 * El comerciante de la jungla tiene nuevos tradeos, estos son:
 
-__*Mining Cataclysm:*__ Al picar un mineral, todos los minerales del mismo tipo que estén adyacentes a este serán destruidos por igual.
+  - __*Mining Cataclysm:*__ Al picar un mineral, todos los minerales del mismo tipo que estén adyacentes a este serán destruidos por igual.
 
-__*Crop Renewal:*__ Cuando golpeas un cultivo no crecido, este no se romperá.
+  - __*Crop Renewal:*__ Cuando golpeas un cultivo no crecido, este no se romperá.
 
-__*Woodland Wrath:*__ Al talar un árbol, toda la madera de este se romperá por completo.
+  - __*Woodland Wrath:*__ Al talar un árbol, toda la madera de este se romperá por completo.
 
 ## Items Nuevos
 
