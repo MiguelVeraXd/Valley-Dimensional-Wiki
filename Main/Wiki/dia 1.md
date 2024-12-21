@@ -36,6 +36,14 @@ __*???*__
 
 ## Cambios al Gameplay Vanilla
 
+- Al entrar por primera vez al mundo, el jugador recibirá un __"Menú de Clases"__, el cual le brindará la posibilidad de escoger 1 de 3 clases. Cada una de estas tiene beneficios que las otras clases no, por lo tanto, debes elegir con sabiduría:
+
+  - __Minero:__ Se te otorgará un pico de diamante con __"Fortuna 3"__ y __"Eficiencia 5"__, podrás usar cualquier tipo de antorcha (normal o de almas) sin que esta se gaste y adquirirás el efecto de __"Haste I"__ de forma permanente.
+
+  - __Duelista:__ Se te otorgarán los efectos de __"Speed I"__, __"Resistance I"__ y __"Strenght I"__ de forma permanente.
+
+  - __Explorador:__ Se te otorgará una __"Shulker Box"__ y una __"Zanahoria de Oro Infinita"__ y, siempre y cuando sea de día en el Overworld, adquirirás el efecto de __"Speed II".__
+
 * Se cambia el método de obtención de los "Tótems de la Inmortalidad". Su crafteo es el siguiente:
 
 ![totem_de_la_inmortalidad](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/totem_de_la_inmortalidad.png)
