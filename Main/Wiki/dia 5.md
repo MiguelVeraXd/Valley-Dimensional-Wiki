@@ -1,3 +1,18 @@
+## Cambios al Gameplay Vanilla
+
+- Se les brinda los jugadores la posibilidad de cambiar de clase. Asimismo, todas las clases han sido actualizadas y una nueva ha sido añadida a la lista:
+
+  - Minero: Se te otorgará un Pico de Diamante con Fortuna 3 y Eficiencia 4, junto con una Atocha Infinita que solo la puede usar los Mineros. También obtendrás el efecto de Canalización Infinita de nivel 1 y podrás respirar en el Nether de forma permanente.
+
+  - Poder II | Duelista
+Descripción: Obtienes Fuerza 2, Speed 1, Resistencia 1 y la habilidad de realizar parry con escudos.
+
+  - Poder III | Explorador
+Descripción: Te proporciona una Zanahoria de Oro Infinita y una Shulker Box, junto con el efecto de Velocidad 3 en cualquier momento, sin depender del día.
+
+  - Poder IV | Furtivo
+Descripción: Se te otorgará el efecto de Invisibilidad, Resistencia al Fuego, Respiración Infinita de Nivel 1, siempre y cuando no lleves equipada una pieza de armadura en tu ranura de armadura. Además, cuando te encuentres agachado, también obtendrás el efecto de Caída Lenta de Nivel 1 durante 6 segundos.
+
 ## Cambios de Dificultad
 
 - Todos los creeper ahora son __"RegenCreeper":__
