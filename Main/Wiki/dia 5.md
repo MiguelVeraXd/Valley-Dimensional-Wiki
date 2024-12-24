@@ -14,7 +14,7 @@
 
 * El casco de tortuga te hace inmune a la asfixia en "Nether".
 
-- Ahora la Afiladora / Piedra de Afilar tiene la capacidad de remover los nuevos encantamientos.
+- Ahora la afiladora / piedra de afilar tiene la capacidad de remover los nuevos encantamientos.
 
 ## Cambios de Dificultad
 
