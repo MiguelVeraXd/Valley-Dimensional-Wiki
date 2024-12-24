@@ -26,8 +26,6 @@ __*Para activar esta inferfaz el jugador debe de "interactuar" con la mesa mient
 
 * Los "Warden" tienen una probabilidad de dropear un libro de sigilo rápido de nivel I al III con un porcentaje del 60%.
 
-* Las ["Raids"](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/raid.md) aumentan su dificultad, se agregan los niveles 1, 2 y 3. Cada nivel tiene una diferente dificultad y entre mayor sea el nivel mejor será la loot table.
-
 * Ahora se pueden obtener los bloques de "Reinforced Deepslate".
 
 * Ahora se pueden cocinar los bloques de minerales crudos.
@@ -53,6 +51,8 @@ __*Para activar esta inferfaz el jugador debe de "interactuar" con la mesa mient
 * Los husk, al estar en contacto con luz, se les añaden los efectos de "Speed III" y "Strenght III".
 
 * Al tener el efecto de "Bad Omen" los mobs pacíficos te atacaran y tendrás "Weakness I".
+
+* Las ["Raids"](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/raid.md) aumentan su dificultad, se agregan los niveles 1, 2 y 3. Cada nivel tiene una diferente dificultad y entre mayor sea el nivel mejor será la loot table.
 
 ## Items Nuevos
 
