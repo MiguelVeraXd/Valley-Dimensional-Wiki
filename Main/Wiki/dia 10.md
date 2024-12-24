@@ -2,7 +2,7 @@
 
 - Se les brinda los jugadores la posibilidad de cambiar de clase. Asimismo, todas las clases han sido actualizadas y una nueva ha sido añadida a la lista:
 
-  - __Minero:__ Se te otorgará un __Pico de Diamante__ con __Fortuna III__ y __Eficiencia 5,__ junto con la capacidad de utilizar infinitamente las antorchas y las amtorchas de almas. También adquirirás el efecto de __Canalización II__ de forma infinita y podrás respirar en el Nether de forma permanente.
+  - __Minero:__ Se te otorgará un __Pico de Diamante__ con __Fortuna III__ y __Eficiencia 5,__ podrás usar cualquier tipo de antorcha (normal o de almas) sin que esta se gaste, adquirirás el efecto de __Canalización II__ de forma infinita y podrás respirar en el Nether de forma permanente.
 
   - __Duelista:__ Se te otorgarán los efectos de __Strenght II, Speed I, Resistance II__ de forma permanente y la habilidad de realizar __"Parrys"__ con los escudos.
 
