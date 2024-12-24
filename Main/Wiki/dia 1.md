@@ -105,7 +105,7 @@ __*???*__
 ## [Bosses](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/bosses.md)
 * El "Wither Boss" aumenta su dificultad, sus cambios son:
 
-  - __100 corazones más.__
+  - __100 corazones más (800 puntos de vida).__
 
   - __Anula los efectos de los "Faros" en un radio de 50 bloques.__
 
@@ -133,7 +133,15 @@ __*???*__
 
   - __*Las "Wither Skull Dangerous" tienen un "Explosion Power" de nivel "4" en su primera fase y nivel "5" en su segunda.*__
 
-* Se añade un nuevo boss, el __"Coloso Salvaje"__: este nuevo jefe a llegado a los pantanos de este mundo para aterrorizar a los jugadores que se atrevan a desafiarlo, sin embargo, su carta de presentación no parece ser la misma que la de los demás bosses, al parecer, este requiere de la presencia del jugador ya que su aparición va de la mano de un "ritual de invocación"...
+* Se añade un nuevo boss, el __"Coloso Salvaje"__: este nuevo jefe a llegado a los pantanos de este mundo para aterrorizar a los jugadores que se atrevan a desafiarlo, sin embargo, su carta de presentación no parece ser la misma que la de los demás bosses, al parecer, este requiere de la presencia del jugador ya que su aparición va de la mano de un "ritual de invocación". Dicho esto, sus atributos son:
+
+  - __1400 puntos de vida.__
+ 
+  - __Tiene la capacidad de romper gran parte de los bloques que encuentre a su paso.__
+ 
+  - __Embiste con gran fuerza y velocidad.__
+
+  - __Crea temblores que mandan al jugador por los aires y agitan su visión.__
 
 ## Generación del Mundo:
 
