@@ -1,3 +1,11 @@
+## Cambios al Gameplay Vanilla
+
+- El wandering trader de la jungla tiene nuevos tradeos.
+
+- Se pueden descraftear faros con la nueva mesa.
+
+- Ahora los zombies pueden romper cualquier tipo de bloque luminoso.
+
 ## Cambios de Dificultad
 
 - Al llover se generan bloques de agua de manera aleatoria.
@@ -89,14 +97,6 @@ image.png
 - Se añade una nueva mesa de crafteo, el __"Altar of Creation"__ (a partir de aqui todos los crafteos son en la nueva mesa): image.png
 
 - Se agrega una nueva __"Caña de Pescar"__ exclusiva para el nether: image.png
-
-## Cambios al Gameplay Vanilla
-
-- El wandering trader de la jungla tiene nuevos tradeos.
-
-- Se pueden descraftear faros con la nueva mesa.
-
-- Ahora los zombies pueden romper cualquier tipo de bloque luminoso.
 
 ## [Encantamientos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/encartamiento.md) 
 
