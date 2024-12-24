@@ -14,6 +14,8 @@
 
 * El casco de tortuga te hace inmune a la asfixia en "Nether".
 
+- Ahora la Afiladora tiene la capacidad de remover los encantamientos custom-
+
 ## Cambios de Dificultad
 
 - Todos los creeper ahora son __"RegenCreeper":__
