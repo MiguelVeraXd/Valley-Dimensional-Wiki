@@ -38,7 +38,7 @@ __*???*__
 
 - Al entrar por primera vez al mundo, el jugador recibirá un __"Menú de Clases"__, el cual le brindará la posibilidad de escoger 1 de 3 clases. Cada una de estas tiene beneficios que las otras clases no, por lo tanto, debes elegir con sabiduría:
 
-  - __Minero:__ Se te otorgará un pico de diamante con __"Fortuna 3"__ y __"Eficiencia 5"__, podrás usar cualquier tipo de antorcha (normal o de almas) sin que esta se gaste y adquirirás el efecto de __"Haste I"__ de forma permanente.
+  - __Minero:__ Se te otorgará un __Pico de Diamante__ con __"Fortuna 3"__ y __"Eficiencia 5"__, podrás usar cualquier tipo de antorcha (normal o de almas) sin que esta se gaste y adquirirás el efecto de __"Haste I"__ de forma permanente.
 
   - __Duelista:__ Se te otorgarán los efectos de __"Speed I"__, __"Resistance I"__ y __"Strenght I"__ de forma permanente.
 
