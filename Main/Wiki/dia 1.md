@@ -1,39 +1,3 @@
-## Cambios de Dificultad
-
-* Los phantoms y los evokers son más agresivos.
-
-* Los ghast ahora trackean desde 64 bloques.
-
-* Los husk, al estar en contacto con luz, se les añaden los efectos de "Speed III" y "Strenght III".
-
-* Al tener el efecto de "Bad Omen" los mobs pacíficos te atacaran y tendrás "Weakness I".
-
-## Items Nuevos
-
-* Se añade el "Boomerang" un nuevo item que se puede encantar y con el cual se puede hacer daño tanto a distancia como a melee, su crafteo es el siguiente:
-
-![boomerang](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/boomerang.png)
-
-* Se añade una "Mochila" con el siguiente crafteo:
-
-![mochila](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/mochila.png)
-
-* Nuevo "Casco de Netherita Demoníaco" con:
-
-  - __Doble de "Durabilidad"__
-
-  - __+4 Puntos de "Armadura"__
-
-  - __+1 Punto de "Knockback Resistance"__
-
-![casco_de_netherita_demoniaco](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/casco_de_netherita_demoniaco.png)
-
-*Al "shiftear" mientras se tiene un arco en mano, se creará una área de partículas en la posición del jugador durante unos segundos. Estar dentro del área (aplica para todo jugador presente), aumentará en un 20% el daño de las flechas. La habilidad tiene un "Cooldown" de 40 segundos.*
-
-* "Respawn Anchor Conduit Rest":
-
-__*???*__
-
 ## Cambios al Gameplay Vanilla
 
 - Al entrar por primera vez al mundo, el jugador recibirá un __"Menú de Clases"__, el cual le brindará la posibilidad de escoger 1 de 3 clases. Cada una de estas tiene beneficios que las otras clases no, por lo tanto, debes elegir con sabiduría:
@@ -79,6 +43,42 @@ __*Para activar esta inferfaz el jugador debe de "interactuar" con la mesa mient
 * La "Miel" quita el "Fatal Poison".
 
 * Hay "Fast Totem".
+
+## Cambios de Dificultad
+
+* Los phantoms y los evokers son más agresivos.
+
+* Los ghast ahora trackean desde 64 bloques.
+
+* Los husk, al estar en contacto con luz, se les añaden los efectos de "Speed III" y "Strenght III".
+
+* Al tener el efecto de "Bad Omen" los mobs pacíficos te atacaran y tendrás "Weakness I".
+
+## Items Nuevos
+
+* Se añade el "Boomerang" un nuevo item que se puede encantar y con el cual se puede hacer daño tanto a distancia como a melee, su crafteo es el siguiente:
+
+![boomerang](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/boomerang.png)
+
+* Se añade una "Mochila" con el siguiente crafteo:
+
+![mochila](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/mochila.png)
+
+* Nuevo "Casco de Netherita Demoníaco" con:
+
+  - __Doble de "Durabilidad"__
+
+  - __+4 Puntos de "Armadura"__
+
+  - __+1 Punto de "Knockback Resistance"__
+
+![casco_de_netherita_demoniaco](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/casco_de_netherita_demoniaco.png)
+
+*Al "shiftear" mientras se tiene un arco en mano, se creará una área de partículas en la posición del jugador durante unos segundos. Estar dentro del área (aplica para todo jugador presente), aumentará en un 20% el daño de las flechas. La habilidad tiene un "Cooldown" de 40 segundos.*
+
+* "Respawn Anchor Conduit Rest":
+
+__*???*__
 
 ## [Amuletos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/amuletos.md)
 
