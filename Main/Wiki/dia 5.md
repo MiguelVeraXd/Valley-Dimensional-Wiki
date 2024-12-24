@@ -8,7 +8,7 @@
 
   - __Explorador:__ Se te otorgará una __"Zanahoria de Oro Infinita"__ y una __Shulker Box.__ Además, adquirirás el efecto de __Speed III__ permanentemente (sin depender del día).
 
-  - Furtivo: Se te otorgarán los efectos de __Invisibility I, Fire Resistance I y Water Breathing I__ de forma permanente, siempre y cuando no lleves equipada una pieza de armadura. Además, cuando te encuentres agachado, obtendrás el efecto de __Slow Falling I__ durante 6 segundos.
+  - __Furtivo:__ Se te otorgarán los efectos de __Invisibility I, Fire Resistance I y Water Breathing I__ de forma permanente, siempre y cuando no lleves equipada una pieza de armadura. Además, cuando te encuentres agachado, obtendrás el efecto de __Slow Falling I__ durante 6 segundos.
 
 * El efecto de __Respiración__ afecta en la dimensión del "Nether", por lo tanto, te hace inmune a la asfixia.
 
