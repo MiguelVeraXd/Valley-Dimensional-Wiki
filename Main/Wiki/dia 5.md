@@ -2,11 +2,11 @@
 
 - Se les brinda los jugadores la posibilidad de cambiar de clase. Asimismo, todas las clases han sido actualizadas y una nueva ha sido añadida a la lista:
 
-  - Minero: Se te otorgará un __Pico de Diamante__ con __Fortuna III__ y __Eficiencia 4,__ junto con una __"Antorcha Infinita"__ que solo la pueden utilizar los jugadores de la misma clase. También adquirirás el efecto de __Canalización I__ de forma infinita y podrás respirar en el Nether de forma permanente.
+  - __Minero:__ Se te otorgará un __Pico de Diamante__ con __Fortuna III__ y __Eficiencia 4,__ junto con una __"Antorcha Infinita"__ que solo la pueden utilizar los jugadores de la misma clase. También adquirirás el efecto de __Canalización I__ de forma infinita y podrás respirar en el Nether de forma permanente.
 
-  - Duelista: Se te otorgarán los efectos de __Strenght II, Speed I, Resistance I__ de forma permanente y la habilidad de realizar __"Parrys"__ con los escudos.
+  - __Duelista:__ Se te otorgarán los efectos de __Strenght II, Speed I, Resistance I__ de forma permanente y la habilidad de realizar __"Parrys"__ con los escudos.
 
-  - Explorador: Se te otorgará una __"Zanahoria de Oro Infinita"__ y una __Shulker Box.__ Además, adquirirás el efecto de __Speed III__ permanentemente (sin depender del día).
+  - __Explorador:__ Se te otorgará una __"Zanahoria de Oro Infinita"__ y una __Shulker Box.__ Además, adquirirás el efecto de __Speed III__ permanentemente (sin depender del día).
 
   - Furtivo: Se te otorgarán los efectos de __Invisibility I, Fire Resistance I y Water Breathing I__ de forma permanente, siempre y cuando no lleves equipada una pieza de armadura. Además, cuando te encuentres agachado, obtendrás el efecto de __Slow Falling I__ durante 6 segundos.
 
