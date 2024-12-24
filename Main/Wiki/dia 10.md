@@ -86,7 +86,7 @@ image.png
 
 image.png
 
-- Nuevo item: 
+- Nueva Espada: 
 
 image.png
 
@@ -108,7 +108,9 @@ image.png
 
 - Se añade una nueva mesa de crafteo, el __"Altar of Creation"__ (a partir de aqui todos los crafteos son en la nueva mesa): image.png
 
-- Se agrega una nueva __"Caña de Pescar"__ exclusiva para el nether: image.png
+- Se agrega una nueva __"Caña de Pescar"__ exclusiva para el nether:
+
+image.png
 
 ## [Encantamientos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/encartamiento.md) 
 
