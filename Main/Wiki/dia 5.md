@@ -8,7 +8,7 @@
 
   - Explorador: Se te otorgará una __"Zanahoria de Oro Infinita"__ y una __Shulker Box.__ Además, adquirirás el efecto de __Speed III__ permanentemente (sin depender del día).
 
-  - Furtivo: Se te otorgarán los efectos de __Invisibility I, Fire Resistance I y Water Breathing I de forma permanente, siempre y cuando no lleves equipada una pieza de armadura. Además, cuando te encuentres agachado, obtendrás el efecto de Slow Falling I durante 6 segundos.
+  - Furtivo: Se te otorgarán los efectos de __Invisibility I, Fire Resistance I y Water Breathing I__ de forma permanente, siempre y cuando no lleves equipada una pieza de armadura. Además, cuando te encuentres agachado, obtendrás el efecto de __Slow Falling I__ durante 6 segundos.
 
 ## Cambios de Dificultad
 
