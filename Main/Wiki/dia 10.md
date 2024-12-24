@@ -4,7 +4,7 @@
 
   - __Minero:__ Se te otorgará un Pico de Hierro con Fortuna 3 y Eficiencia 4, junto con una Atocha Infinita que solo la puede usar los Mineros. También obtendrás el efecto de Canalización Infinita de nivel 2 y podrás respirar en el Nether de forma permanente.
 
-  - __Duelista:__ Obtienes Fuerza 2, Speed 1, Resistencia 2 y la habilidad de realizar parry con escudos.
+  - __Duelista:__ Se te otorgarán los efectos de __Strenght II, Speed I, Resistance II__ de forma permanente y la habilidad de realizar __"Parrys"__ con los escudos.
 
   - __Explorador:__ Te proporciona una Zanahoria de Oro Infinita y una Shulker Box, junto con el efecto de Velocidad 3 y Visión Nocturna en cualquier momento, sin depender del día.
 
