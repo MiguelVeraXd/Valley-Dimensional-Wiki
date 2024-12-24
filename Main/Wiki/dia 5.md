@@ -10,6 +10,10 @@
 
   - Furtivo: Se te otorgarán los efectos de __Invisibility I, Fire Resistance I y Water Breathing I__ de forma permanente, siempre y cuando no lleves equipada una pieza de armadura. Además, cuando te encuentres agachado, obtendrás el efecto de __Slow Falling I__ durante 6 segundos.
 
+* El efecto de __Respiración__ afecta en la dimensión del "Nether", por lo tanto, te hace inmune a la asfixia.
+
+* El casco de tortuga te hace inmune a la asfixia en "Nether".
+
 ## Cambios de Dificultad
 
 - Todos los creeper ahora son __"RegenCreeper":__
