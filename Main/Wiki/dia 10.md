@@ -8,7 +8,7 @@
 
   - __Explorador:__ Se te otorgará una __"Zanahoria de Oro Infinita"__ y una __Shulker Box.__ Además, adquirirás los efectos de __Speed III__ y __Night Vision I__ permanentemente (sin depender del día).
 
-  - __Furtivo:__ Se te otorgará el efecto de Invisibilidad, Resistencia al Fuego, Respiración Infinita de Nivel 1, Velocidad de nivel 1, siempre y cuando no lleves equipada una pieza de armadura en tu ranura de armadura. Además, cuando te encuentres agachado, también obtendrás el efecto de Caída Lenta de Nivel 1 durante 6 segundos. Se te otorgarán los efectos de __Invisibility I, Fire Resistance I, Water Breathing I__ y __Speed I__, siempre y cuando no lleves equipada una pieza de armadura. Además, cuando te encuentres agachado, obtendrás el efecto de __Slow Falling I__ durante 6 segundos.
+  - __Furtivo:__ Se te otorgarán los efectos de __Invisibility I, Fire Resistance I, Water Breathing I__ y __Speed I__, siempre y cuando no lleves equipada una pieza de armadura. Además, cuando te encuentres agachado, obtendrás el efecto de __Slow Falling I__ durante 6 segundos.
 
   - __Hechicero:__ Se te otorgarán 5 puntos adicionales de __"Maná"__ y podrás regenerar 1 punto de __"Maná"__ cada 15 segundos.
 
