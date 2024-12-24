@@ -6,7 +6,7 @@
 
   - __Duelista:__ Se te otorgarán los efectos de __Strenght II, Speed I, Resistance II__ de forma permanente y la habilidad de realizar __"Parrys"__ con los escudos.
 
-  - __Explorador:__ Te proporciona una Zanahoria de Oro Infinita y una Shulker Box, junto con el efecto de Velocidad 3 y Visión Nocturna en cualquier momento, sin depender del día.
+  - __Explorador:__ Se te otorgará una __"Zanahoria de Oro Infinita"__ y una __Shulker Box.__ Además, adquirirás los efectos de __Speed III__ y __Night Vision I__ permanentemente (sin depender del día).
 
   - __Furtivo:__ Se te otorgará el efecto de Invisibilidad, Resistencia al Fuego, Respiración Infinita de Nivel 1, Velocidad de nivel 1, siempre y cuando no lleves equipada una pieza de armadura en tu ranura de armadura. Además, cuando te encuentres agachado, también obtendrás el efecto de Caída Lenta de Nivel 1 durante 6 segundos.
 
