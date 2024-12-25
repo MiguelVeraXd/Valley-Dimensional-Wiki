@@ -1,4 +1,4 @@
-## Cambios al Gameplay Vanilla
+## Cambios al Gameplay
 
 - Se les brinda los jugadores la posibilidad de cambiar de clase. Asimismo, todas las clases han sido actualizadas y una nueva ha sido añadida a la lista:
 
@@ -15,6 +15,12 @@
 * El casco de tortuga te hace inmune a la asfixia en "Nether".
 
 - Ahora la afiladora / piedra de afilar tiene la capacidad de remover los nuevos encantamientos.
+
+* Aparece una __"I.A."__ que llega para brindarles a los jugadores información relevante sobre los eventos que sucedan en el mundo. Asimismo, esta contiene con algunas otras "funciones extras" que de igual forma les pueden ser de utilidad.
+
+image.png
+
+*Su crafteo es simple, el jugador puede acceder a la I.A. "interactuando" con una brújula o reloj.*
 
 ## Cambios de Dificultad
 
@@ -103,10 +109,6 @@
 * Las Brujas al morir lanzan una poción de un efecto negativo completamente aleatorio. (error)
 
 * El oxígeno dejó de llegar a la dimensión del "Nether", por lo tanto, ahora es normal asfixiarte dentro de esta dimensión.
-
-* El efecto de respiración afecta en la dimensión del "Nether".
-
-* El casco de tortuga te hace inmune a la asfixia en "Nether".
 
 * Los zombies convierten de un solo golpe a los aldeanos en "Aldeanos Zombies Bebés".
 
@@ -230,11 +232,11 @@ Drop = "Arco Roto Sombrío" (el cual es un arco que tendrá los encantamiento de
 
 *El bloque de obsidiana es un "Bloque de Obsidiana x8"*
 
-El cuero de cabra se consigue usando unas tijeras con una cabra demoníaca.
-
-* Aparece una I.A.
+* Nueva __"Oz":__
 
 image.png
+
+_El cuero que se presenta en el crafteo __("Cuero de Cabra")__ se consigue como un drop de los clones de la __"Demonic Goat".__
 
 * Nuevo "Yunque de Fluorita Reforzada": Utilizado para la aplicación de los nuevos encantamientos.
 
