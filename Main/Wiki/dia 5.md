@@ -204,7 +204,13 @@ Drop = "Arco Roto Sombrío" (el cual es un arco que tendrá los encantamiento de
 
 * "Espada del Anochecer": Hace daño a melee sin importar la armadura:
 
-![espada_del_anochecer](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/espada_del_anochecer.png) 
+![espada_del_anochecer](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/espada_del_anochecer.png)
+
+* __"Oz":__
+
+image.png
+
+*El cuero que se presenta en el crafteo __("Cuero de Cabra")__ se consigue como un drop de los clones de la __"Demonic Goat".*
 
 * Arco de Vida:
 
@@ -231,12 +237,6 @@ Drop = "Arco Roto Sombrío" (el cual es un arco que tendrá los encantamiento de
 ![potionexus](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/potionexus.png)
 
 *El bloque de obsidiana es un "Bloque de Obsidiana x8"*
-
-* Nueva __"Oz":__
-
-image.png
-
-_El cuero que se presenta en el crafteo __("Cuero de Cabra")__ se consigue como un drop de los clones de la __"Demonic Goat".__
 
 * Nuevo "Yunque de Fluorita Reforzada": Utilizado para la aplicación de los nuevos encantamientos.
 
