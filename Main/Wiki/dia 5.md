@@ -16,6 +16,8 @@
 
 - Ahora la afiladora / piedra de afilar tiene la capacidad de remover los nuevos encantamientos.
 
+* Las ranas ahora spawnean en el nether de manera natural y estas son atacadas por todos los mobs hostiles.
+
 * Aparece una __"I.A."__ que llega para brindarles a los jugadores información relevante sobre los eventos que sucedan en el mundo. Asimismo, esta contiene con algunas otras "funciones extras" que de igual forma les pueden ser de utilidad.
 
 image.png
@@ -230,7 +232,9 @@ image.png
 
 *Los bloques de obsidiana son "Bloques de Obsidiana x8"*
 
-* Nueva mejora para las botas, se consigue haciendo que una rana se coma a un magma cube (las ranas spawnean en el nether de manera natural y estas son atacadas por todos los mobs hostiles).
+* Nueva mejora para las botas: Se consigue haciendo que una rana se coma a un magma cube. Al utilizarla junto a un lingote de netherita en la mesa de herrería, da como resultado unas __"Botas de Netherita Demoníacas".__
+
+image.png
 
 * Nuevo "Potionexus": Sirve para combinar, potenciar y amplificar la duración de las pociones, llevándolas así a nuevos niveles.
 
