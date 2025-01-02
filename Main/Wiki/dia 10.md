@@ -84,7 +84,7 @@
 
 - Nueva mejora para el Polvo de Hueso: 
 
-image.png
+![super_fertilizante](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/super_fertilizante.png)
 
 - Nueva Espada: 
 
