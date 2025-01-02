@@ -220,12 +220,10 @@ Drop = "Arco Roto Sombrío" (el cual es un arco que tendrá los encantamiento de
 
 *El lingote utilizado en su creación es el "Lingote de Glaciarium"*
 
-
-
 * __"Arco de Hielo:"__ Este arco consta de 3 habilidades, para intercalar entre cada una de estas debes de mantener tenzada la flecha correspondiente al arco (en este caso la flecha congelada) durante un determinado tiempo y, conforme los segundos pasen, el arco irá cambiando entre las siguientes:
 
   - Habilidad 1: Si mantienes tensado el arco durante 5 segundos y disparas, la flecha creará una esfera de 5 bloques de radio que aplica lentitud a todos los mobs dentro de ella. (Cooldown: 10 segundos)
-  - Habilidad 2: Si disparas el arco directamente hacia abajo, obtendrás el efecto de Protección Helada, que te hace inmune al daño durante 8 segundos.
+  - Habilidad 2: Si el arco directamente hacia abajo, obtendrás el efecto de Protección Helada, que te hace inmune al daño durante 8 segundos.
   - Habilidad 3: Al activarse, la flecha disparada invocará un __"Gólem de Nieve Mejorado"__ que, a diferencia de los gólems de nieve vanilla, es aún más fuerte y resistente.
 
 
