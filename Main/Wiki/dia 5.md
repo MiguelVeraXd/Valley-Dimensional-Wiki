@@ -210,7 +210,7 @@ Drop = "Arco Roto Sombrío" (el cual es un arco que tendrá los encantamiento de
 
 * __"Oz":__
 
-image.png
+![oz](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/Oz.png)
 
 *El cuero que se presenta en el crafteo __("Cuero de Cabra")__ se consigue como un drop de los clones de la __"Demonic Goat".*
 
