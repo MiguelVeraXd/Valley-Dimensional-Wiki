@@ -200,11 +200,11 @@ Drop = "Arco Roto Sombrío" (el cual es un arco que tendrá los encantamiento de
 
 * Hay un nuevo item que se consigue dando click derecho con una botella en mano: este item te permite refiliar tu oxigeno en el nether.
 
-* "Espada de las Almas Perdidas": Quita el efecto de "Darkness" y hace barrido:
+* __"Espada de las Almas Perdidas":__ Quita el efecto de "Darkness" y hace barrido:
 
 ![espada_de_las_almas_perdidas](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/espada_de_las_almas_perdidas.png) 
 
-* "Espada del Anochecer": Hace daño a melee sin importar la armadura:
+* __"Espada del Anochecer":__ Hace daño a melee sin importar la armadura:
 
 ![espada_del_anochecer](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/espada_del_anochecer.png)
 
@@ -214,15 +214,22 @@ Drop = "Arco Roto Sombrío" (el cual es un arco que tendrá los encantamiento de
 
 *El cuero que se presenta en el crafteo __("Cuero de Cabra")__ se consigue como un drop de los clones de la __"Demonic Goat".*
 
-* Arco de Vida:
+* __"Arco de Vida":__
 
 ![arco_vida](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/arco_de_vida.png)
 
 *El lingote utilizado en su creación es el "Lingote de Glaciarium"*
 
-* Arco de Hielo:
 
-![arco_hielo](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/arco_de_hielo.png) 
+
+* __"Arco de Hielo:"__ Este arco consta de 3 habilidades, para intercalar entre cada una de estas debes de mantener tenzada la flecha correspondiente al arco (en este caso la flecha congelada) durante un determinado tiempo y, conforme los segundos pasen, el arco irá cambiando entre las siguientes:
+
+  - Habilidad 1: Si mantienes tensado el arco durante 5 segundos y disparas, la flecha creará una esfera de 5 bloques de radio que aplica lentitud a todos los mobs dentro de ella. (Cooldown: 10 segundos)
+  - Habilidad 2: Si disparas el arco directamente hacia abajo, obtendrás el efecto de Protección Helada, que te hace inmune al daño durante 8 segundos.
+  - Habilidad 3: Al activarse, la flecha disparada invocará un __"Gólem de Nieve Mejorado"__ que, a diferencia de los gólems de nieve vanilla, es aún más fuerte y resistente.
+
+
+![arco_hielo](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/arco_de_hielo.png)
 
 *El lingote utilizado en su creación es el "Lingote de Glaciarium"*
 
