@@ -106,7 +106,9 @@ image.png y image.png
 
 image.png
 
-- Se añade una nueva mesa de crafteo, el __"Altar of Creation"__ (a partir de aqui todos los crafteos son en la nueva mesa): image.png
+- Se añade una nueva mesa de crafteo, el __"Altar of Creation"__ (a partir de aqui todos los crafteos son en la nueva mesa):
+
+![altar_of_creation](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/altar_of_creation.png)
 
 - Se agrega una nueva __"Caña de Pescar"__ exclusiva para el nether:
 
