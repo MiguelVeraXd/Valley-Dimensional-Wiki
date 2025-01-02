@@ -86,21 +86,21 @@ __*???*__
 
 ![invetario](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/items/invetario.png)
 
-* La "Raíz de Manglar" es un nuevo amuleto que le brindará al jugador una pesca más eficiente, aumentando el poder de esta en un 15%. Su crafteo es el siguiente:
+* La __"Raíz de Manglar"__ es un nuevo amuleto que le brindará al jugador una pesca más eficiente, aumentando el poder de esta en un 15%. Su crafteo es el siguiente:
 
 ![raiz de manglar](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/raiz_de_manglar.png)
 
-* La "Bolsa Ender" es un nuevo amuleto con el cual el jugador podrá stackear sus "Ender Pearls" hasta 26 unidades. Su crafteo es el siguiente:
+* La __"Bolsa Ender"__ es un nuevo amuleto con el cual el jugador podrá stackear sus "Ender Pearls" hasta 26 unidades. Su crafteo es el siguiente:
 
 ![bolsa_ender](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/bolsa_ender.png)
 
-* El "Amuleto del Caos" es un nuevo amuleto, su función se basa en hacer que los enemigos sean mas peligrosos y tengan un mayor spawn, también aumenta la probabilidad de drops raros. Su crafteo es el siguiente:
+* El __"Amuleto del Caos"__ es un nuevo amuleto, su función se basa en hacer que los enemigos sean mas peligrosos y tengan un mayor spawn, también aumenta la probabilidad de drops raros. Su crafteo es el siguiente:
 
 ![Amuleto del caos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/amuleto_del_caos.png)
 
-- La "Piedra Solar" se puede encontrar en una ["Mazmorra"](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%200.md#generaci%C3%B3n-del-mundo) que aparece en las savannas. Al equipar este objeto, aumenta tu regeneración en +1 y te quita la Blindness, sin embargo, solo funcionará de día. ![piedra_solar](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/items/solar_stone.png)
+- La __"Piedra Solar"__ se puede encontrar en una ["Mazmorra"](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%200.md#generaci%C3%B3n-del-mundo) que aparece en las savannas. Al equipar este objeto, aumenta tu regeneración en +1 y te quita la Blindness, sin embargo, solo funcionará de día. ![piedra_solar](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/items/solar_stone.png)
 
-- El "Ankh" se puede obtener en ["Pirámides de Desierto"](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%200.md#generaci%C3%B3n-del-mundo) o en "Arena Sospechosa". Cuando la vida del jugador está debajo de 4 corazones se activa, haciéndolo inmune al daño durante 8 segundos. ![ankh](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/items/ankh.png)
+- El __"Ankh"__ se puede obtener en ["Pirámides de Desierto"](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%200.md#generaci%C3%B3n-del-mundo) o en "Arena Sospechosa". Cuando la vida del jugador está debajo de 4 corazones se activa, haciéndolo inmune al daño durante 8 segundos. ![ankh](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/items/ankh.png)
 
 ## [Bosses](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/bosses.md)
 * El "Wither Boss" aumenta su dificultad, sus cambios son:
