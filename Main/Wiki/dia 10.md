@@ -80,7 +80,7 @@
 
 - Ahora se pueden craftear antorchas contra el agua: 
 
-image.png
+![underwater_torch](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/underwater_torch.png)
 
 - Nueva mejora para el Polvo de Hueso: 
 
