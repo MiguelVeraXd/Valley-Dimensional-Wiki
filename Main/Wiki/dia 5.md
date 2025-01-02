@@ -20,7 +20,7 @@
 
 * Aparece una __"I.A."__ que llega para brindarles a los jugadores información relevante sobre los eventos que sucedan en el mundo. Asimismo, esta contiene con algunas otras "funciones extras" que de igual forma les pueden ser de utilidad.
 
-image.png
+![IA (1)](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/IA%20(1).png)
 
 *Su crafteo es simple, el jugador puede acceder a la I.A. "interactuando" con una brújula o reloj.*
 
