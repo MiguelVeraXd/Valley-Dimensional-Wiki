@@ -162,9 +162,9 @@ Demonic Goat
 
 ## Eventos
 
-* El Auge de la Luna (Moonlight): 
+* __El Auge de la Luna (Moonlight):__
 
-__Este es un evento el cual ocurre cuando la luna alcanza su punto más alto en el cielo y brilla con una intensidad deslumbrante (Luna Llena). Durante esta noche mágica, los mobs se llenan de poder espiritual y se vuelven mucho más desafiantes, ofreciendo a los valientes aventureros una oportunidad única para probar su valía.__
+  - __Este es un evento el cual ocurre cuando la luna alcanza su punto más alto en el cielo y brilla con una intensidad deslumbrante (Luna Llena). Durante esta noche mágica, los mobs se llenan de poder espiritual y se vuelven mucho más desafiantes, ofreciendo a los valientes aventureros una oportunidad única para probar su valía.__
 
 * Características del Evento:
 
@@ -181,10 +181,10 @@ __Este es un evento el cual ocurre cuando la luna alcanza su punto más alto en 
   - __*Guerrero Vagante:*__ Este es un vindicador de 60 puntos de vida (30 corazones) y que, cada vez que hace daño, su fuerza aumenta.
 
   - __*Invocador de Calamidades:*__ Este nuevo evocador tiene la capacidad de gólems de hierro con un intervalo de 10 segundos como método de defensa, estos tienen la capacidad de robarse la vida al jugador con cada golpe acertado. Además de todo esto, el evocador no recibe daño por flechas y, al estar cercas de él en un radio de 5 bloques, te dará ceguera.
-Drop = "Poción de Maestro Tortuga en su forma base".
+Drop = __"Poción de Maestro Tortuga en su forma base"__
 
   - __*Esqueleto Profanador:*__ Este esqueleto tiene la capacidad de bloquear los slots 18, 27 y 36 (estos se desbloquearán al pasar 15 segundos), tiene 70 puntos de vida (35 corazones), "Power ?", inmunidad a los proyectiles y al fuego y lleva consigo 3 piezas de diamante con "Protection IV". 
-Drop = "Arco Roto Sombrío" (el cual es un arco que tendrá los encantamiento de infinity y mending ya incluidos, además, este tiene 2 posibles mejoras). (error)
+Drop = __"Arco Roto Sombrío"__ (el cual es un arco que tendrá los encantamiento de infinity y mending ya incluidos, además, este tiene 2 posibles mejoras) (error)
 
 ## [Encantamientos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/encartamiento.md) 
 
