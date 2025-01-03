@@ -231,7 +231,7 @@ Drop = "Arco Roto Sombrío" (el cual es un arco que tendrá los encantamiento de
 
 *El lingote utilizado en su creación es el "Lingote de Glaciarium"*
 
-* Escudo Infernal: Permite al jugador "Dashearse" con gran rapidez (simplemente "interactuando" con el escudo en mano), brinda una protección de 360° mientras el escudo este activo, no se deshabilita con los ataques de las hachas y, debido a su gran resistencia, es capaz de cubrir 
+* Escudo Infernal: Permite al jugador "Dashearse" con gran rapidez (simplemente "interactuando" con el escudo en mano), brinda una protección de 360° mientras el escudo este activo, no se deshabilita con los ataques de las hachas y, debido a su gran resistencia, es capaz de cubrir grandes ataques supersónicos.
 
 ![escudo_infernal](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/escudo_infernal.png)
 
