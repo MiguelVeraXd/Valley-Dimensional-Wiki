@@ -200,15 +200,15 @@ Drop = "Arco Roto Sombrío" (el cual es un arco que tendrá los encantamiento de
 
 * Hay un nuevo item que se consigue dando click derecho con una botella en mano: este item te permite refiliar tu oxigeno en el nether.
 
-* __"Espada de las Almas Perdidas":__ Quita el efecto de "Darkness" y hace barrido:
+* __"Espada de las Almas Perdidas":__ Al sostenerla, quita el efecto de __"Darkness",__ además, tiene la capacidad de hacer __"barrido"__ con cada golpe acertado.
 
 ![espada_de_las_almas_perdidas](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/espada_de_las_almas_perdidas.png) 
 
-* __"Espada del Anochecer":__ Hace daño a melee sin importar la armadura:
+* __"Espada del Anochecer":__ Hace daño a melee sin importar la armadura.
 
 ![espada_del_anochecer](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/espada_del_anochecer.png)
 
-* __"Oz":__
+* __"Oz":__ Además del alto daño a melee que esta tiene a comparación todas las demás armas que se han descubierto hasta el momento, al "interactuar" con esta, brinda al jugador la capacidad de disparar pequeñas guadañas que dañaran a los enemigos afectados.
 
 ![oz](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/Oz.png)
 
