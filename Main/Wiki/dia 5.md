@@ -220,12 +220,11 @@ Drop = "Arco Roto Sombrío" (el cual es un arco que tendrá los encantamiento de
 
 *El lingote utilizado en su creación es el "Lingote de Glaciarium"*
 
-* __"Arco de Hielo:"__ Este arco consta de 3 habilidades, para intercalar entre cada una de estas debes de mantener tenzada la flecha correspondiente al arco (en este caso la flecha congelada) durante un determinado tiempo y, conforme los segundos pasen, el arco irá cambiando entre las siguientes:
+* __"Arco de Hielo:"__ Este arco consta de 3 habilidades, para intercalar entre cada una de estas debes de mantener tenzada la flecha correspondiente al arco (en este caso la __"Flecha Congelada")__ durante un determinado tiempo y, conforme los segundos pasen, el arco irá cambiando entre las siguientes:
 
-  - Habilidad 1: Si mantienes tensado el arco durante 5 segundos y disparas, la flecha creará una esfera de 5 bloques de radio que aplica lentitud a todos los mobs dentro de ella. (Cooldown: 10 segundos)
-  - Habilidad 2: Si el arco directamente hacia abajo, obtendrás el efecto de Protección Helada, que te hace inmune al daño durante 8 segundos.
-  - Habilidad 3: Al activarse, la flecha disparada invocará un __"Gólem de Nieve Mejorado"__ que, a diferencia de los gólems de nieve vanilla, es aún más fuerte y resistente.
-
+  - Habilidad 1: Si mantienes tensada la flecha durante 5 segundos y disparas, esta creará una esfera de 5 bloques de radio que aplica lentitud a todos los mobs dentro de ella. __(Cooldown: 10 segundos)__
+  - Habilidad 2:  Si mantienes tensada la flecha durante _ segundos y disparas mirando directamente hacia abajo, obtendrás el efecto de __"Protección Helada",__ que te hace inmune al daño durante 8 segundos. __(Cooldown: _ segundos)__
+  - Habilidad 3: Si mantienes tensada la flecha durante _ segundos y disparas, está invocará un __"Gólem de Nieve Mejorado"__ que, a diferencia de los gólems de nieve vanilla, es aún más fuerte y resistente. __(Cooldown: _ segundos)__
 
 ![arco_hielo](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/arco_de_hielo.png)
 
