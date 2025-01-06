@@ -98,10 +98,6 @@ image.png
 
 image.png
 
-- Nuevos bloques de Oro y Diamante stackeados: 
-
-image.png y image.png
-
 - Ahora se pueden upgradear las herramientas de Netherite y convertirlas en __herramientas de Stelarita.__ Para obtener esta mejora se debe colocar la nueva plantilla, la herramienta de netherite que se desee mejorar y un lingote de glaciarium: 
 
 image.png
