@@ -214,7 +214,12 @@ Drop Especial = __"Arco Roto"__ (el cual es un arco que tendrá los encantamient
 
 *El cuero que se presenta en el crafteo __("Cuero de Cabra")__ se consigue como un drop de los clones de la __"Demonic Goat".*
 
-* __"Arco de Vida":__ 
+* __"Arco de Vida":__  Este arco consta de 3 habilidades, para intercalar entre cada una de estas debes de mantener tenzada la flecha correspondiente al arco (en este caso la __"Flecha de Vida")__ durante un determinado tiempo y, conforme los segundos pasen, el arco irá cambiando entre las siguientes:
+
+  - __Habilidad 1:__ Si mantienes tensada la flecha durante 3 segundos y disparas, esta creará un área temporal que te brindará el efecto de Regeneración I por 11 segundos.
+  - __Habilidad 2:__  Si mantienes tensada la flecha durante 10 segundos y disparas, esta a un radio de 15 bloques de donde caiga, brindará los efectos de Regeneración II y Absorsión IV durante 20 segundos a todos los jugadores que se encuentren en la zona.
+  - __Habilidad 3:__ Si mantienes tensada la flecha durante 15 segundos y le disparas a un enemigo, la flecha acertada te brindará toda la vida que le quite al mob.
+  - __Habilidad Pasiva:__ Con cada flecha acertada se te brindará la mitad de la vida que esta le quite al mob.
 
 ![arco_vida](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/arco_de_vida.png)
 
@@ -224,7 +229,7 @@ Drop Especial = __"Arco Roto"__ (el cual es un arco que tendrá los encantamient
 
   - __Habilidad 1:__ Si mantienes tensada la flecha durante 5 segundos y disparas, esta creará una esfera de 5 bloques de radio que aplica lentitud a todos los mobs dentro de ella.
   - __Habilidad 2:__  Si mantienes tensada la flecha durante 10 segundos y disparas mirando directamente hacia abajo, obtendrás el efecto de __"Protección Helada",__ que te hace inmune al daño durante 8 segundos.
-  - __Habilidad 3:__ Si mantienes tensada la flecha durante 15 segundos y disparas, está invocará un __"Gólem de Nieve Mejorado"__ que, a diferencia de los gólems de nieve vanilla, es aún más fuerte y resistente.
+  - __Habilidad 3:__ Si mantienes tensada la flecha durante 15 segundos y disparas, esta invocará un __"Gólem de Nieve Mejorado"__ que, a diferencia de los gólems de nieve vanilla, es aún más fuerte y resistente.
   - __Habilidad Pasiva:__ Con cada flecha acertada hay un 25% de que el enemigo reciba el efecto de __"Slowness VI"__ durante 3 segundos.
 
 ![arco_hielo](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/arco_de_hielo.png)
