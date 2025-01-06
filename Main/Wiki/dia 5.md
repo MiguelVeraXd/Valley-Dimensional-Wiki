@@ -270,7 +270,7 @@ Drop Especial = __"Arco Roto"__ (el cual es un arco que tendrá los encantamient
 
 ## [Amuletos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/amuletos.md)
 
-* __Recordatoio:__ La mecánica de los "Amuletos" en los slots 9, 18 y 27 sigue estando presente.
+* __Slots Especiales:__ La mecánica de los "Amuletos" en los slots 9, 18 y 27 sigue estando presente.
 
 ![invetario](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/items/invetario.png)
 
