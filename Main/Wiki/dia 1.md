@@ -82,7 +82,7 @@ __*???*__
 
 ## [Amuletos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/amuletos.md)
 
-* Se añade la mecánica de los "Amuletos" en los slots 9,18 y 27.
+* Se añade la mecánica de los "Amuletos" en los slots 9, 18 y 27.
 
 ![invetario](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/items/invetario.png)
 
