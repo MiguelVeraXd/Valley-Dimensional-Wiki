@@ -274,7 +274,7 @@ Drop Especial = __"Arco Roto"__ (el cual es un arco que tendrá los encantamient
 
 ![invetario](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/items/invetario.png)
 
-* La __"Levitación Etérea"__ es un nuevo amuleto que le brindá al jugador un escape después de la muerte, brindándole el efecto de "Levitación IX" durante 8 segundos después de consumir un "Tótem de la Inmortalidad".
+* La __"Levitación Etérea"__ es un nuevo amuleto que le brindá al jugador un escape después de la muerte, brindándole el efecto de "Levitación IX" durante 3 segundos después de consumir un "Tótem de la Inmortalidad".
 
 ![levitacion_eterea](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/levitacion_eterea.png)
 
