@@ -238,7 +238,7 @@ Drop Especial = __"Arco Roto"__ (el cual es un arco que tendrá los encantamient
 
 * Escudo Infernal: Permite al jugador "Dashearse" con gran rapidez (simplemente "interactuando" con el escudo en mano), brinda una protección de 360° mientras el escudo este activo, no se deshabilita con los ataques de las hachas y, debido a su gran resistencia, es capaz de cubrir grandes ataques supersónicos.
 
-![escudo_infernal](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/escudo_infernal.png)
+![escudo_infernal]()
 
 * Nueva mejora para las botas: Se consigue haciendo que una rana se coma a un magma cube. Al utilizarla junto a un lingote de netherita en la mesa de herrería, da como resultado unas __"Botas de Netherita Demoníacas".__
 
