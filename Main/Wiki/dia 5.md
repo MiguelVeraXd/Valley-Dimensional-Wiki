@@ -270,22 +270,22 @@ Drop Especial = __"Arco Roto"__ (el cual es un arco que tendrá los encantamient
 
 ## [Amuletos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/amuletos.md)
 
-* __Slots Especiales:__ La mecánica de los "Amuletos" en los slots 9, 18 y 27 sigue estando presente.
+* __Recordatorio:__ La mecánica de los "Amuletos" en los slots 9, 18 y 27 sigue estando presente.
 
 ![invetario](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/items/invetario.png)
 
-* La __"Levitación Etérea"__ es un nuevo amuleto que le brindá al jugador un escape después de la muerte, brindándole el efecto de "Levitación IX" durante 8 segundos después de consumir un "Tótem de la Inmortalidad".
+  * La __"Levitación Etérea"__ es un nuevo amuleto que le brindá al jugador un escape después de la muerte, brindándole el efecto de "Levitación IX" durante 8 segundos después de consumir un "Tótem de la Inmortalidad".
 
 ![levitacion_eterea](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/levitacion_eterea.png)
 
-* La __"Bendición Wither"__ es un nuevo amuleto que le brinda al jugador inmunidad permanente al efecto de "Wither".
+  * La __"Bendición Wither"__ es un nuevo amuleto que le brinda al jugador inmunidad permanente al efecto de "Wither".
 
 ![bendicion_wither](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/bendicion_wither.png) 
 
-* El __"Anillo de Invisibilidad"__ es un nuevo amuleto que le brinda al jugador el efecto de "Invisibilidad" de manera permanente.
+  * El __"Anillo de Invisibilidad"__ es un nuevo amuleto que le brinda al jugador el efecto de "Invisibilidad" de manera permanente.
 
 ![anillo_de_invisibilidad](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/anillo_de_invisivilidad.png)
 
-* El __"Esencia de Agua"__ 
+  * La __"Esencia de Agua"__ 
 
 ![escencia_de_agua](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/escencia_de_agua.png)
