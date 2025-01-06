@@ -246,7 +246,7 @@ Drop Especial = __"Arco Roto"__ (el cual es un arco que tendrá los encantamient
 
 * Nuevo "Potionexus": Sirve para combinar, potenciar y amplificar la duración de las pociones, llevándolas así a nuevos niveles.
 
-![potionexus](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/potionexus.png)
+![potionexus]()
 
 * Nuevo "Yunque de Fluorita Reforzada": Utilizado para la aplicación de los nuevos encantamientos.
 
