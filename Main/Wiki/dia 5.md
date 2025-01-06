@@ -244,7 +244,7 @@ Drop Especial = __"Arco Roto"__ (el cual es un arco que tendrá los encantamient
 
 * Nueva mejora para las botas: Se consigue haciendo que una rana se coma a un magma cube. Al utilizarla junto a un lingote de netherita en la mesa de herrería, da como resultado unas __"Botas de Netherita Demoníacas".__
 
-image.png
+![botas_de_netherita_demoniacas](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/botas_de_netherita_demoniacas.png)
 
 * Nuevo "Potionexus": Sirve para combinar, potenciar y amplificar la duración de las pociones, llevándolas así a nuevos niveles.
 
