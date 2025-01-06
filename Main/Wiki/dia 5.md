@@ -286,6 +286,8 @@ Drop Especial = __"Arco Roto"__ (el cual es un arco que tendrá los encantamient
 
 ![anillo_de_invisibilidad](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/anillo_de_invisivilidad.png)
 
-* La __"Esencia de Agua"__ 
+* La __"Esencia de Agua"__ convierte a su portador en un verdadero rey de los océanos, brindándole al jugador los efectos de Speed I, Conduit Power II y Dolphin's Grace I (este efecto te brinda una mayor movilidad bajo el agua y te hace inmune al "tp" de los ahogados). Sin embargo, a pesar de todos estos beneficios, el amuleto SOLO FUNCIONA mientras el jugador este sumerjido en el agua, de lo contrario, comenzará a ahogarlo hasta la muerte.
 
 ![escencia_de_agua](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/escencia_de_agua.png)
+
+*Dolphin's Grace es un efecto traído a Minecraft Bedrock por el propio Add-On y exclusivo de este amuleto.*
