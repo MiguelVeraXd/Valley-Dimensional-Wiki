@@ -84,17 +84,13 @@
 
 *A partir de aquí todas las nuevas recetas deben de ser hechas en el "Altar of Creation."*
 
-- Ahora se pueden craftear antorchas contra el agua: 
+- __Antorchas Etéreas:__ Evitan el spawneo de mobs en el agua.
 
 ![underwater_torch](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/underwater_torch.png)
 
-- Nueva mejora para el Polvo de Hueso: 
+- Super Fertilizante: Su funcionamiento es similar al polvo de hueso tradicional solo que, a diferencia de este, tiene la capacidad de crecer todo tipo de vegetación a su máximo estado con un solo uso.
 
 ![super_fertilizante](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/super_fertilizante.png)
-
-- Nueva Espada: 
-
-image.png
 
 - Nuevo item para revivir players: 
 
