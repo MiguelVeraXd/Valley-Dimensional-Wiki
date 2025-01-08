@@ -82,6 +82,8 @@
 
 ![altar_of_creation](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/altar_of_creation.png)
 
+*A partir de aquí todas las nuevas recetas deben de ser hechas en el "Altar of Creation."*
+
 - Ahora se pueden craftear antorchas contra el agua: 
 
 ![underwater_torch](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/underwater_torch.png)
