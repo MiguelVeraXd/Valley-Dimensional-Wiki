@@ -78,6 +78,10 @@
 
 ## Items Nuevos
 
+- __"Altar of Creation":__ Una nueva mesa capaz de crear una mayor variedad de objetos que le pueden ser de gran utilidad al jugador.
+
+image.png
+
 - Ahora se pueden craftear antorchas contra el agua: 
 
 ![underwater_torch](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/underwater_torch.png)
