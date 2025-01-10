@@ -198,7 +198,7 @@ Drop Especial = __"Arco Roto"__ (el cual es un arco que tendrá los encantamient
 
 ## Items Nuevos
 
-* Hay un nuevo item que se consigue dando click derecho con una botella en mano: este item te permite refiliar tu oxigeno en el nether.
+* __Botella de Aire Puro:__ Se consigue "interactuando" con una botella vacía en mano. Con el uso de esta, podras refillear tu oxígeno.
 
 * __"Espada de las Almas Perdidas":__ Al sostenerla, quita el efecto de __"Darkness"__ y, aunado a esto, tiene la capacidad de hacer __"barrido"__ con cada golpe acertado.
 
