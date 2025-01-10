@@ -88,27 +88,23 @@
 
 ![underwater_torch](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/underwater_torch.png)
 
-- Super Fertilizante: Su funcionamiento es similar al polvo de hueso tradicional solo que, a diferencia de este, tiene la capacidad de crecer todo tipo de vegetación a su máximo estado con un solo uso.
+- __Super Fertilizante:__ Su funcionamiento es similar al polvo de hueso tradicional solo que, a diferencia de este, tiene la capacidad de crecer todo tipo de vegetación a su máximo estado con un solo uso.
 
 ![super_fertilizante](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/super_fertilizante.png)
 
-- Nuevo item para revivir players: 
+- __Item para Revivir:__ Se le ha brindado al jugador la posibilidad de traer de vuelta a la vida a uno de sus compañeros caídos, esto a cambio de partir su alma a la mitad y compartir: el daño recibido y los efectos acumulados.
 
-image.png
+![item_para_revivir](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/item_para_revivir.png)
 
-- Nueva mochila: 
+- __Mochila Mediana:__ Versión mejorada de la "Mochila" que permite almacenar hasta 18 objetos dentro de ella.
 
-image.png
+![mochila_mediana](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/mochila_mediana.png)
 
-- Ahora se pueden upgradear las herramientas de Netherite y convertirlas en __herramientas de Stelarita.__ Para obtener esta mejora se debe colocar la nueva plantilla, la herramienta de netherite que se desee mejorar y un lingote de glaciarium: 
+- __"Caña de Pescar de Lava"__: Su uso es exclusivo del Nether. Su uso es simple: debes "interactuar" con esta mientras apuntas hacia alguna superficie cubierta de lava, cuando el señuelo haya pescado algo, particulas saldrán expulsadas de este, y es en ese preciso momento en el que debes "interactuar" nuevamente con la caña para adquirir tus recompensas.
 
-image.png
+![caña_de_pescar_de_lava](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/ca%C3%B1a_de_pescar_de_lava.png)
 
-- Se añade una nueva mesa de crafteo, el __"Altar of Creation"__ (a partir de aqui todos los crafteos son en la nueva mesa):
-
-![altar_of_creation](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/altar_of_creation.png)
-
-- Se agrega una nueva __"Caña de Pescar"__ exclusiva para el nether:
+- Ahora se pueden upgradear las herramientas de Netherite y convertirlas en __Herramientas de Stelarita.__ Para obtener esta mejora se debe colocar la nueva plantilla, la herramienta de netherite que se desee mejorar y un lingote de glaciarium: 
 
 image.png
 
