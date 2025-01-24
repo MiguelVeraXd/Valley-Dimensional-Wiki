@@ -2,21 +2,32 @@
 
 - El wandering trader de la jungla trajo nuevos encantamientos al mundo:
 
-  - __*Mining Cataclysm:*__ Al picar un mineral, todos los minerales del mismo tipo que estén adyacentes a este serán destruidos por igual. **(Nivel Máximo: 1).**.
+  - Nuevo encantamiento para el pico: __*Mining Cataclysm (Nivel Máximo: 1).*__ Al picar un mineral, todos los minerales del mismo tipo que estén adyacentes a este serán destruidos por igual.
 
-  - __*Crop Renewal:*__ Cuando golpeas un cultivo no crecido, este no se romperá. **(Nivel Máximo: 1).**.
+  - Nuevo encantamiento para la azada: __*Crop Renewal (Nivel Máximo: 1).*__ Cuando golpeas un cultivo no crecido, este no se romperá.
 
-  - __*Woodland Wrath:*__ Al talar un árbol, toda la madera de este se romperá por completo. **(Nivel Máximo: 1).**.
+  - Nuevo encantamiento para el hacha: __*Woodland Wrath (Nivel Máximo: 1).*__ Al talar un árbol, toda la madera de este se romperá por completo.
     
-  - **Double Jump:** Te agrega un "Salto Doble", y por cada cada nivel agregado aumentará la altura de este. **(Nivel Máximo: 4).**.
+  - Nuevo encantamiento para las botas: __*Double Jump (Nivel Máximo: 4).*__ Te agrega un "Salto Doble", y por cada cada nivel agregado aumentará la altura de este.
 
 ## [Dia 10](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%2010.md)
 
-- **Ethereal Piercing Nivel Máximo 1:** Hace que la flecha no tenga colisión y pueda pasar a través de todos los bloques.
-- **Fire Riptide Nivel Máximo 1:** Funciona como el riptide normal pero en fuego y lava.
-- **Sharp Ignition Nivel Máximo 3:** Incrementa significativamente el daño a los mobs en fuego o lava.
-- **Fragmentáctil Nivel Máximo 1:** herramientas que permite cambiar entre **Fortuna 3** y **Toque de Seda:**
-- **Hydromagic Attraction Nivel Máximo 1:** El tridente puede atraer los ítems al ser lanzado. tridente
+- El wandering trader de la jungla trajo nuevos encantamientos al mundo:
+
+  - Nuevo encantamiento para el tridente: __*Hydromagic Attraction (Nivel Máximo: 1).*__ Con este, el jugador podrá atraer los objetos del suelo hacia él con un simple lanzamiento de tridente (es importante recalcar que, para poder aplicar este encantamiento, el tridente seleccionado debe estar encantado con Lealtad, ya sea de nivel I, II o III.)
+
+  - Nuevo encantamiento para la ballesta: __*Ethereal Piercing (Nivel Máximo: 1).*__ Con este, las flechas saldrán disparadas sin colisión, por lo tanto, pueden traspasar todo tipo de bloques. 
+
+- Ahora mediante la pesca en lava, el jugador puede obtener los siguientes encantamientos:
+
+  - Nuevo encantamiento para el tridente: __*Fire Riptide (Nivel Máximo: 1).*__ Funciona igual que el "Riptide" tradicional solo que, a diferencia de este, se activa en fuego y lava (para poder aplicar este encantamiento, el tridente seleccionado debe estar encantado con riptide, ya sea de nivel I, II o III.)
+
+  - Nuevo encantamiento para el tridente: __*Sharp Ignition (Nivel Máximo: 3).*__ Al Atacar a un mob que esté en fuego o lava, este recibirá mucho más daño de lo habitual (similiar a lo que hace el encantamiento de Empaleamiento).
+
+  - Nuevo encantamiento para las herramientas: __*Fragmentáctil (Nivel Máximo: 1).*__ Te permite cambiar entre "Fortuna III" y "Toque de Seda I" en tus herramientas. Para activarlo, el jugador debe "interactuar" con la herramienta al mismo tiempo que "salta estando agachado."
+
+*Incluso si estos encantamientos no habían sido adquiridos previamente, el Fragmentáctil los añade al ser activado.*
+
 - **Ancla de la Suerte Al pescar:** este encantamiento aumenta la probabilidad de encontrar tesoros raros en un 20%, pero también aumenta la posibilidad de atraer mobs hostiles (como ahogados o guardianes). *(desarrollo)*
 
 ## [Dia 15](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%2015.md)
