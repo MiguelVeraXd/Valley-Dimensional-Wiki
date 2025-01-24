@@ -34,7 +34,7 @@ __*Para activar esta inferfaz el jugador debe de "interactuar" con la mesa mient
 
 * Los "Wandering Traders" mejoran sus tradeos.
 
-* Llega un nuevo "Wandering Trader" para el bioma de la "Jungla", con nuevos tradeos que irán mejorando con el paso del tiempo.
+* Llega un nuevo "Wandering Trader" para el bioma de la "Jungla", con nuevos tradeos que irán mejorando con el paso de los días.
 
 * Se cambia el aldeano carnicero por un "Aldeano de Redstone".
 
