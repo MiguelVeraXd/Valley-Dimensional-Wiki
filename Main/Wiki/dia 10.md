@@ -1,4 +1,4 @@
-## Cambios al Gameplay Vanilla
+## Cambios al Gameplay
 
 - Se les brinda los jugadores la posibilidad de cambiar de clase. Asimismo, todas las clases han sido actualizadas y una nueva ha sido añadida a la lista:
 
