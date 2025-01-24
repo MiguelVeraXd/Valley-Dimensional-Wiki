@@ -40,6 +40,3 @@
 
 * El __"Talismán de Lava"__ es un nuevo amuleto que se puede obtener mediante la "pesca en lava". Al equiparlo, te proporciona el efecto de Fire Resistance I de forma infinita, siempre y cuando no estés en contacto con la lava.
 
--Bolsa Celestial Ender:
-al tenerlo en los slots 9 18 27 aumentará: ahora puede tira elder peral no tiene cooldown la capacidad de stackear sube a 32 no te spawnea endermites
-Crafteo está en el libro 📖 🥶
