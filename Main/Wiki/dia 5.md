@@ -18,6 +18,8 @@
 
 * Las ranas ahora spawnean en el nether de manera natural y estas son atacadas por todos los mobs hostiles.
 
+- El wandering trader de la jungla tiene nuevos tradeos.
+
 * Aparece una __"I.A."__ que llega para brindarles a los jugadores información relevante sobre los eventos que sucedan en el mundo. Asimismo, esta contiene con algunas otras "funciones extras" que de igual forma les pueden ser de utilidad.
 
 ![IA (1)](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/IA%20(1).png) ![IA (2)](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/IA%20(2).png)
