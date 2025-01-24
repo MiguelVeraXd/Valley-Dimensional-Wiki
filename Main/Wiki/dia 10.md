@@ -108,7 +108,7 @@
 
 ![herramientas_de_stelarita](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/VdeosinttuloHechoconClipchamp12-ezgif.com-crop.gif)
 
-## [Encantamientos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/encartamiento.md) 
+## [Encantamientos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/encantamientos.md) 
 
 - Nuevo encantamiento para el tridente: __Hydromagic Attraction (Nivel Máximo: 1).__ Con este, el jugador podrá atraer los objetos del suelo hacia él con un simple lanzamiento de tridente (es importante recalcar que, para poder aplicar este encantamiento, el tridente seleccionado debe estar encantado con Lealtad, ya sea de nivel I, II o III.)
 
