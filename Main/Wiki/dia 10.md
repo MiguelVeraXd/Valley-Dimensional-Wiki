@@ -106,7 +106,7 @@
 
 - Ahora se pueden upgradear las herramientas de Netherite y convertirlas en __Herramientas de Stelarita.__ Para obtener esta mejora se debe colocar la nueva plantilla, la herramienta de netherite que se desee mejorar y un lingote de glaciarium: 
 
-image.png
+![herramientas_de_stelarita](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/VdeosinttuloHechoconClipchamp12-ezgif.com-crop.gif)
 
 ## [Encantamientos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/encartamiento.md) 
 
