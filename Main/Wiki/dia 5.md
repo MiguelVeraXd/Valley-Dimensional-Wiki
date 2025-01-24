@@ -190,8 +190,6 @@ Drop Especial = __"Arco Roto"__ (el cual es un arco que tendrá los encantamient
 
 ## [Encantamientos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/encartamiento.md) 
 
-* El comerciante de la jungla tiene nuevos tradeos, estos son:
-
   - __*Mining Cataclysm:*__ Al picar un mineral, todos los minerales del mismo tipo que estén adyacentes a este serán destruidos por igual.
 
   - __*Crop Renewal:*__ Cuando golpeas un cultivo no crecido, este no se romperá.
