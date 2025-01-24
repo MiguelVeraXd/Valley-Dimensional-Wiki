@@ -1,6 +1,6 @@
 ## [Dia 5](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%205.md) 
 
-El **Wandering Trader de la Jungla** trajo nuevos encantamientos al mundo:
+El wandering trader de la jungla trajo nuevos encantamientos al mundo:
 
 - **Mining Cataclysm:** Pica todos los minerales del mismo tipo que estén adyacentes al mineral **(Nivel Máximo: 1).**
 - **Crop Renewal:** Cuando golpeas un cultivo no crecido, este no se rompe **(Nivel Máximo: 1).**.
