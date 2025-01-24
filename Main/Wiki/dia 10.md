@@ -104,6 +104,8 @@
 
 ![caña_de_pescar_de_lava](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/ca%C3%B1a_de_pescar_de_lava.png)
 
+*Nuevos tesoros pueden ser obtenido a base de esta.*
+
 - Ahora se pueden upgradear las herramientas de Netherite y convertirlas en __Herramientas de Stelarita.__ Para obtener esta mejora se debe colocar la nueva plantilla, la herramienta de netherite que se desee mejorar y un lingote de glaciarium: 
 
 ![herramientas_de_stelarita](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/VdeosinttuloHechoconClipchamp12-ezgif.com-crop.gif)
