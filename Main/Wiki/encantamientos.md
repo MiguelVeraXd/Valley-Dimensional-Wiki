@@ -1,11 +1,14 @@
 ## [Dia 5](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%205.md) 
 
-El wandering trader de la jungla trajo nuevos encantamientos al mundo:
+- El wandering trader de la jungla trajo nuevos encantamientos al mundo:
 
-- **Mining Cataclysm:** Pica todos los minerales del mismo tipo que estén adyacentes al mineral **(Nivel Máximo: 1).**
-- **Crop Renewal:** Cuando golpeas un cultivo no crecido, este no se rompe **(Nivel Máximo: 1).**.
-- **Woodland Wrath:** Al talar un árbol, este se romperá por completo **(Nivel Máximo: 1).**.
-- **Double Jump:** Te agrega un salto doble y cada nivel aumenta la altura de salto **(Nivel Máximo: 4).**.
+  - __*Mining Cataclysm:*__ Al picar un mineral, todos los minerales del mismo tipo que estén adyacentes a este serán destruidos por igual. **(Nivel Máximo: 1).**.
+
+  - __*Crop Renewal:*__ Cuando golpeas un cultivo no crecido, este no se romperá. **(Nivel Máximo: 1).**.
+
+  - __*Woodland Wrath:*__ Al talar un árbol, toda la madera de este se romperá por completo. **(Nivel Máximo: 1).**.
+    
+  - **Double Jump:** Te agrega un "Salto Doble", y por cada cada nivel agregado aumentará la altura de este. **(Nivel Máximo: 4).**.
 
 ## [Dia 10](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%2010.md)
 
