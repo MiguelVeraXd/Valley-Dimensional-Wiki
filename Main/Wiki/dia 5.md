@@ -190,11 +190,15 @@ Drop Especial = __"Arco Roto"__ (el cual es un arco que tendrá los encantamient
 
 ## [Encantamientos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/encantamientos.md) 
 
-  - __*Mining Cataclysm:*__ Al picar un mineral, todos los minerales del mismo tipo que estén adyacentes a este serán destruidos por igual.
+- El wandering trader de la jungla trajo nuevos encantamientos al mundo:
 
-  - __*Crop Renewal:*__ Cuando golpeas un cultivo no crecido, este no se romperá.
+  - Nuevo encantamiento para el pico: __*Mining Cataclysm (Nivel Máximo: 1).*__ Al picar un mineral, todos los minerales del mismo tipo que estén adyacentes a este serán destruidos por igual.
 
-  - __*Woodland Wrath:*__ Al talar un árbol, toda la madera de este se romperá por completo.
+  - Nuevo encantamiento para la azada: __*Crop Renewal (Nivel Máximo: 1).*__ Cuando golpeas un cultivo no crecido, este no se romperá.
+
+  - Nuevo encantamiento para el hacha: __*Woodland Wrath (Nivel Máximo: 1).*__ Al talar un árbol, toda la madera de este se romperá por completo.
+    
+  - Nuevo encantamiento para las botas: __*Double Jump (Nivel Máximo: 4).*__ Te agrega un "Salto Doble", y por cada cada nivel agregado aumentará la altura de este.
 
 ## Items Nuevos
 
