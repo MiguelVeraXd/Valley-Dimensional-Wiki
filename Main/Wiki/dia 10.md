@@ -126,4 +126,5 @@
 
   - Nuevo encantamiento para las herramientas: __*Fragmentáctil (Nivel Máximo: 1).*__ Te permite cambiar entre "Fortuna III" y "Toque de Seda I" en tus herramientas. Para activarlo, el jugador debe "interactuar" con la herramienta al mismo tiempo que "salta estando agachado." *Incluso si estos encantamientos no habían sido adquiridos previamente, el Fragmentáctil los añade al ser activado.*
 
+## [Amuletos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/amuletos.md)
 
