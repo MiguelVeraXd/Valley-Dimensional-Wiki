@@ -1,4 +1,4 @@
-## Cambios al Gameplay Vanilla
+## Cambios al Gameplay
 
 - Al entrar por primera vez al mundo, el jugador recibirá un __"Menú de Clases"__, el cual le brindará la posibilidad de escoger 1 de 3 clases. Cada una de estas tiene beneficios que las otras clases no, por lo tanto, debes elegir con sabiduría:
 
