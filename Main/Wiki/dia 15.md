@@ -2,7 +2,7 @@
 
 ## Cambios al Gameplay
 
-- 
+- El aldeano de jugla tiene nuevos tradeos.
 
 ## [Encantamientos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/encantamientos.md)
 
