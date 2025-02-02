@@ -4,7 +4,7 @@
 
 - El aldeano de jugla tiene nuevos tradeos.
 
-- Los falling block tienen gravedad.
+- Todos los bloques tienen gravedad.
 
 ## [Encantamientos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/encantamientos.md)
 
