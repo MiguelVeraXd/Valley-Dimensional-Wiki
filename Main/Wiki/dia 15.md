@@ -6,6 +6,8 @@
 
 - Todos los bloques tienen gravedad.
 
+- Existen nuevos **"Vaults Lunares"** distribuidos a lo largo de la luna. Al igual que los Vaults tradicionales, solo pueden ser abiertos mediante el uso de una "Trial Key" especial.
+
 ## Items Nuevos
 
 - Nueva mejora para la pechera y pantalones: Se consigue matando a una nueva variante del esqueleto: "Esqueleto Estelar". Al utilizarla junto a un lingote de netherita en la mesa de herrería, da como resultado una **"Pechera de Netherita Demoníacas"** y unos **"Pantalones de Netherita Demoníacos"** respectivamente.
@@ -31,3 +33,5 @@ image.png
   - Nuevo encantamiento para el cazco: __*Gravity (Nivel Máximo: 1).*__ Permite al jugador tener el control de su propia graverdad, anulando los efectos de "slow falling" y "jump boost" que se encuentran presentes en la luna (para activarlo o desactivarlo, el jugador debe tener el cazco con el encantamiento aplicado en mano, mirar hacia un bloque y golpearlo con este).
  
   - El encantamiento de "Quick Charge (Carga Rápida)" puede ser obtenido en su versión mejorada: __*Quick Charge V.*__
+ 
+- Nuevas mejoras para los encantamientos de Crop Renewal y Fragmentáctil en el "Yunque de Fluorita Reforzado": Se obtienen aplicando una lágrima lunar a la herramienta deseada (que tenga alguno de los encantamientos anteriormente mencionados) y de esta forma se adquiriá el "Crop Renewal II" y "Fragmentáctil II"
