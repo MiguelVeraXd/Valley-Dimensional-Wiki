@@ -30,7 +30,7 @@
 
 ## [Dia 15](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%2015.md)
 
-- Nuevos encantamientos pueden ser obtenidos en los **"Vaults Lunares"**:
+- Nuevos encantamientos pueden ser obtenidos en los **"Vaults Lunares":**
 
   - Nuevo encantamiento para la armadura: __*Growing Vitality (Nivel Máximo: 5).*__ Aumenta la regeneración natural en 0.4 puntos de vida por cada nivel agregado.
 
