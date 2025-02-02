@@ -6,6 +6,14 @@
 
 - Todos los bloques tienen gravedad.
 
+## Items Nuevos
+
+- Nueva mejora para la pechera: Se consigue matando a una nueva variante del esqueleto: "Esqueleto Estelar".
+
+image.png
+
+*La única manera de conseguir esta variante es logrando impactar la fireball de un "Ghast Lunar" en un "Esqueleto Profanador".*
+
 ## [Encantamientos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/encantamientos.md)
 
 - Nuevos encantamientos pueden ser obtenidos en los Vaults Lunares:
