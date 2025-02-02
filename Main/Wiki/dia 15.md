@@ -16,4 +16,4 @@
 
   - Nuevo encantamiento para el cazco: __*Gravity (Nivel Máximo: 1).*__ Permite al jugador tener el control de su propia graverdad, anulando los efectos de "slow falling" y "jump boost" que se encuentran presentes en la luna (para activarlo o desactivarlo, el jugador debe tener el cazco con el encantamiento aplicado en mano, mirar hacia un bloque y golpearlo con este).
  
-  - El encantamiento de Carga Rápida puede ser obtenido en su versión mejorada: __*Quick Charge V.*__
+  - El encantamiento de "Quick Charge (Carga Rápida)" puede ser obtenido en su versión mejorada: __*Quick Charge V.*__
