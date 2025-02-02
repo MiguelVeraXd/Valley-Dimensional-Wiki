@@ -8,7 +8,7 @@
 
 ## Items Nuevos
 
-- Nueva mejora para la pechera: Se consigue matando a una nueva variante del esqueleto: "Esqueleto Estelar".
+- Nueva mejora para la pechera y pantalones: Se consigue matando a una nueva variante del esqueleto: "Esqueleto Estelar".
 
 image.png
 
