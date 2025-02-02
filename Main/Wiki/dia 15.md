@@ -8,8 +8,10 @@
 
 - Nuevos encantamientos pueden ser obtenidos en los Vaults Lunares:
 
-- Nuevo encantamiento para las espada hace más daño a lo enemigos cerdos: Butcher Nivel Máximo 5
+  - Nuevo encantamiento para la espada: __*Butcher (Nivel Máximo: 5).*__ Hace más daño a lo enemigos que formen parte de la familia "cerdo."
 
-- Nuevo encantamiento para las armadura aumenta la regeneración en 0.4 por nivel : Growing Vitality Nivel Máximo 5
+  - Nuevo encantamiento para la armadura: __*Growing Vitality (Nivel Máximo: 5).*__ Aumenta la regeneración en un 0.4% por cada nivel agregado.
 
-- Nuevo encantamiento para las armadura los efecto de esta lista ["poison", "fatal poison", "wither", "nausea", "blindness"] por cada nivel reduce en 5% la duración: Lasting Eclipsa Nivel Máximo 5 
+  - Nuevo encantamiento para la armadura: __*Lasting Eclipsa (Nivel Máximo: 5).*__ Los efectos de: ["poison", "fatal poison", "wither", "nausea", "blindness"] reducirán su duración en un 5% por cada nivel agregado.
+ 
+  - El encantamiento de Carga Rápida puede ser obtenido en su versión mejorada: __*Quick Charge V.*__
