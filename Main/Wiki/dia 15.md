@@ -16,7 +16,7 @@ image.png
 
 ## [Encantamientos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/encantamientos.md)
 
-- Nuevos encantamientos pueden ser obtenidos en los Vaults Lunares:
+- Nuevos encantamientos pueden ser obtenidos en los **"Vaults Lunares":**
 
   - Nuevo encantamiento para la armadura: __*Growing Vitality (Nivel Máximo: 5).*__ Aumenta la regeneración natural en 0.4 puntos de vida por cada nivel agregado.
 
