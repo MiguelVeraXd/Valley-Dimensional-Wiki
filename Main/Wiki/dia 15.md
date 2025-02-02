@@ -4,6 +4,8 @@
 
 - El aldeano de jugla tiene nuevos tradeos.
 
+- Los falling block tienen gravedad.
+
 ## [Encantamientos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/encantamientos.md)
 
 - Nuevos encantamientos pueden ser obtenidos en los Vaults Lunares:
