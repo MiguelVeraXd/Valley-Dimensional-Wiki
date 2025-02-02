@@ -14,7 +14,7 @@
  
   - Nuevo encantamiento para la armadura: __*Harvest of Magic (Nivel Máximo: 5).*__ Reduce la probablilidad de gastar mana en un 4% por cada nivel agregado.
  
-*Es importante recalcar que una pieza de armadura solo se puede tener 1 de los 3 tipos de encantamientos, por lo tanto, se les aconseja a los jugadores que eligan cautalosamente los beneficios que deseen adquirir.*
+    *Es importante recalcar que una pieza de armadura solo se puede tener 1 de los 3 tipos de encantamientos, por lo tanto, se les aconseja a los jugadores que eligan cautalosamente los beneficios que deseen adquirir.*
  
   - Nuevo encantamiento para la espada: __*Butcher (Nivel Máximo: 5).*__ Hace más daño a lo enemigos que formen parte de la familia "cerdo."
 
