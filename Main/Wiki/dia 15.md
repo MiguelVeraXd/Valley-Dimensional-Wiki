@@ -8,7 +8,7 @@
 
 ## Items Nuevos
 
-- Nueva mejora para la pechera y pantalones: Se consigue matando a una nueva variante del esqueleto: "Esqueleto Estelar".
+- Nueva mejora para la pechera y pantalones: Se consigue matando a una nueva variante del esqueleto: "Esqueleto Estelar". Al utilizarla junto a un lingote de netherita en la mesa de herrería, da como resultado una "Pechera de Netherita Demoníacas" y unos "Pantalones de Netherita Demoníacos" respectivamente.
 
 image.png
 
