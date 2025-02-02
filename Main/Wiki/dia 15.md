@@ -13,5 +13,7 @@
   - Nuevo encantamiento para la armadura: __*Growing Vitality (Nivel Máximo: 5).*__ Aumenta la regeneración en un 0.4% por cada nivel agregado.
 
   - Nuevo encantamiento para la armadura: __*Lasting Eclipsa (Nivel Máximo: 5).*__ Los efectos de: ["poison", "fatal poison", "wither", "nausea", "blindness"] reducirán su duración en un 5% por cada nivel agregado.
+
+  - Nuevo encantamiento para el cazco: __*Gravity (Nivel Máximo: 1).*__ Permite al jugador tener el control de su propia graverdad, anulando los efectos de "slow falling" y "jump boost" que se encuentran presentes en la luna (para activarlo o desactivarlo, el jugador debe tener el cazco con el encantamiento aplicado en mano, mirar hacia un bloque y golpearlo con este).
  
   - El encantamiento de Carga Rápida puede ser obtenido en su versión mejorada: __*Quick Charge V.*__
