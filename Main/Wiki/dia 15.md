@@ -39,3 +39,7 @@ image.png
   - El encantamiento de "Quick Charge (Carga Rápida)" puede ser obtenido en su versión mejorada: __*Quick Charge V.*__
  
 - Nuevas mejoras para los encantamientos de "Crop Renewal" y "Fragmentáctil": Se obtienen aplicando una lágrima lunar a la herramienta deseada (que tenga alguno de los encantamientos anteriormente mencionados) en el "Yunque de Fluorita Reforzado", y de esta forma se adquiriá el __*Crop Renewal II*__ y/o __*Fragmentáctil II.*__
+
+  - __*Crop Renewal II:*__
+ 
+  - __*Fragmentáctil:*__
