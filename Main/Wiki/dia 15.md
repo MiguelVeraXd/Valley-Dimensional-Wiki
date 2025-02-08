@@ -10,7 +10,9 @@
 
 ## Cambios de Dificultad
 
-- Ahora se presentan nuevas 
+- Ahora se presentan nuevas amenazas en la Luna, tales como:
+
+  - 
 
 ## Items Nuevos
 
