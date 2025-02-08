@@ -30,7 +30,7 @@ image.png
  
   - Nuevo encantamiento para la armadura: __*Harvest of Magic (Nivel Máximo: 5).*__ Reduce la probablilidad de gastar mana en un 4% por cada nivel agregado.
  
-    *Es importante recalcar que una pieza de armadura solo se puede tener 1 de los 3 tipos de encantamientos, por lo tanto, se les aconseja a los jugadores que eligan cautalosamente los beneficios que deseen adquirir.*
+    *Es importante recalcar que una pieza de armadura solo se puede tener 1 de los 3 tipos de encantamientos, por lo tanto, se les aconseja a los jugadores que eligan cuidadosamente los beneficios que deseen adquirir.*
  
   - Nuevo encantamiento para la espada: __*Butcher (Nivel Máximo: 5).*__ Hace más daño a los enemigos que formen parte de la familia "cerdo."
 
@@ -40,6 +40,6 @@ image.png
  
 - Nuevas mejoras para los encantamientos de "Crop Renewal" y "Fragmentáctil": Se obtienen aplicando una lágrima lunar a la herramienta deseada (que tenga alguno de los encantamientos anteriormente mencionados) en el "Yunque de Fluorita Reforzado", y de esta forma se adquiriá el __*Crop Renewal II*__ y/o __*Fragmentáctil II.*__
 
-  - __*Crop Renewal II:*__
+  - __*Crop Renewal II:*__ Ahora las cosechas extraídas saldrán en su mejor versión (Ejemplo: Papas - Papas Cocinadas, Zanahorias - Zanahorias Doradas, Trigo - Bloque de Heno, etc).
  
-  - __*Fragmentáctil:*__
+  - __*Fragmentáctil II:*__ Consta de dos mejoras. Una para el Toque de Seda:* La cual te permite conservar la forma más pura de cualquier bloque picado (Ejemplo: Spawners, Budding Amethyst, ). Y una para el Fortuna: La cual añade un Smelting Touch a los picos (los minerales extraídos saldrán en su versión cocinada) y, a su vez, se aumenta el nivel de fortuna de los picos y azadas, permitiéndole así al jugador obtener más minerales y cosechas. 
