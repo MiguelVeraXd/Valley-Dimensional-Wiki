@@ -20,7 +20,14 @@
 
 - El wandering trader de la jungla tiene nuevos tradeos.
 
-* Aparece una __"I.A."__ que llega para brindarles a los jugadores información relevante sobre los eventos que sucedan en el mundo. Asimismo, esta contiene con algunas otras "funciones extras" que de igual forma les pueden ser de utilidad.
+- Aparece una __"I.A."__ que llega para brindarles a los jugadores información relevante sobre los eventos que sucedan en el mundo. Asimismo, esta contiene con algunas otras "funciones extras" que de igual forma les pueden ser de utilidad tales como:
+
+  - Mostrar la vida que tienen todas las entidades del juego (actualizada en tiempo real).
+  - Hacer visibles los efectos de poción negativos que tengan los demás jugadores.
+  - Brindar un chat especial por equipo (escribir el comando "!p *mensaje*" para su uso).
+  - Proveer de un calendario lunar donde se muestra el pronóstico de las fases de la luna en el mundo.
+  - Traducción de coordendas entre el Overworld y el Nether.
+  - Inforrmación sobre los "Bosses" que se encuentran presentes en el mundo.
 
 ![IA (1)](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/IA%20(1).png) ![IA (2)](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/IA%20(2).png)
 
