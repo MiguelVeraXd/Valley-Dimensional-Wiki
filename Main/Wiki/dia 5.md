@@ -251,9 +251,16 @@ Drop Especial = __"Arco Roto"__ (el cual es un arco que tendrá los encantamient
 
 ![escudo_infernal](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/escudo_infernal.png)
 
-* Nueva mejora para las botas: Se consigue haciendo que una rana se coma a un magma cube. Al utilizarla junto a un lingote de netherita en la mesa de herrería, da como resultado unas __"Botas de Netherita Demoníacas".__
+* Nueva mejora para las botas: Se consigue haciendo que una rana se coma a un magma cube. Al utilizarla junto a un lingote de netherita en la mesa de herrería, da como resultado unas __"Botas de Netherita Demoníacas"__ con:
+
+  - Doble de "Durabilidad"
+  - +4 Puntos de "Armadura"
+  - +1 Punto de "Knockback Resistance"
+  - Mejor notoria en la movilidad dentro de la lava.
 
 ![botas_de_netherita_demoniacas](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/botas_de_netherita_demoniacas.png)
+
+*__Habilidad Especial:__ Al "shiftear" y "saltar" al mismo tiempo que se tiene un "alimento" en mano, se le brindará al jugador el efecto de "Instant Health III" durante 1 segundo. La habilidad tiene un "Cooldown" de  segundos.
 
 * Nuevo "Potionexus": Sirve para combinar, potenciar y amplificar la duración de las pociones, llevándolas así a nuevos niveles.
 
