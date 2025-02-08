@@ -76,7 +76,7 @@ __*Para activar esta inferfaz el jugador debe de "interactuar" con la mesa mient
 
 ![casco_de_netherita_demoniaco](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/casco_de_netherita_demoniaco.png)
 
-*Al "shiftear" mientras se tiene un arco en mano, se creará una área de partículas en la posición del jugador durante unos segundos. Estar dentro del área (aplica para todo jugador presente), aumentará en un 20% el daño de las flechas. La habilidad tiene un "Cooldown" de 40 segundos.*
+*__Habilidad Especial:__ Al "shiftear" mientras se tiene un arco en mano, se creará una área de partículas en la posición del jugador durante unos segundos. Estar dentro del área (aplica para todo jugador presente), aumentará en un 20% el daño de las flechas. La habilidad tiene un "Cooldown" de 40 segundos.*
 
 * __*"Respawn Anchor Conduit Rest":*__
 
