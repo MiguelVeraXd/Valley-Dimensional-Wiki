@@ -42,4 +42,4 @@ image.png
 
   - __*Crop Renewal II:*__ Ahora las cosechas extraídas saldrán en su mejor versión (Ejemplo: Papas - Papas Cocinadas, Zanahorias - Zanahorias Doradas, Trigo - Bloque de Heno, etc).
  
-  - __*Fragmentáctil II:*__ Consta de dos mejoras. Una para el Toque de Seda:* La cual te permite conservar la forma más pura de cualquier bloque picado (Ejemplo: Spawners, Budding Amethyst, ). Y una para el Fortuna: La cual añade un Smelting Touch a los picos (los minerales extraídos saldrán en su versión cocinada) y, a su vez, se aumenta el nivel de fortuna de los picos y azadas, permitiéndole así al jugador obtener más minerales y cosechas. 
+  - __*Fragmentáctil II:*__ Consta de dos mejoras. Una para el Toque de Seda:* La cual te permite conservar la forma más pura de cualquier bloque picado (Ejemplo: Spawners, Budding Amethyst, ). Y una para el Fortuna: La cual añade un Smelting Touch a los picos (los minerales extraídos saldrán en su versión cocinada) y, a su vez, aumenta el nivel de fortuna de los picos y azadas, permitiéndole al jugador obtener más minerales y cosechas. 
