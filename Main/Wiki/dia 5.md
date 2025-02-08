@@ -27,7 +27,7 @@
   - Brindar un chat especial por equipo (escribir el comando "!p *mensaje*" para su uso).
   - Proveer de un calendario lunar donde se muestra el pronóstico de las fases de la luna en el mundo.
   - Traducción de coordendas entre el Overworld y el Nether.
-  - Inforrmación sobre los "Bosses" que se encuentran presentes en el mundo.
+  - Información sobre los "Bosses" que se encuentran presentes en el mundo.
 
 ![IA (1)](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/IA%20(1).png) ![IA (2)](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/IA%20(2).png)
 
