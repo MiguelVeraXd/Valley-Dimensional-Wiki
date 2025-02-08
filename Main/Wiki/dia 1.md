@@ -66,13 +66,13 @@ __*Para activar esta inferfaz el jugador debe de "interactuar" con la mesa mient
 
 ![mochila](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/mochila.png)
 
-* Nuevo "Casco de Netherita Demoníaco" con:
+* Nuevo __*"Casco de Netherita Demoníaco"*__ con:
 
-  - __Doble de "Durabilidad"__
+  - Doble de "Durabilidad."
 
-  - __+4 Puntos de "Armadura"__
+  - +4 Puntos de "Armadura."
 
-  - __+1 Punto de "Knockback Resistance"__
+  - +1 Punto de "Knockback Resistance."
 
 ![casco_de_netherita_demoniaco](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/casco_de_netherita_demoniaco.png)
 
