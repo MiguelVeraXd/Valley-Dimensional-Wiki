@@ -270,6 +270,7 @@ Drop Especial = __"Arco Roto"__ (el cual es un arco que tendrá los encantamient
 
 ![yunque_de_fluorita_reforzada](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/yunque_de_fluorita_reforzada.png)
 
+* Glaciarium se obtiene al fundir hielo azul en un Horno o en un Alto horno.
 * Nuevo "Lingote de Glaciarium": Utilizando en la elaboración de los nuevos arcos. 
 
 ![lingote_de_glaciarium](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/lingote_de_glaciarium.png)
