@@ -29,6 +29,7 @@
   - Traducción de coordendas entre el Overworld y el Nether.
   - Información sobre los "Bosses" que se encuentran presentes en el mundo.
   - Bloquear o desbloquear el objeto en la mano principal para evitar moverlo o soltarlo. (Escribir !slot en el chat mientras lo sostienes item).
+    
 ![IA (1)](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/IA%20(1).png) ![IA (2)](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/IA%20(2).png)
 
 *Su crafteo es simple, el jugador puede acceder a la I.A. "interactuando" con una brújula o reloj.*
