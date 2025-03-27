@@ -14,11 +14,11 @@
 
   - Tejedor Lunar: Entes arácnidos con una velocidad base aumentada, capacidad de trackeo desde una mayor distancia, daño incrementado, veneno de mayor duración (15 segundos) y su habilidad insignia, un "dash" con el que se aproximarán a todo jugador que se cruze en su paso.
 
-  - Ghast Dimensional: Su fireball, a diferencia de la de un Ghast común, no explota, pero dará el efecto levitación durante b
+  - Ghast Dimensional: Su fireball, a diferencia de la de un Ghast común, no explota, pero dará el efecto levitación XI por 7 segundos
  
-  - Esqueleto Estelar:
+  - Esqueleto Estelar: 
 
-  - Esqueleto 
+  - Esqueleto Profanador: 
 
 ## Items Nuevos
 
