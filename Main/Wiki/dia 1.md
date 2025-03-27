@@ -70,7 +70,7 @@ __*Para activar esta inferfaz el jugador debe de "interactuar" con la mesa mient
 
   - Doble de "Durabilidad."
 
-  - +4 Puntos de "Armadura."
+  - +6 Puntos de "Armadura."
 
   - +1 Punto de "Knockback Resistance."
 
