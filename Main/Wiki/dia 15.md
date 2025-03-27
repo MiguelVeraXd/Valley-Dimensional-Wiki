@@ -2,7 +2,7 @@
 
 ## Cambios al Gameplay
 
-- El aldeano de jugla tiene nuevos tradeos.
+- El aldeano de jungla tiene nuevos tradeos.
 
 - Todos los bloques tienen gravedad.
 
