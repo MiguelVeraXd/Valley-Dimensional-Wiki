@@ -28,7 +28,7 @@
 
 - Nueva mejora para la pechera y pantalones: Se consigue matando a una nueva variante del "Esqueleto Profanador": "___". Al utilizarla junto a un lingote de netherita en la mesa de herrería, da como resultado la **"Pechera de Netherita Demoníaca"** y los **"Pantalones de Netherita Demoníacos"** respectivamente.
 
-[pechera_de_netherita_demoniaca](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/pechera_de_netherita_demoniaca.png)
+![pechera_de_netherita_demoniaca](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/pechera_de_netherita_demoniaca.png)
 
 *La única manera de conseguir esta variante es logrando impactar la fireball de un "Ghast Dimensional" en un "Esqueleto Profanador".*
 
