@@ -31,10 +31,18 @@
 - **Pechera de Netherita Demoníaca:**
 
   - Doble de "Durabilidad"
-  - +6 Puntos de "Armadura"
+  - +10 Puntos de "Armadura"
   - +1 Punto de "Knockback Resistance"
 
 ![pechera_de_netherita_demoniaca](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/pechera_de_netherita_demoniaca.png)
+
+*__Habilidad Especial:__ Al golpear un bloque con el item en mano, la pechera copiará la coordenadas de este, así, cada vez que el jugador consuma un "Tótem de la Inmortalidad", será teletransportado automáticamente a esa posición.*
+
+- **Pantalones de Netherita Demoníacos:**
+
+  - Doble de "Durabilidad"
+  - +4 Puntos de "Armadura"
+  - +1 Punto de "Knockback Resistance"
 
 *La única manera de conseguir esta variante es logrando impactar la fireball de un "Ghast Dimensional" en un "Esqueleto Profanador".*
 
