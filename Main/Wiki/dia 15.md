@@ -44,6 +44,8 @@
   - +4 Puntos de "Armadura"
   - +1 Punto de "Knockback Resistance"
 
+![pantalones_de_netherita_demoniacos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/pantalones_de_netherita_demoniacos.png)
+
 *La única manera de conseguir esta variante es logrando impactar la fireball de un "Ghast Dimensional" en un "Esqueleto Profanador".*
 
 ## [Encantamientos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/encantamientos.md)
