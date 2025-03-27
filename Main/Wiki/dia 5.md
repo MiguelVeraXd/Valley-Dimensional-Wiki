@@ -255,7 +255,7 @@ Drop Especial = __"Arco Roto"__ (el cual es un arco que tendrá los encantamient
 * Nueva mejora para las botas: Se consigue haciendo que una rana se coma a un magma cube. Al utilizarla junto a un lingote de netherita en la mesa de herrería, da como resultado unas __"Botas de Netherita Demoníacas"__ con:
 
   - Doble de "Durabilidad"
-  - +4 Puntos de "Armadura"
+  - +6 Puntos de "Armadura"
   - +1 Punto de "Knockback Resistance"
   - Mejor notoria en la movilidad dentro de la lava.
 
