@@ -10,7 +10,7 @@
 
 ## Cambios de Dificultad
 
-- Todos los enemigos pueden tener de 1 a 5 variantes.
+- Todos los mobs del juego pueden tener de 1 a 5 variantes.
 
 - Ahora se presentan nuevas amenazas en la Luna, entre estas está:
 
