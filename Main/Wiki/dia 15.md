@@ -2,11 +2,11 @@
 
 ## Cambios al Gameplay
 
-- El wandering trader de la jungla tiene nuevos tradeos y ahora aparecerá en la luna de forma natural.
+- El wandering trader de la jungla tiene nuevos tradeos y ahora aparecerá en "La Luna" de forma natural.
 
 - Todos los bloques tienen gravedad (en "La Luna").
 
-- Existen nuevos **"Vaults Lunares"** distribuidos a lo largo de la luna. Al igual que los Vaults tradicionales, solo pueden ser abiertos mediante el uso de una "Trial Key" especial.
+- Existen nuevos **"Vaults Lunares"** distribuidos a lo largo de la luna. Al igual que los Vaults tradicionales, solo pueden ser abiertos mediante el uso de una "Trial Key" especial, en este caso, una **"Moon Key".**
 
 ## Cambios de Dificultad
 
