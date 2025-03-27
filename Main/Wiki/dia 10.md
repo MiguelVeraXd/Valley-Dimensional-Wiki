@@ -128,4 +128,8 @@
 
 ## [Amuletos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/amuletos.md)
 
+* __Recordatorio:__ La mecánica de los "Amuletos" en los slots 9, 18 y 27 sigue estando presente.
+
+![invetario](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/items/invetario.png)
+
 * El __"Talismán de Lava"__ es un nuevo amuleto que se puede obtener mediante la "pesca en lava". Al equiparlo, te proporciona el efecto de Fire Resistance I por 7 segundos, siempre y cuando no estés en contacto con la lava.
