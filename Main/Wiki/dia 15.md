@@ -30,6 +30,9 @@
 
 ![pechera_de_netherita_demoniaca](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/pechera_de_netherita_demoniaca.png)
 
+  - Doble de Durabilidad
+  - +10 Puntos de "Armadura"
+
 *La única manera de conseguir esta variante es logrando impactar la fireball de un "Ghast Dimensional" en un "Esqueleto Profanador".*
 
 ## [Encantamientos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/encantamientos.md)
