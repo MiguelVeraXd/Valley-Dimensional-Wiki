@@ -20,7 +20,7 @@
 
   - **Ghast Dimensional:** Su fireball, a diferencia de la de un Ghast común, no explota, pero dará el efecto **"Levitación XI"** por **7 segundos.**
  
-  - **Esqueleto Estelar:**
+  - **Esqueleto Estelar:** Tiene una capacidad de trackeo mucho más desarrollada, que le permite, no solo detectar a sus enemigos desde distancias lejanas, sino también verlos a través de los bloques, asimismo, trae consigo un arco encantado con "Punch II".
 
   - **Esqueleto Profanador:**
 
