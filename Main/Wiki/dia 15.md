@@ -26,7 +26,7 @@
 
 ## Items Nuevos
 
-- Nueva mejora para la pechera y pantalones: Se consigue matando a una nueva variante del "Esqueleto Profanador": "___". Al utilizarla junto a un lingote de netherita en la mesa de herrería, da como resultado la **"Pechera de Netherita Demoníaca"** y los **"Pantalones de Netherita Demoníacos"** respectivamente.<
+- Nueva mejora para la pechera y pantalones: Se consigue matando a una nueva variante del "Esqueleto Profanador": "___". Al utilizarla junto a un lingote de netherita en la mesa de herrería, da como resultado la **"Pechera de Netherita Demoníaca"** y los **"Pantalones de Netherita Demoníacos"** respectivamente.
 
 - **Pechera de Netherita Demoníaca:**
 
