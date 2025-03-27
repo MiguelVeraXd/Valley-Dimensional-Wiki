@@ -19,10 +19,12 @@
   - **Tejedor Lunar:** Entes arácnidos con una velocidad base aumentada, capacidad de trackeo desde una mayor distancia, daño incrementado, veneno de mayor duración (15 segundos) y su habilidad insignia, un "dash" con el que se aproximarán a todo jugador que se cruze en su paso.
 
   - **Ghast Dimensional:** Su fireball, a diferencia de la de un Ghast común, no explota, pero dará el efecto **"Levitación XI"** por **7 segundos.**
+Drop Especial = __"Lágrima Lunar"__
  
   - **Esqueleto Estelar:** Tiene una capacidad de trackeo mucho más desarrollada, que le permite, no solo detectar a sus enemigos desde distancias lejanas, sino también verlos a través de los bloques, asimismo, trae consigo un arco encantado con "Punch II".
+Drop Especial = __"Moon Key"__
 
-  - **Esqueleto Profanador:**
+  - **Esqueleto Profanador:** El esqueleto que alguna vez atormento a los jugadores en la tierra durante la "Moonlight" vuelve para hacerlo desde su hogar en "La Luna"...
 
 ## Items Nuevos
 
