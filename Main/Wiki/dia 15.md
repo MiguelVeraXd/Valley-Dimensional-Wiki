@@ -10,6 +10,8 @@
 
 ## Cambios de Dificultad
 
+- Todos los enemigos pueden tener de 1 a 5 variantes.
+
 - Ahora se presentan nuevas amenazas en la Luna, entre estas está:
 
   - Tejedor Lunar: Entes arácnidos con una velocidad base aumentada, capacidad de trackeo desde una mayor distancia, daño incrementado, veneno de mayor duración (15 segundos) y su habilidad insignia, un "dash" con el que se aproximarán a todo jugador que se cruze en su paso.
