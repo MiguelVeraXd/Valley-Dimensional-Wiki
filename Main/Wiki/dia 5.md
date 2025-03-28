@@ -271,10 +271,15 @@ Drop Especial = __"Arco Roto"__ (el cual es un arco que tendrá los encantamient
 
 ![yunque_de_fluorita_reforzada](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/yunque_de_fluorita_reforzada.png)
 
-* Glaciarium se obtiene al fundir hielo azul en un Horno o en un Alto horno.
-* Nuevo "Lingote de Glaciarium": Utilizando en la elaboración de los nuevos arcos. 
+*Solo basta con tener el objeto que se desea encantar en mano y "interactuar" con el yunque, de esta forma, se desplegará una inferfaz donde se muestran: los posibles encantamientos para dicho objeto, una breve descripción de los mismos, su nivel máximo y la cantidad de niveles de experiencia que se requieren para su aplicación.*
+
+* Nuevo "Lingote de Glaciarium": Utilizando en la elaboración de los nuevos arcos.
 
 ![lingote_de_glaciarium](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/lingote_de_glaciarium.png)
+
+![gif]()
+
+*El Glaciarium es un nuevo item que se obtiene al fundir "hielo azul" en un "horno" o "horno de fusión."*
 
 * Nuevo "Invocador del Warden de la Devastación".
 
