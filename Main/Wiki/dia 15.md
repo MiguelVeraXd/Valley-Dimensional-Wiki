@@ -6,8 +6,6 @@
 
 - Todos los bloques tienen gravedad (en "La Luna").
 
-- Existen nuevos **"Vaults Lunares"** distribuidos a lo largo de la luna. Al igual que los Vaults tradicionales, solo pueden ser abiertos mediante el uso de una "Trial Key" especial, en este caso, una **"Moon Key".**
-
 - Los **"Shulkers"** aparecen de forma natural en "La Luna."
 
 ## Cambios de Dificultad
