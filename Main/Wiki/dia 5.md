@@ -277,7 +277,7 @@ Drop Especial = __"Arco Roto"__ (el cual es un arco que tendrá los encantamient
 
 ![lingote_de_glaciarium](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/lingote_de_glaciarium.png)
 
-![gif]()
+![glaciarium_cocinandose](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/glaciarium_cocinandose(!).gif)
 
 *El Glaciarium es un nuevo item que se obtiene al fundir "hielo azul" en un "horno" o "horno de fusión."*
 
