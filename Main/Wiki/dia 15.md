@@ -71,7 +71,7 @@ Drop Especial = __"Moon Key"__
 
 - Con la ayuda de la **"Gemstone Table"**, el jugador ahora tiene una amplia variedad de combinaciones para sus armas, herramientas y armaduras. Solo necesita "interactuar" con esta mesa mientras tiene en mano la arma, herramienta o pieza de armadura que desea mejorar (no aplica para todos los items de estas categorías), esto habilitará las **"Ranuras de Mejora"** del objeto. Una segunda interacción con la mesa despliegará la interfaz que brinda la posibilidad de añadir dichas **"Gemstones"** en las ranuras anteriormente desbloqueadas, mostrando una breve descripción de su función y, a su vez, permitiendo retirarlas cuando el jugador lo desee.
 
-
+Asimismo, las "Gemstones" tienen diferentes **variantes** de acuerdo con el mineral con el que son creadas, todo dependerá del objeto que el jugador quiera mejorar. En este contexto, estas gemas se encuentran en su versión:
 
 ## [Encantamientos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/encantamientos.md)
 
