@@ -12,7 +12,7 @@
 
   - __Hechicero:__ Se te otorgarán 5 puntos adicionales de __"Maná"__ y podrás regenerar 1 punto de __"Maná"__ cada 15 segundos.
 
-- El wandering trader de la jungla tiene nuevos tradeos.
+- El wandering trader de la jungla tiene nuevos tradeos, entre ellos, un antiguo "Libro del Conocimiento" que guarda consigo un sin fin de nuevas posibilidades para el jugador... (se recomienda su obtención).
 
 - Se pueden descraftear faros con la nueva mesa.
 
