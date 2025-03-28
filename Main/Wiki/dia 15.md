@@ -70,8 +70,12 @@ Drop Especial = __"Moon Key"__
   - Nuevo encantamiento para la armadura: __*Harvest of Magic (Nivel Máximo: 5).*__ Reduce la probablilidad de gastar mana en un 4% por cada nivel agregado.
  
     *Es importante recalcar que una pieza de armadura solo se puede tener 1 de los 3 tipos de encantamientos, por lo tanto, se les aconseja a los jugadores que eligan cuidadosamente los beneficios que deseen adquirir.*
+
+  - Nuevo encantamiento para la espada: __*Soul Syphon (Nivel Máximo: 5).*__ Al derrotar a un enemigo, hay un 5% de probabilidad (por cada nivel agregado) de restaurar 1 punto de mana.
+
+  - Nuevo encantamiento para la espada: __*Ancient Parasite (Nivel Máximo: 3).*__ Al golpear a una entidad hostil, drena 0.4 de sus corazones (por cada nivel agregado) y los transfiere al jugador. Por otra parte, al atacar a entidades no hostiles, el encantamiento maldecirá al jugador con "Hambre III" por 10 segundos y reducirá su vida en un 80%.
  
-  - Nuevo encantamiento para la espada: __*Butcher (Nivel Máximo: 5).*__ Hace más daño a los enemigos que formen parte de la familia "cerdo."
+  - Nuevo encantamiento para la espada: __*Butcher (Nivel Máximo: 5).*__ Hace más daño a los enemigos que formen parte de la familia "cerdo" (este encantamiento no es compatible con "Sharpness", "Smite" o "Bane of Arthropods").
 
   - Nuevo encantamiento para el cazco: __*Gravity (Nivel Máximo: 1).*__ Permite al jugador tener el control de su propia graverdad, anulando los efectos de "slow falling" y "jump boost" que se encuentran presentes en la luna (para activarlo o desactivarlo, el jugador debe tener el cazco con el encantamiento aplicado en mano, mirar hacia un bloque y golpearlo con este).
  
