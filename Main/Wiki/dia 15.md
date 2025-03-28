@@ -81,7 +81,7 @@ Drop Especial = __"Moon Key"__
  
   - El encantamiento de "Quick Charge (Carga Rápida)" ahora está disponible en su versión mejorada: __*Quick Charge V.*__
  
-- Nuevas mejoras para los encantamientos de "Crop Renewal" y "Fragmentáctil": Se obtienen aplicando una lágrima lunar a la herramienta deseada (que tenga alguno de los encantamientos anteriormente mencionados) en el "Yunque de Fluorita Reforzado". De esta forma, se obtendrá como resultado el __*Crop Renewal II*__ y/o __*Fragmentáctil II.*__
+- Nuevas mejoras para los encantamientos de "Crop Renewal" y "Fragmentáctil": Se obtienen aplicando una **"Lágrima Lunar"** a la herramienta deseada (que tenga alguno de los encantamientos anteriormente mencionados) en el "Yunque de Fluorita Reforzado". De esta forma, se obtendrá como resultado el __*Crop Renewal II*__ y/o __*Fragmentáctil II.*__
 
   - __*Crop Renewal II:*__ Ahora las cosechas extraídas saldrán en su mejor versión (Ejemplo: Papas - Papas Cocinadas, Zanahorias - Zanahorias Doradas, Trigo - Bloque de Heno, etc).
  
