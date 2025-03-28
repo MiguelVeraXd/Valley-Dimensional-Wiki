@@ -8,6 +8,8 @@
 
 - Los **"Shulkers"** aparecen de forma natural en "La Luna."
 
+- El "Altar of Creation" ha perdido su poder, y ahora no funciona en "La Luna."
+
 ## Cambios de Dificultad
 
 - Todos los mobs del juego pueden tener de 1 a 5 variantes.
@@ -49,6 +51,10 @@ Drop Especial = __"Moon Key"__
 ![pantalones_de_netherita_demoniacos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/pantalones_de_netherita_demoniacos.png)
 
 *__Habilidad Especial:__ Al golpear un bloque con el item en mano, se desplegará una interfaz que le permitirá al jugador ajustar su "Velocidad" en valores del 1 al 7  (se requieren tener los pantalones equipados para que la función esté activa).*
+
+- __Gemstone Table:__ Una nueva mesa creada con las piedras preciosas de "La Luna" capaz de añadirle un "toque especial" a las armas, herramientas y armaduras de los jugadores.
+
+![gemstone_table](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/gemstone_table.png)
 
 ## Generación del Mundo:
 
