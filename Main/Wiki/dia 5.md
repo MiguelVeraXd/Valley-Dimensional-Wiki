@@ -267,6 +267,32 @@ Drop Especial = __"Arco Roto"__ (el cual es un arco que tendrá los encantamient
 
 ![potionexus](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/potionexus.png)
 
+Su funcionamiento se basa en lo siguiente:
+
+  - Primero, el jugador deberá colocar el "Potionexus" abajo de un "Brewing Stand", esto activará todas las funciones anteriormente mencionadas EN el "Brewing Stand".
+
+*Demostración de lo anterior:*
+
+![image.png]
+
+  - Una vez hecho esto, el jugador podrá: llevar la duración de todas las pociones del juego a nuevos límites, cruzando las barreras impuestas por el propio juego. Solo basta con añadir un **"Lingote de Jadeita"** a una poción anteriormente "mejorada en duración", obteniendo así nuevas pociones con un tiempo que duplica al de su versión pasada.
+
+*Ejemplo:*
+
+![image.png]
+
+  - De igual forma, se pueden: llevar a una mejorar nuevamente todas las pociones del juego que hayan sido anteriormente "potenciadas." Solo basta con añadirles un **"Lingote de Fluorita".**
+
+*Ejemplo:*
+
+![image.png]
+
+  - Además de todo esto, las nuevas pociones pueden ser llevadas a su versión **"Splash",** el jugador solo debe añadir pólvora a una pocion anteriormente mejorada, ya sea por "Fluorita" o "Jadeita".
+
+*Ejemplo:*
+
+![image.png]
+
 * Nuevo "Yunque de Fluorita Reforzada": Utilizado para la aplicación de los nuevos encantamientos.
 
 ![yunque_de_fluorita_reforzada](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/yunque_de_fluorita_reforzada.png)
