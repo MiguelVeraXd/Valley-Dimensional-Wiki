@@ -267,6 +267,30 @@ Drop Especial = __"Arco Roto"__ (el cual es un arco que tendrá los encantamient
 
 ![potionexus](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/potionexus.png)
 
+* Nuevo "Yunque de Fluorita Reforzada": Utilizado para la aplicación de los nuevos encantamientos.
+
+![yunque_de_fluorita_reforzada](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/yunque_de_fluorita_reforzada.png)
+
+*Solo basta con tener el objeto que se desea encantar en mano y "interactuar" con el yunque, de esta forma, se desplegará una inferfaz donde se muestran: los posibles encantamientos para dicho objeto, una breve descripción de los mismos, su nivel máximo y la cantidad de niveles de experiencia que se requieren para su aplicación.*
+
+* Nuevo "Lingote de Glaciarium": Utilizando en la elaboración de los nuevos arcos.
+
+![lingote_de_glaciarium](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/lingote_de_glaciarium.png)
+
+![glaciarium_cocinandose](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/glaciarium_cocinandose(!).gif)
+
+*El Glaciarium es un nuevo item que se obtiene al fundir "hielo azul" en un "horno" o "horno de fusión."*
+
+* Nuevo "Invocador del Warden de la Devastación".
+
+![invocador_del_warden_de_la_devastacion](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/invocador_del_warden_de_la_devastacion.png)
+
+* Nuevo "Invocador del Guardián de las Profundidades".
+
+![invocador_del_guardian_de_las_profundidades](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/invocador_del_guardian_de_las_profundidades.png)
+
+## Potionexus
+
 Su funcionamiento se basa en lo siguiente:
 
   - Primero, el jugador deberá colocar el "Potionexus" abajo de un "Brewing Stand", esto activará todas las funciones anteriormente mencionadas EN el "Brewing Stand".
@@ -292,28 +316,6 @@ Su funcionamiento se basa en lo siguiente:
 *Ejemplo:*
 
 ![image.png]
-
-* Nuevo "Yunque de Fluorita Reforzada": Utilizado para la aplicación de los nuevos encantamientos.
-
-![yunque_de_fluorita_reforzada](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/yunque_de_fluorita_reforzada.png)
-
-*Solo basta con tener el objeto que se desea encantar en mano y "interactuar" con el yunque, de esta forma, se desplegará una inferfaz donde se muestran: los posibles encantamientos para dicho objeto, una breve descripción de los mismos, su nivel máximo y la cantidad de niveles de experiencia que se requieren para su aplicación.*
-
-* Nuevo "Lingote de Glaciarium": Utilizando en la elaboración de los nuevos arcos.
-
-![lingote_de_glaciarium](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/lingote_de_glaciarium.png)
-
-![glaciarium_cocinandose](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/glaciarium_cocinandose(!).gif)
-
-*El Glaciarium es un nuevo item que se obtiene al fundir "hielo azul" en un "horno" o "horno de fusión."*
-
-* Nuevo "Invocador del Warden de la Devastación".
-
-![invocador_del_warden_de_la_devastacion](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/invocador_del_warden_de_la_devastacion.png)
-
-* Nuevo "Invocador del Guardián de las Profundidades".
-
-![invocador_del_guardian_de_las_profundidades](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/invocador_del_guardian_de_las_profundidades.png)
 
 ## [Amuletos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/amuletos.md)
 
