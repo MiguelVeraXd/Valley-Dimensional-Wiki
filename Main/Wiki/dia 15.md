@@ -65,6 +65,8 @@ Drop Especial = __"Moon Key"__
 
 - Existen nuevos **"Vaults Lunares"** distribuidos a lo largo de la luna. Al igual que los Vaults tradicionales, solo pueden ser abiertos mediante el uso de una "Trial Key" especial, en este caso, una **"Moon Key".**
 
+- Se generan **"Mooncrystal Geodes"**, pequeños trozos de la luna que se asemejan a las amatistas del Overworld y que aguardan las piedras preciosas de este nuevo hogar.
+
 ## [Encantamientos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/encantamientos.md)
 
 - Nuevos encantamientos pueden ser obtenidos en los **"Vaults Lunares":**
