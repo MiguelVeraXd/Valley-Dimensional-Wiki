@@ -67,6 +67,10 @@ Drop Especial = __"Moon Key"__
 
 - Se generan **"Mooncrystal Geodes"**, pequeños trozos de la luna que se asemejan a las amatistas del Overworld y que aguardan las piedras preciosas de este nuevo hogar.
 
+## Gemstones:
+
+- 
+
 ## [Encantamientos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/encantamientos.md)
 
 - Nuevos encantamientos pueden ser obtenidos en los **"Vaults Lunares":**
