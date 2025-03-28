@@ -57,6 +57,8 @@ Drop Especial = __"Moon Key"__
   - __Nebulosa:__ Polvos estelares enterrados en la superficie de la luna con una alta compatibilidad con los materiales terrestres, cosa que facilita su presencia en la creación de nuevos objetos.
   - __Magnetita:__ Material de propiedades mágneticas que varían dependiendo del tamaño de su concentración (cabe resaltar que estas SOLO SE ACTIVARÁN siempre y cuando el bloque, o los bloques, de magnetita hayan sido colocados por un jugador, y que este, o estos, traigan consigo una pieza de armadura con "características magnéticas" por igual; algunos ejemplos de estas son las armaduras de "Hierro" y "Cota de Mallas". De igual forma, la fuerza de atracción será afectada por el número de piezas "magnéticas" equipadas).
 
+- Existen nuevos **"Vaults Lunares"** distribuidos a lo largo de la luna. Al igual que los Vaults tradicionales, solo pueden ser abiertos mediante el uso de una "Trial Key" especial, en este caso, una **"Moon Key".**
+
 ## [Encantamientos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/encantamientos.md)
 
 - Nuevos encantamientos pueden ser obtenidos en los **"Vaults Lunares":**
