@@ -158,7 +158,7 @@
 
 * __Blizzard Lord:__
 
-![blizzars_lord]()
+![blizzard_lord]()
 
 * __Flame Sentinel:__
 
