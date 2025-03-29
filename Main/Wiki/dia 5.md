@@ -297,7 +297,7 @@ Su funcionamiento se basa en lo siguiente:
 
 *Demostración de su posicionamiento:*
 
-![[potionexus_posicionamiento](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/potionexus_posicionamiento.png)
+![potionexus_posicionamiento](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/potionexus_posicionamiento.png)
 
   - Una vez hecho esto, el jugador podrá: llevar la duración de todas las pociones del juego a nuevos límites, cruzando las barreras impuestas por el propio juego. Solo basta con añadir un **"Lingote de Jadeita"** a una poción anteriormente "mejorada en duración", obteniendo así nuevas pociones con un tiempo que duplica al de su versión pasada.
 
