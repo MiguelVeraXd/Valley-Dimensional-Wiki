@@ -341,7 +341,7 @@ Drop Especial = __"Arco Roto"__ (el cual es un arco que tendrá los encantamient
 
 *Conforme se vayan añadiendo efectos, el chat mostrará mensajes progresivos a manera de recordatorio tal y como se muestra a continuación:*
 
-![image.png]()
+![potionexus_mensajes](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/potionexus_mensajes.png)
 
 - **Soul Potion:**
 
