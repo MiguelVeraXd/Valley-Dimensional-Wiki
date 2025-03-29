@@ -156,15 +156,15 @@
 
 * Se añaden nuevos bosses:
 
-/blizzard_lord_info
+* __Blizzard Lord:__
 
 * __Flame Sentinel:__
 
 ![flame_sentinel](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/bosses/flame_sentinel-resize.gif)
 
-Guardián de las Profundidades
+* __Guardián de las Profundidades:__
 
-Demonic Goat
+* __Demonic Goat:__
 
 * __Warden of Devastation:__
 
