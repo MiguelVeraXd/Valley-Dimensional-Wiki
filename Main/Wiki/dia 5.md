@@ -313,7 +313,7 @@ Drop Especial = __"Arco Roto"__ (el cual es un arco que tendrá los encantamient
 
 ![potionexus_jadeita](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/potionexus_jadeita.gif)
 
-*La conversión de las pociones tardará unos segundos tal y como se muestra en el video*
+*La conversión de las pociones tardará unos segundos tal y como se muestra en el video.*
 
 - **Potenciación de una poción:**
 
@@ -323,13 +323,15 @@ Drop Especial = __"Arco Roto"__ (el cual es un arco que tendrá los encantamient
 
 ![potionexus_jadeita](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/potionexus_fluorita.gif)
 
+*La conversión de las pociones tardará unos segundos tal y como se muestra en el video.*
+
 - **Transición a una poción arrojadiza:**
 
   - Además de todo esto, las nuevas pociones pueden ser llevadas a su versión **"Splash",** el jugador sólo debe añadir pólvora a una poción anteriormente mejorada por "Jadeita" o "Fluorita".
 
 *Ejemplo:*
 
-![image.png]
+![potionexus_fluorita_polvora](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/potionexus_fluorita_polvora.gif)
 
 ## [Amuletos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/amuletos.md)
 
