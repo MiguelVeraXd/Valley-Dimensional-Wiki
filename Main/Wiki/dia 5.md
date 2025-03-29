@@ -291,7 +291,7 @@ Drop Especial = __"Arco Roto"__ (el cual es un arco que tendrá los encantamient
 
 ## Potionexus
 
-Su funcionamiento se basa en lo siguiente:
+- Su funcionamiento se basa en lo siguiente:
 
   - Primero, el jugador deberá colocar el "Potionexus" abajo de un "Brewing Stand", esto activará todas las funciones anteriormente mencionadas EN el "Brewing Stand".
 
