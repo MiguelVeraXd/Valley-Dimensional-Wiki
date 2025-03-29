@@ -313,6 +313,8 @@ Drop Especial = __"Arco Roto"__ (el cual es un arco que tendrá los encantamient
 
 ![potionexus_jadeita](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/potionexus_jadeita.gif)
 
+*La conversión de las pociones tardará unos segundos tal y como se muestra en el video*
+
 - **Potenciación de una poción:**
 
   - De igual forma, se pueden mejorar nuevamente todas las pociones del juego que hayan sido anteriormente "potenciadas" por medio de "glowstone". Solo basta con añadirles un **"Lingote de Fluorita".**
