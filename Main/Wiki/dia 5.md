@@ -361,7 +361,7 @@ Drop Especial = __"Arco Roto"__ (el cual es un arco que tendrá los encantamient
 
 - La llegada del nuevo "Potionexus" trajo consigo una nueva receta de poción, la **"Poción de Health Boost":**
 
-![gif]()
+![health_boost_potion](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/health_boost_potion.gif)
 
 *Al igual que todas las demás pociones, es compatible con todas las formas de amplificación, potenciación, transición y combinación que existen hasta el momento.*
 
