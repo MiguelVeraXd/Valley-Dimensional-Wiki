@@ -327,13 +327,43 @@ Drop Especial = __"Arco Roto"__ (el cual es un arco que tendrá los encantamient
 
 - **Transición a una poción arrojadiza:**
 
-  - Además de todo esto, las nuevas pociones pueden ser llevadas a su versión **"Splash",** el jugador sólo debe añadir pólvora a una poción anteriormente mejorada por "Jadeita" o "Fluorita".
+  - Además de todo esto, las nuevas pociones pueden ser llevadas a su versión **"Splash",** el jugador sólo debe añadir **"Pólvora"** a una poción anteriormente mejorada por "Jadeita" o "Fluorita".
 
 *Ejemplo:*
 
 ![potionexus_fluorita_polvora](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/potionexus_fluorita_polvora.gif) 
 
 ![potionexus_jadeita_polvora](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/potionexus_jadeita_polvora.gif)
+
+- **Combinación de pociones:**
+
+  - Aunado a todos estos beneficios, el "Potionnexus" tiene la capacidad de almacenar hasta 3 efectos de poción y combinarlos en una sola infusión. Para poder hacer esto, el jugador debe tener en mano la poción que desea añadir y interactuar con el bloque del "Potionexus".
+
+*Conforme se vayan añadiendo efectos, el chat mostrará mensajes progresivos a manera de recordatorio tal y como se muestra a continuación:*
+
+![image.png]()
+
+- **Soul Potion:**
+
+  - Ahora bien, para extraer la infusión anteriormente creada, el "Potionexus" debe estar en su máxima capacidad (3/3 efectos). Una vez lleno, el jugador podrá extraer la nueva pocima mediante el uso de una "Soul Potion", "interactuando" nuevamente con el bloque mientras se tiene este item en mano.
+
+*La __"Soul Potion"__ es un nuevo objeto que permite la extración de las infusiones hechas en el "Potionexus", y su **receta** es la siguiente:*
+
+![gif]()
+
+*De igual forma, el jugador la puede obtener en su versión **"Splash"** para un consumo más óptimo de los efectos, solo basta con añadir __"Pólvora".__*
+
+![gif]()
+
+*__IMPORTANTE:__ Si el jugador desea extraer la infusión para consumirla como una poción arrojadiza, deberá de interactuar con el "Potionexus" con la "Splash Soul Potion" ya hecha, ya que la conversión de una "Soul Potion" con efectos previamente adquiridos a una "Splash Potion" no es posible dentro del Add-On.*
+
+### Nueva Poción Descubierta!
+
+- La llegada del nuevo "Potionexus" trajo consigo una nueva receta de poción, la **"Poción de Health Boost":**
+
+![gif]()
+
+*Al igual que todas las demás pociones, es compatible con todas las formas de amplificación, potenciación, transición y combinación que existen hasta el momento.*
 
 ## [Amuletos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/amuletos.md)
 
