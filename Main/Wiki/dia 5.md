@@ -295,9 +295,9 @@ Su funcionamiento se basa en lo siguiente:
 
   - Primero, el jugador deberá colocar el "Potionexus" abajo de un "Brewing Stand", esto activará todas las funciones anteriormente mencionadas EN el "Brewing Stand".
 
-*Demostración de lo anterior:*
+*Demostración de su posicionamiento:*
 
-![image.png]
+![[image.png](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/potionexus_posicionamiento.png)]
 
   - Una vez hecho esto, el jugador podrá: llevar la duración de todas las pociones del juego a nuevos límites, cruzando las barreras impuestas por el propio juego. Solo basta con añadir un **"Lingote de Jadeita"** a una poción anteriormente "mejorada en duración", obteniendo así nuevas pociones con un tiempo que duplica al de su versión pasada.
 
