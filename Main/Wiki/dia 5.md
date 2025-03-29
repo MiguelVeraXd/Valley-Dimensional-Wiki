@@ -291,27 +291,39 @@ Drop Especial = __"Arco Roto"__ (el cual es un arco que tendrá los encantamient
 
 ## Potionexus
 
-- Su funcionamiento se basa en lo siguiente:
+- El **"Potionexus"** es un nuevo "Brewing Stand" que sirve para combinar, potenciar y amplificar la duración de las pociones del juego. Aunque estas funciones no se llevan a cabo dentro de este como tal, permite que el "Brewing Stand" tradicional las pueda ejecutar.
 
-  - Primero, el jugador deberá colocar el "Potionexus" abajo de un "Brewing Stand", esto activará todas las funciones anteriormente mencionadas EN el "Brewing Stand".
+- **Recordatorio de su crafteo:**
 
-*Demostración de su posicionamiento:*
+![potionexus](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/potionexus.png)
+
+- **Posicionamiento:**
+
+  - Primero que nada, el jugador deberá colocar el "Potionexus" abajo de un "Brewing Stand", esto activará todas las funciones anteriormente mencionadas.
+
+*Demostración:*
 
 ![potionexus_posicionamiento](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/potionexus_posicionamiento.png)
 
-  - Una vez hecho esto, el jugador podrá: llevar la duración de todas las pociones del juego a nuevos límites, cruzando las barreras impuestas por el propio juego. Solo basta con añadir un **"Lingote de Jadeita"** a una poción anteriormente "mejorada en duración", obteniendo así nuevas pociones con un tiempo que duplica al de su versión pasada.
+- **Amplificación de la duración de una poción:**
+
+  - El Potionexus, permite llevar la duración de todas las pociones del juego a nuevos límites, cruzando las barreras impuestas por el propio juego. Solo basta con añadir un **"Lingote de Jadeita"** a una poción anteriormente "mejorada en duración", obteniendo así nuevas pociones con un tiempo que duplica al de su versión pasada.
 
 *Ejemplo:*
 
 ![image.png]
 
-  - De igual forma, se pueden: llevar a una mejorar nuevamente todas las pociones del juego que hayan sido anteriormente "potenciadas." Solo basta con añadirles un **"Lingote de Fluorita".**
+- **Potenciación de una poción:**
+
+  - De igual forma, se pueden mejorar nuevamente todas las pociones del juego que hayan sido anteriormente "potenciadas" por medio de "glowstone". Solo basta con añadirles un **"Lingote de Fluorita".**
 
 *Ejemplo:*
 
 ![image.png]
 
-  - Además de todo esto, las nuevas pociones pueden ser llevadas a su versión **"Splash",** el jugador solo debe añadir pólvora a una pocion anteriormente mejorada, ya sea por "Fluorita" o "Jadeita".
+- **Transición a una poción arrojadiza:**
+
+  - Además de todo esto, las nuevas pociones pueden ser llevadas a su versión **"Splash",** el jugador sólo debe añadir pólvora a una poción anteriormente mejorada por "Jadeita" o "Fluorita".
 
 *Ejemplo:*
 
