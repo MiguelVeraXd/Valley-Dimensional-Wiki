@@ -321,7 +321,7 @@ Drop Especial = __"Arco Roto"__ (el cual es un arco que tendrá los encantamient
 
 *Ejemplo:*
 
-![image.png]
+![potionexus_jadeita](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/potionexus_fluorita.gif)
 
 - **Transición a una poción arrojadiza:**
 
