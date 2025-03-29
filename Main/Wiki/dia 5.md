@@ -349,11 +349,11 @@ Drop Especial = __"Arco Roto"__ (el cual es un arco que tendrá los encantamient
 
 *La __"Soul Potion"__ es un nuevo objeto que permite la extración de las infusiones hechas en el "Potionexus", y su **receta** es la siguiente:*
 
-![gif]()
+![soul_potion](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/soul_potion.gif)
 
 *De igual forma, el jugador la puede obtener en su versión **"Splash"** para un consumo más óptimo de los efectos, solo basta con añadir __"Pólvora".__*
 
-![gif]()
+![splash_soul_potion](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/splash_soul_potion.gif)
 
 *__IMPORTANTE:__ Si el jugador desea extraer la infusión para consumirla como una poción arrojadiza, deberá de interactuar con el "Potionexus" con la "Splash Soul Potion" ya hecha, ya que la conversión de una "Soul Potion" con efectos previamente adquiridos a una "Splash Potion" no es posible dentro del Add-On.*
 
