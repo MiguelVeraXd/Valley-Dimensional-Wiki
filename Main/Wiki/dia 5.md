@@ -337,7 +337,7 @@ Drop Especial = __"Arco Roto"__ (el cual es un arco que tendrá los encantamient
 
 - **Combinación de pociones:**
 
-  - Aunado a todos estos beneficios, el "Potionnexus" tiene la capacidad de almacenar hasta 3 efectos de poción y combinarlos en una sola infusión. Para poder hacer esto, el jugador debe tener en mano la poción que desea añadir y interactuar con el bloque del "Potionexus".
+  - Aunado a todos estos beneficios, el "Potionnexus" tiene la capacidad de almacenar hasta 3 efectos de poción y combinarlos en una sola infusión. Para poder hacer esto, el jugador debe tener en mano la poción que desea añadir y interactuar con el bloque del "Potionexus".  De igual forma, si el jugador quiere retirar las pociones anteriormente depositadas, debe "interactuar" con el "Potionexus" mientras tiene en mano una "botella vacía".
 
 *Conforme se vayan añadiendo efectos, el chat mostrará mensajes progresivos a manera de recordatorio tal y como se muestra a continuación:*
 
@@ -346,6 +346,8 @@ Drop Especial = __"Arco Roto"__ (el cual es un arco que tendrá los encantamient
 - **Soul Potion:**
 
   - Ahora bien, para extraer la infusión anteriormente creada, el "Potionexus" debe estar en su máxima capacidad (3/3 efectos). Una vez lleno, el jugador podrá extraer la nueva pocima mediante el uso de una "Soul Potion", "interactuando" nuevamente con el bloque mientras se tiene este item en mano.
+
+*__IMPORTANTE:__ El "Potionexus" no puede mezclar dos pociones del mismo efecto.*
 
 *La __"Soul Potion"__ es un nuevo objeto que permite la extración de las infusiones hechas en el "Potionexus", y su **receta** es la siguiente:*
 
