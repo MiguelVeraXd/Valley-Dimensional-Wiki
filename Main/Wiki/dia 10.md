@@ -82,7 +82,7 @@
 
 ![altar_of_creation](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/altar_of_creation.png)
 
-*__IMPORTANTE:__ Para crear objetos como este, que requieran más de un solo item en un mismo slot, se debe interactuar con la parte superior de la mesa de crafteo (también aplica para futuros crafteos en el "Altar of Creation") y, una vez hecho esto, una nueva interfaz de creación aparecerá en pantalla, donde el jugador podrá llevar a cabo la creación de sus nuevos objetos.*
+*__IMPORTANTE:__ Para crear objetos como este, que requieran de item(s) en __"varias unidades" dentro de un mismo slot, se debe "interactuar" con la parte superior de la mesa de crafteo (también aplica para futuros crafteos en el "Altar of Creation") y, una vez hecho esto, una nueva interfaz de creación aparecerá en pantalla, donde el jugador podrá llevar a cabo este tipo de recetas.*
 
 *A partir de aquí todas las nuevas recetas deben de ser hechas en el "Altar of Creation."*
 
