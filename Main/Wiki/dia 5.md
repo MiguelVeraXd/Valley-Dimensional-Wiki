@@ -154,9 +154,11 @@
 
 ## Bosses
 
-*Se añaden nuevos bosses:*
+*Se añaden nuevos bosses. La I.A. brinda más información con respecto a estos:*
 
 * __Blizzard Lord:__
+
+![blizzars_lord]()
 
 * __Flame Sentinel:__
 
@@ -164,7 +166,11 @@
 
 * __Guardián de las Profundidades:__
 
+![guardian_de_las_profundidades]()
+
 * __Demonic Goat:__
+
+![demonic_goat]()
 
 * __Warden of Devastation:__
 
