@@ -73,9 +73,11 @@ Drop Especial = __"Moon Key"__
 
 - Asimismo, las "Gemstones" tienen diferentes **variantes** de acuerdo con el mineral con el que son creadas, todo dependerá del objeto que el jugador quiera mejorar. En este contexto, estas gemas se encuentran en su versión:
 
-- **Iron:** ![rough_iron](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/rough_iron.png) ![flawed_iron](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/flawed_iron.png) ![fine_iron](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/fine_iron.png) ![flawless_iron](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/flawless_iron.png) ![perfect_iron](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/perfect_iron.png)
+### Iron: ![rough_iron](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/rough_iron.png) ![flawed_iron](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/flawed_iron.png) ![fine_iron](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/fine_iron.png) ![flawless_iron](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/flawless_iron.png) ![perfect_iron](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/perfect_iron.png)
 
 *Para llegar a su fase "Perfect" el jugador debe empezar desde el primer nivel de la "Gemstone", creado a base de **"Bloques de Hierro"** y **"Fragmentos de Nebulosa"** (las recetas de las demás fases se irán desbloqueando en la "Mesa de Crafteo" conforme el jugador vaya progresando en su creación).*
+
+### Gold: ![rough_gold](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/rough_gold.png) ![flawed_gold](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/flawed_gold.png) ![fine_gold](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/fine_gold.png) ![flawless_gold](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/flawless_gold.png) ![perfect_gold](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/perfect_gold.png)
 
 ## [Encantamientos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/encantamientos.md)
 
