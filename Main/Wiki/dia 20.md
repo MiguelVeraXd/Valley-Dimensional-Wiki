@@ -35,3 +35,18 @@
   - **Variante Quebradiza:** Te desactivarán el escudo con cada golpe acertado, pero ahora con un "cooldown" de 25 segundos.
 
   - **Variante Vampiro:** Al golpearte, te robarán mucha más vida y, si tienes el efecto de "Absorption", te lo removerán por completo.
+
+Ahora los vexes spawnean por todo el mundo
+Ya no hay ningun mob pacifico
+Spawnean mobs sin importar la luz o si son slabs, spawnean en casi todos los lugares
+Los ahogados siempre tpean
+Las arañas tienen mas probabilidad de salir con spawner
+La infinidad dejo de funcionar
+Ahora los mobs sueltan mana con 50% de probabilidad
+Los totems normales no dan efectos positivos
+El baston de ender tiene cooldown
+Activar un totem consume mana
+Ya no se puede summonear el warden of devastation
+En el nether se summonean vexes infernales de manera natural
+El fuego y la lava hacen mas daño
+Hay un nuevo mineral por el mundo
