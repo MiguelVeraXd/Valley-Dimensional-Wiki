@@ -30,7 +30,7 @@ __*Para activar esta inferfaz el jugador debe de "interactuar" con la mesa mient
 
 * Ahora se pueden cocinar los bloques de minerales crudos.
 
-* Todas las herramientas y armaduras que no sean de netherite tienen la mitad de usos.
+* Todas las herramientas y armaduras que no sean de netherite tendrán la mitad de su usos al hora de ser crafteadas.
 
 * Los "Wandering Traders" mejoran sus tradeos.
 
