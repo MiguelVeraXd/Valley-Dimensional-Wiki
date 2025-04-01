@@ -12,6 +12,30 @@
 
 - Hay tormenta perpetua.
 
+- Ahora los vexes spawnean por todo el mundo.
+
+- En el Nether se summonean "Vexes Infernales" de forma natural.
+
+- Ya no existen los mobs pacíficos.
+
+- Ahora spawnean mobs sin importar la presencia de la luz o "Bloques Spawn-proof" (slabs, hojas, agua, lava, etc). En otras palabras, estos aparecerán en casi todos los lugares posibles.
+
+- Los ahogados siempre teletransportarán con cada golpe que acierten con su tridente.
+
+- Las arañas tienen una mayor probabilidad de salir con un spawner en su lomo.
+
+- El encantamiento "Infinity" dejó de funcionar.
+
+- Ahora los mobs sueltan "Maná" con un 50% de probabilidad.
+
+- Los Tótems de la Inmortalidad (vanilla) ya no dan efectos positivos.
+
+- Activar un Tótem de la Inmortalidad (vanilla) consumirá mana.
+
+- Ya no se puede summonear al "Warden of Devastation".
+
+- El fuego y la lava hacen mucho más daño por tick.
+
 - Entre mayor sea la cantidad de jugadores dentro de una misma zona, mayor será el spawneo de mobs.
 
 - Ahora los mobs pueden llevar hasta 7 variantes, y todos estas han sido upgradeadas:
@@ -35,18 +59,3 @@
   - **Variante Quebradiza:** Te desactivarán el escudo con cada golpe acertado, pero ahora con un "cooldown" de 25 segundos.
 
   - **Variante Vampiro:** Al golpearte, te robarán mucha más vida y, si tienes el efecto de "Absorption", te lo removerán por completo.
-
-Ahora los vexes spawnean por todo el mundo
-Ya no hay ningun mob pacifico
-Spawnean mobs sin importar la luz o si son slabs, spawnean en casi todos los lugares
-Los ahogados siempre tpean
-Las arañas tienen mas probabilidad de salir con spawner
-La infinidad dejo de funcionar
-Ahora los mobs sueltan mana con 50% de probabilidad
-Los totems normales no dan efectos positivos
-El baston de ender tiene cooldown
-Activar un totem consume mana
-Ya no se puede summonear el warden of devastation
-En el nether se summonean vexes infernales de manera natural
-El fuego y la lava hacen mas daño
-Hay un nuevo mineral por el mundo
