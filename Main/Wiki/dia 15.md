@@ -12,7 +12,9 @@
 
 ## Cambios de Dificultad
 
-- Todos los mobs del juego pueden tener de 1 a 5 variantes.
+- Todos los mobs del juego pueden tener de 1 a 5 variantes, y se ha añadido una nueva:
+
+  - **Variente de Maná:** Al golpearte, te quitarán 1 punto de "Maná".
 
 - Ahora se presentan nuevas amenazas en la Luna, entre estas está:
 
