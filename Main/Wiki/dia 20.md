@@ -59,3 +59,9 @@
   - **Variante Quebradiza:** Te desactivarán el escudo con cada golpe acertado, pero ahora con un "cooldown" de 25 segundos.
 
   - **Variante Vampiro:** Al golpearte, te robarán mucha más vida y, si tienes el efecto de "Absorption", te lo removerán por completo.
+
+## Generación del Mundo:
+
+- Un nuevo "Mineral Radiactivo" se esparce por todo el mundo.
+
+
