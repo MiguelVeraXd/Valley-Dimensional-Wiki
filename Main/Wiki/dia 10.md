@@ -16,8 +16,6 @@
 
 - Se pueden descraftear faros con la nueva mesa.
 
-- Ahora los zombies pueden romper cualquier tipo de bloque luminoso.
-
 ## Cambios de Dificultad
 
 - Al llover se generan bloques de agua de manera aleatoria.
@@ -75,6 +73,8 @@
 - Los creepers, al explotar, desactivan el escudo durante 9 segundos.
 
 - El warden ya no recibe daño por snow golems.
+
+- Ahora los zombies pueden romper cualquier tipo de bloque luminoso.
 
 ## Items Nuevos
 
