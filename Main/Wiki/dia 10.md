@@ -24,23 +24,23 @@
 
   - __Variante Infernal:__ Sus golpes tendrán un 20% de probabilidad de generar lava en tus pies.
 
-  - __Variante Invisible:__ Al golpearte se volverá invisible.
+  - __Variante Invisible:__ Al golpearte, se volverán invisibles durante unos segundos.
 
   - __Variante de Cuevas:__ Sus golpes te aturdirán y romperán la armadura con una mayor rapidez.
 
   - __Variante Desértica:__ Al estar cerca del mob (dentro de un radio de 5 bloques) recibirás náuseas.
 
-  - __Variante Salvaje:__ El mob tendrá Strenght I y Speed I y además se moverá más rápido por el agua.
+  - __Variante Salvaje:__ El mob tendrá "Strenght I" y "Speed I" y además se moverá más rápido por el agua.
 
   - __Variante del Caos:__ Sus golpes te darán un efecto negativo aleatorio por 15 segundos y este puede variar entre los niveles 1, 2 y 3.
 
-  - __Variante de Noche:__ Te podrá ver a través de las paredes y a una mayor distancia.
+  - __Variante de Noche:__ Te podrán ver a través de las paredes y a una mayor distancia.
 
-  - __Variante de Brujo:__ Al golpearte te quitará Mana.
+  - __Variante de Brujo:__ Al golpearte, te quitarán 1 punto de "Maná".
 
-  - __Variante de Quebradiza:__ Te desactivará el escudo con cada golpe acertado.
+  - __Variante de Quebradiza:__ Te desactivarán el escudo con cada golpe acertado.
 
-  - __Variante de Vampiro:__ Te robará vida al pegarte.
+  - __Variante de Vampiro:__ Te robarán vida al pegarte.
 
 - Ahora todos los efectos negativos se mejoran, haciéndolos así más peligrosos:
 
