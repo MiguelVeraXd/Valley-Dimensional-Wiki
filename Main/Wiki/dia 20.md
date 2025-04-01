@@ -64,4 +64,26 @@
 
 - Un nuevo "Mineral Radiactivo" se esparce por todo el mundo.
 
+## Items Nuevos
 
+- Nuevo **"Lingote Radioactivo":**
+
+![lingote_radioactivo]()
+
+- Nuevo **"Lingote Nexus":**
+
+![lingote_nexus]()
+
+## Amuletos
+
+* __Recordatorio:__ La mecánica de los "Amuletos" en los slots 9, 18, 27, e incluso 8 (si consumió la mejora del día anterior) sigue estando presente.
+
+![inventario2]()
+
+- El **"Corazón Radiante"** es nuevo amuleto que le brinda al jugador la posibilidad de tener el doble de corazones de "Absorption" *(hasta 16 contenedores dorados).*
+
+![corazon_radiante]()
+
+- El **"Talismán de Lava de Nebulosa"** es una nueva mejora para el "Talismán de Lava", brindando "Fire Resistance I" de forma infinita.
+
+![talisman_de_lava_de_nebulosa]()
