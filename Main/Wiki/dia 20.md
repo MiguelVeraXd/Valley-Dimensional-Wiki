@@ -2,3 +2,7 @@
 
 ## Cambios de Dificultad
 
+- Spawnean mobs del Overwolrd en el Nether y viceversa.
+- El agua se ha vuelto radiactiva por el meteoro, al estar en contacto con esta, recibirás "Fatal Poison V" por 4 segundos.
+- Hay tormenta perpetua
+- Entre mayor cantidad de players haya cercas mayor sera el spawneo de mobs
