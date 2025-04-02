@@ -78,7 +78,9 @@
 
 *Una nueva armadura ha sido descubierta en el mundo! Forjada con distintos los minerales que los jugadores han descubierto en este mundo, y un poder inmenso que supera a toda protección antes vista, la Technology Armor se abre paso para ayudar a los últimos supervivientes en su camino hacia el final de su aventura...*
 
-- ***Este set es completamente irrompible y brinda un nivel de protección mayor al de las demás armaduras.***
+- ***Este set es completamente irrompible y brinda un nivel de protección mayor al de las demás armaduras. Además, al tener el conjunto completo, recibirás el efecto de "Fire Resistance I" de forma infinita y una inmunidad al "efecto del phantom" 
+
+***La I.A. intenta adaptar la armadura tecnológica de acuerdo al uso que le den los jugadores a la misma, en este caso, las habilidades especiales anteriormente mencionadas fueron desbloqueadas por el jugador "Iam4ndrew").***
 
 - **Tecnologic Helmet:** El casco consta de 5 variantes, una para cada clase. *(es importante resaltar que, en caso de que jugador quiera utilizar una pieza correspondiente a una clase diferente de la suya, los beneficios especiales que esta pieza trae consigo no le afectarán)*
 
