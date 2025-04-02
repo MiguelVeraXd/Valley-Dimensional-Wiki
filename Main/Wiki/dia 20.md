@@ -78,7 +78,7 @@
 
 *Una nueva armadura ha sido descubierta en el mundo! Forjada con distintos los minerales que los jugadores han descubierto en este mundo, y un poder inmenso que supera a toda protección antes vista, la Technology Armor se abre paso para ayudar a los últimos supervivientes en su camino hacia el final de su aventura...*
 
-- ***Este set es completamente irrompible y brinda un nivel de protección mayor al de las demás armaduras. Además, al tener el conjunto completo, recibirás el efecto de "Fire Resistance I" de forma infinita y una inmunidad al "efecto del phantom" 
+- Este set es completamente **irrompible** y brinda un **nivel de protección mayor al de las demás armaduras.** Además, **al tener el conjunto completo,** recibirás el efecto de **"Fire Resistance I" de forma infinita** y **inmunidad al "efecto negativo de los phantoms".**
 
 ***La I.A. intenta adaptar la armadura tecnológica de acuerdo al uso que le den los jugadores a la misma, en este caso, las habilidades especiales anteriormente mencionadas fueron desbloqueadas por el jugador "Iam4ndrew").***
 
