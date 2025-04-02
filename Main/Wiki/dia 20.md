@@ -86,23 +86,23 @@
 
   - **Casco de Duelista** | ***Habilidad Especial:*** Al golpear un bloque mientras se tiene el item en mano, se le permitirá al jugador alternar entre las siguientes opciones: **[tener el doble de daño / tener el doble de daño recibido]** o **[tener el doble de protección / tener doble debilidad].** Su crafteo es el siguiente:
 
-![casco_duelista]()
+![casco_duelista](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/casco_duelista.png)
 
   - **Casco de Minero** | ***Habilidad Especial:*** Al portarlo **[los Tótems de la Inmortalidad que consumas te regenerarán toda tu vida].** Su crafteo es el siguiente:
 
-![casco_minero]()
+![casco_minero](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/casco_minero.png)
 
   - **Casco de Explorador** | ***Habilidad Especial:*** Al portarlo **[te libera de la maldición de "slots bloqueados" (slots de amuletos)]** y **[te agrega 2 "slots" más de amuletos (siendo estos los "slots" 17 y 26)].** Su crafteo es el siguiente:
 
-![casco_explorador]()
+![casco_explorador](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/casco_explorador.png)
  
   - **Casco de Furtivo** | ***Habilidad Especial:*** Al llevarlo en el inventario e ir sin piezas de armor: **[te dará sus debidos efectos de clase] y [te dará el efecto de "Resistance IV" de forma infinita].** Su crafteo es el siguiente:
 
-![casco_furtivo]()
+![casco_furtivo](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/casco_furtivo.png)
  
   - **Casco de Hechicero** | ***Habilidad Especial:*** Al portarlo **[el "Maná" se te regenerará el doble de rápido].** Su crafteo es el siguiente:
 
-![casco_hechicero]()
+![casco_hechicero](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/casco_hechicero.png)
 
 - **Tecnologic Chestplate:** La pechera tiene las siguientes habilidades configurables (solo basta con golpear un bloque mientras se tiene el item en mano para desplegar la inferfaz): 
 
@@ -114,7 +114,7 @@
 
 - Crafteo:
 
-![tecnologic_chestplate]()
+![tecnologic_chestplate](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/tecnologic_chestplate.png)
 
 - **Tecnologic Leggins:** Los pantalones tienen las siguientes habilidades configurables:
 
@@ -124,7 +124,7 @@
 
 - Crafteo:
 
-![tecnologic_leggins]()
+![tecnologic_leggins](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/tecnologic_leggins.png)
 
   - **Tercera Habilidad:** Recibirás el efecto de "Resistance IV" de foma infinita, pero a su vez, contraerás el efecto de "Slowness V" por igual.
 
@@ -138,7 +138,7 @@
 
 - Crafteo:
 
-![tecnologic_boots]()
+![tecnologic_boots](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/tecnologic_boots.png)
 
 ## Amuletos
 
