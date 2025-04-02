@@ -134,13 +134,13 @@
   
   - **Segunda Habilidad:** Te permite configurar la velocidad que quieras tener en valores del 1 al 7 *(una vez seleccionada, el jugador deberá de golpear un bloque mientras se encuentra agachado para poder acceder a la interfaz de configuración de esta habilidad).*
 
+  - **Tercera Habilidad:** Recibirás el efecto de "Resistance IV" de foma infinita, pero a su vez, contraerás el efecto de "Slowness V" por igual.
+
 - Crafteo:
 
 ![tecnologic_leggins](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/tecnologic_leggins.png)
 
 *Este objeto solo puede ser creado desde la parte superior del **"Altar of Creation".***
-
-  - **Tercera Habilidad:** Recibirás el efecto de "Resistance IV" de foma infinita, pero a su vez, contraerás el efecto de "Slowness V" por igual.
 
 - **Tecnologic Boots:** Las botas tienen las siguiente habilidades configurables:
 
