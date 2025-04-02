@@ -56,6 +56,8 @@ Drop Especial = __"Moon Key"__
 
 ![gemstone_table](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/gemstone_table.png)
 
+*Este objeto solo puede ser creado desde la parte superior del **"Altar of Creation".***
+
 ## Generación del Mundo:
 
 * Se añaden nuevos minerales los cuales solo se encuentran en "La Luna":
