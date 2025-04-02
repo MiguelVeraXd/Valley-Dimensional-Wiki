@@ -74,6 +74,70 @@
 
 ![lingote_nexus](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/lingote_nexus.png)
 
+### Technology Armor
+
+*Una nueva armadura ha sido descubierta en el mundo! Forjada con distintos los minerales que los jugadores han descubierto en este mundo, y un poder inmenso que supera a toda protección antes vista, la Technology Armor se abre paso para ayudar a los últimos supervivientes en su camino hacia el final de su aventura...*
+
+- ***Este set es completamente irrompible y brinda un nivel de protección mayor al de las demás armaduras.***
+
+- **Tecnologic Helmet:** El casco consta de 5 variantes, una para cada clase. *(es importante resaltar que, en caso de que jugador quiera utilizar una pieza correspondiente a una clase diferente de la suya, los beneficios especiales que esta pieza trae consigo no le afectarán)*
+
+  - **Casco de Duelista** | ***Habilidad Especial:*** Al golpear un bloque mientras se tiene el item en mano, se le permitirá al jugador alternar entre las siguientes opciones: **[tener el doble de daño / tener el doble de daño recibido]** o **[tener el doble de protección / tener doble debilidad].** Su crafteo es el siguiente:
+
+![casco_duelista]()
+
+  - **Casco de Minero** | ***Habilidad Especial:*** Al portarlo **[los Tótems de la Inmortalidad que consumas te regenerarán toda tu vida].** Su crafteo es el siguiente:
+
+![casco_minero]()
+
+  - **Casco de Explorador** | ***Habilidad Especial:*** Al portarlo **[te libera de la maldición de "slots bloqueados" (slots de amuletos)]** y **[te agrega 2 "slots" más de amuletos (siendo estos los "slots" 17 y 26)].** Su crafteo es el siguiente:
+
+![casco_explorador]()
+ 
+  - **Casco de Furtivo** | ***Habilidad Especial:*** Al llevarlo en el inventario e ir sin piezas de armor: **[te dará sus debidos efectos de clase] y [te dará el efecto de "Resistance IV" de forma infinita].** Su crafteo es el siguiente:
+
+![casco_furtivo]()
+ 
+  - **Casco de Hechicero** | ***Habilidad Especial:*** Al portarlo **[el "Maná" se te regenerará el doble de rápido].** Su crafteo es el siguiente:
+
+![casco_hechicero]()
+
+- **Tecnologic Chestplate:** La pechera tiene las siguientes habilidades configurables (solo basta con golpear un bloque mientras se tiene el item en mano para desplegar la inferfaz): 
+
+  - **Primera Habilidad:** Te hace inmune al daño por vacío.
+
+  - **Segunda Habilidad:** Acumula el daño que recibas y, al décimo hit, hará una explosión de nivel X *(sin que el jugador reciba daño por esta).*
+
+  - **Tercera Habilidad:** Te permite mezclar los efectos de Growing Vitality y Lasting Eclipsa hasta nivel 5 *(Adquirir los beneficios de ambos encantamientos simultaneamente).*
+
+- Crafteo:
+
+![tecnologic_chestplate]()
+
+- **Tecnologic Leggins:** Los pantalones tienen las siguientes habilidades configurables:
+
+  - **Primera Habilidad:** Tendrás 4 "Vexes Subditos" que son inmortales y atacarán a los enemigos que encuentren a su paso *(desaparecerán al cambiar de habilidad)*
+  
+  - **Segunda Habilidad:** Te permite configurar la velocidad que quieras tener en valores del 1 al 7 *(una vez seleccionada, el jugador deberá de golpear un bloque mientras se encuentra agachado para poder acceder a la interfaz de configuración de esta habilidad).*
+
+- Crafteo:
+
+![tecnologic_leggins]()
+
+  - **Tercera Habilidad:** Recibirás el efecto de "Resistance IV" de foma infinita, pero a su vez, contraerás el efecto de "Slowness V" por igual.
+
+- **Tecnologic Boots:** Las botas tienen las siguiente habilidades configurables:
+
+  - **Primera Habilidad:** Misma que la de las botas demoníacas *(al shiftear y saltar con una comida en mano, te regenerará vida).*
+
+  - **Segunda Habilidad:** Al shiftear y saltar con una comida en mano, te brindará los efectos de una Notch *(tiene un cooldown de 15 minutos).*
+
+  - **Tercera Habilidad:** Te hace inmune al daño por caída.>
+
+- Crafteo:
+
+![tecnologic_boots]()
+
 ## Amuletos
 
 * __Recordatorio:__ La mecánica de los "Amuletos" en los slots 9, 18, 27, e incluso 8 (si consumió la mejora del día anterior) sigue estando presente.
