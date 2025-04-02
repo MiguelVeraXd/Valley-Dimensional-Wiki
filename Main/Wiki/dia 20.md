@@ -88,21 +88,31 @@
 
 ![casco_duelista](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/casco_duelista.png)
 
+*Este objeto solo puede ser creado desde la parte superior del **"Altar of Creation".***
+
   - **Casco de Minero** | ***Habilidad Especial:*** Al portarlo **[los Tótems de la Inmortalidad que consumas te regenerarán toda tu vida].** Su crafteo es el siguiente:
 
 ![casco_minero](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/casco_minero.png)
 
+*Este objeto solo puede ser creado desde la parte superior del **"Altar of Creation".***
+
   - **Casco de Explorador** | ***Habilidad Especial:*** Al portarlo **[te libera de la maldición de "slots bloqueados" (slots de amuletos)]** y **[te agrega 2 "slots" más de amuletos (siendo estos los "slots" 17 y 26)].** Su crafteo es el siguiente:
 
 ![casco_explorador](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/casco_explorador.png)
+
+*Este objeto solo puede ser creado desde la parte superior del **"Altar of Creation".***
  
   - **Casco de Furtivo** | ***Habilidad Especial:*** Al llevarlo en el inventario e ir sin piezas de armor: **[te dará sus debidos efectos de clase] y [te dará el efecto de "Resistance IV" de forma infinita].** Su crafteo es el siguiente:
 
 ![casco_furtivo](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/casco_furtivo.png)
+
+*Este objeto solo puede ser creado desde la parte superior del **"Altar of Creation".***
  
   - **Casco de Hechicero** | ***Habilidad Especial:*** Al portarlo **[el "Maná" se te regenerará el doble de rápido].** Su crafteo es el siguiente:
 
 ![casco_hechicero](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/casco_hechicero.png)
+
+*Este objeto solo puede ser creado desde la parte superior del **"Altar of Creation".***
 
 - **Tecnologic Chestplate:** La pechera tiene las siguientes habilidades configurables (solo basta con golpear un bloque mientras se tiene el item en mano para desplegar la inferfaz): 
 
@@ -116,6 +126,8 @@
 
 ![tecnologic_chestplate](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/tecnologic_chestplate.png)
 
+*Este objeto solo puede ser creado desde la parte superior del **"Altar of Creation".***
+
 - **Tecnologic Leggins:** Los pantalones tienen las siguientes habilidades configurables:
 
   - **Primera Habilidad:** Tendrás 4 "Vexes Subditos" que son inmortales y atacarán a los enemigos que encuentren a su paso *(desaparecerán al cambiar de habilidad)*
@@ -125,6 +137,8 @@
 - Crafteo:
 
 ![tecnologic_leggins](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/tecnologic_leggins.png)
+
+*Este objeto solo puede ser creado desde la parte superior del **"Altar of Creation".***
 
   - **Tercera Habilidad:** Recibirás el efecto de "Resistance IV" de foma infinita, pero a su vez, contraerás el efecto de "Slowness V" por igual.
 
@@ -139,6 +153,8 @@
 - Crafteo:
 
 ![tecnologic_boots](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/tecnologic_boots.png)
+
+*Este objeto solo puede ser creado desde la parte superior del **"Altar of Creation".***
 
 ## Amuletos
 
