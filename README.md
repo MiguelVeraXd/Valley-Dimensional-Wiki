@@ -1,16 +1,14 @@
 # El Add-On: Valley Dimensional
 
-**Valley Dimensional** es un add-on extenso para Minecraft Bedrock Edition que agrega una gran cantidad de contenido nuevo y mecánicas únicas al juego. Este add-on ofrece una experiencia enriquecida con varios cambios en la jugabilidad, nuevos biomas, estructuras, enemigos, y objetos que expanden las posibilidades del juego base.
+**Valley Dimensional** es un Add-On extenso para Minecraft Bedrock Edition que agrega una gran cantidad de contenido nuevo y mecánicas únicas al juego. Este ofrece una experiencia enriquecida con varios cambios en la jugabilidad, nuevas dimensiones, estructuras, enemigos, un nuevo modo de dificultad avanzada, un sistema de clases, más de 50 nuevos objetos y muchas otras mejoras y ajustes que expanden las posibilidades del juego base.
 
-Valley Dimensional también introduce modos de dificultad avanzados, sistema de clase, más de 50 nuevos objetos para craftear, y muchas otras mejoras y ajustes al juego base.
+**Nota:** Mucha de la información con respecto a **Valley Dimensional** se realiza a través del servidor de Discord del Add-On. Si tienes problemas con el Add-On, preguntar a través de Discord es la mejor manera de resolver estos inconvenientes.
 
-**Nota:** Mucha de la comunicación respecto a **Valley Dimensional** se realiza a través del servidor de Discord del add-on. Si tienes preguntas o problemas con respecto a la edición de esta wiki, preguntar a través de Discord es la mejor manera de resolver tus dudas rápidamente.
-
-Si estás interesado en ayudar a mejorar la wiki, puedes contactarme directamente para discutir cambios y actualizaciones.
+Aunado a esto, si estás interesado en ayudar a mejorar la Wiki, puedes contactar a "Iam4ndrew" para discutir cambios y actualizaciones.
 
 ## Últimas versiones compatibles
 
-- **Minecraft Bedrock Edition**: 1.21.22
+- **Minecraft Bedrock Edition**: 1.21.71
 
 ---
 
