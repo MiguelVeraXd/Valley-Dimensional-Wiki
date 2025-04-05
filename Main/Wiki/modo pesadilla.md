@@ -2,9 +2,9 @@
 
 *¿Listo para enfrentarte a tus peores miedos?*
 
-El **Modo Pesadilla** es una opción de dificultad avanzada introducida en el **Valley Dimensional**. Este modo está diseñado para jugadores que buscan un desafío mayor, superando al Modo Normal y ofreciendo una experiencia intensa. Se activa usando el comando `/function difficulty_pesadilla_dimensional`, y una vez activado, se prepara a los jugadores para un viaje lleno de peligros y adversidades.
+El **Modo Pesadilla** es una opción de dificultad avanzada introducida en **Valley Dimensional**. Este modo está diseñado para jugadores que buscan un desafío mayor, superando al "Modo Normal" y ofreciendo una experiencia aún más intensa. Se activa usando el comando `/function difficulty_pesadilla_dimensional` y, una vez activado, se prepara a los jugadores para un viaje lleno de peligros y adversidades.
 
-Solo los jugadores más experimentados y valientes se atreverán a enfrentar el Modo Pesadilla.
+*Solo los jugadores más experimentados y valientes se atreverán a enfrentar el Modo Pesadilla Dimensional.*
 
 ### Cambios generales
 
