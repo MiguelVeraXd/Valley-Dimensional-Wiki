@@ -4,7 +4,7 @@
 
 **Nota:** Mucha de la información con respecto a **Valley Dimensional** se realiza a través del servidor de Discord del Add-On. Si tienes problemas con el Add-On, preguntar a través de Discord es la mejor manera de resolver estos inconvenientes.
 
-Aunado a esto, si estás interesado en ayudar a mejorar la Wiki, puedes contactar a "Iam4ndrew" para discutir cambios y actualizaciones.
+Aunado a esto, si estás interesado en ayudar a mejorar la Wiki, puedes contactar a ***"Iam4ndrew"*** para discutir cambios y actualizaciones.
 
 ## Últimas versiones compatibles
 
