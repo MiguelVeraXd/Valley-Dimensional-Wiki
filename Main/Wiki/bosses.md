@@ -46,6 +46,27 @@
 
 ## [Dia 5](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%2010.md)
 
+*Se añaden nuevos bosses. La I.A. brinda más información con respecto a estos:*
 
+* __Blizzard Lord:__
+
+![blizzard_lord](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/bosses/blizzard_lord.png)
+
+* __Flame Sentinel:__
+
+![flame_sentinel](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/bosses/flame_sentinel-resize.gif)
+
+* __Guardián de las Profundidades:__
+
+![guardian_de_las_profundidades](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/bosses/guardian_de_las_profundidades.png)
+
+* __Demonic Goat:__
+
+![demonic_goat](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/bosses/demonic_goat-ezgif.com-resize.gif)
+
+* __Warden of Devastation:__
+
+![warden_of_devastation](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/bosses/warden_of_devastation-crop2.gif)
 
 ## [Dia 10](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%2010.md)
+
