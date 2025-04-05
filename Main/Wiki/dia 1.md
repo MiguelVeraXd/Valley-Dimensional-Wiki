@@ -8,6 +8,8 @@
 
   - __Explorador:__ Se te otorgará una __"Shulker Box"__ y una __"Zanahoria de Oro Infinita"__ y, siempre y cuando sea de día en el Overworld, adquirirás el efecto de __"Speed II".__
 
+- Al entrar por primera vez al mundo, el jugador recibirá un __"Scroll",__ un objeto que les permitirá acceder a algunas "opciones extra" dentro del Add-On (en caso de perder este item, siempre se podrá obtener de vuelta mediante el comando: !scroll)
+
 * Se cambia el método de obtención de los "Tótems de la Inmortalidad". Su crafteo es el siguiente:
 
 ![totem_de_la_inmortalidad](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/totem_de_la_inmortalidad.png)
