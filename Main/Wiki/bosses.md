@@ -1,4 +1,4 @@
-## [Dia 1](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%200.md) 
+## [Dia 1](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%201.md) 
 
 * El "Wither Boss" aumenta su dificultad, sus cambios son:
 
