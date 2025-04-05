@@ -156,7 +156,7 @@
 
 *Este objeto solo puede ser creado desde la parte superior del **"Altar of Creation".***
 
-## Amuletos
+## [Amuletos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/amuletos.md)
 
 * __Recordatorio:__ La mecánica de los "Amuletos" en los slots 9, 18, 27, e incluso 8 (si consumió la mejora del día anterior) sigue estando presente.
 
