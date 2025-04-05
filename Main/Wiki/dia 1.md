@@ -135,7 +135,7 @@ __*Para activar esta inferfaz el jugador debe de "interactuar" con la mesa mient
 
   - __*Las "Wither Skull Dangerous" tienen un "Explosion Power" de nivel "4" en su primera fase y nivel "5" en su segunda.*__
 
-![wither_boss]()
+![wither_boss](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/bosses/wither_boss.png)
 
 * Se añade un nuevo boss, el __"Coloso Salvaje"__: este nuevo jefe a llegado a los pantanos de este mundo para aterrorizar a los jugadores que se atrevan a desafiarlo, sin embargo, su carta de presentación no parece ser la misma que la de los demás bosses, al parecer, este requiere de la presencia del jugador ya que su aparición va de la mano de un "ritual de invocación". Dicho esto, sus atributos son:
 
