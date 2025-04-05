@@ -2,4 +2,4 @@
 
 *Mucha suerte jugadores, la necesitarán...*
 
-![boss_final](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/bosses/m_warden.gif)
+![boss_final](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/bosses/boss_final-ezgif.com-crop.gif)
