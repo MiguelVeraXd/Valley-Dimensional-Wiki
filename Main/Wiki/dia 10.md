@@ -112,6 +112,13 @@
 
 ![herramientas_de_stelarita](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/herramientas_de_stelarita.gif)
 
+- Los beneficios de estas se dividen en **"Tiers":**
+
+  - ***Tier I:*** 4062 puntos de durabilidad, poder de ruptura 7 y la capacidad de adquirir 0.25 puntos de salud por cada bloque picado.
+  - ***Tier II:*** 8062 puntos de durabilidad, poder de ruptura 7 y la capacidad de adquirir 0.50 puntos de salud + "Haste I" durante 6 segundos por cada bloque picado.
+  - ***Tier III:*** La herramienta se vuelve "irrompible" a este punto, poder de ruptura 7 y la capacidad de adquirir 0.75 puntos de salud + "Haste II" durante 12 segundos por cada bloque picado.
+  - ***Tier IV:*** Irrompible, poder de ruptura 8 y la capacidad de adquirir 1 punto de salud + "Haste III" durante 18 segundos por cada bloque picado.
+
 ## [Encantamientos](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/encantamientos.md) 
 
 - El wandering trader de la jungla trajo nuevos encantamientos al mundo:
