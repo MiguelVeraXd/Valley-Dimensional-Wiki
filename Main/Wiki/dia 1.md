@@ -135,6 +135,8 @@ __*Para activar esta inferfaz el jugador debe de "interactuar" con la mesa mient
 
   - __*Las "Wither Skull Dangerous" tienen un "Explosion Power" de nivel "4" en su primera fase y nivel "5" en su segunda.*__
 
+![wither_boss]()
+
 * Se añade un nuevo boss, el __"Coloso Salvaje"__: este nuevo jefe a llegado a los pantanos de este mundo para aterrorizar a los jugadores que se atrevan a desafiarlo, sin embargo, su carta de presentación no parece ser la misma que la de los demás bosses, al parecer, este requiere de la presencia del jugador ya que su aparición va de la mano de un "ritual de invocación". Dicho esto, sus atributos son:
 
   - __1400 puntos de vida.__
@@ -144,6 +146,8 @@ __*Para activar esta inferfaz el jugador debe de "interactuar" con la mesa mient
   - __Embiste con gran fuerza y velocidad.__
 
   - __Crea temblores que mandan al jugador por los aires y agitan su visión.__
+
+![coloso_salvaje]()
 
 ## Generación del Mundo:
 
