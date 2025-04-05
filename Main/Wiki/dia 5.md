@@ -158,7 +158,7 @@
 
 * __Blizzard Lord:__
 
-![blizzard_lord]()
+![blizzard_lord](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/bosses/blizzard_lord.png)
 
 * __Flame Sentinel:__
 
