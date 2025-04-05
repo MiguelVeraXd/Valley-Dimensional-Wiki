@@ -39,3 +39,19 @@
 ## [Dia 10](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%2010.md)
 
 * El __"Talismán de Lava"__ es un nuevo amuleto que se puede obtener mediante la "pesca en lava". Al equiparlo, te proporciona el efecto de Fire Resistance I por 7 segundos, siempre y cuando no estés en contacto con la lava.
+
+## [Dia 20](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%2020.md)
+
+* __Recordatorio:__ La mecánica de los "Amuletos" en los slots 9, 18, 27, e incluso 8 (si consumió la mejora del día anterior) sigue estando presente.
+
+![inventario2](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/inventario2.png)
+
+- El **"Corazón Radiante"** es nuevo amuleto que le brinda al jugador la posibilidad de tener el doble de corazones de "Absorption" *(hasta 16 contenedores dorados).*
+
+![corazon_radiante](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/corazon_radiante.png)
+
+- El **"Talismán de Lava de Nebulosa"** es una nueva mejora para el "Talismán de Lava", brindando "Fire Resistance I" de forma infinita.
+
+![talisman_de_lava_de_nebulosa](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/talisman_de_lava_de_nebulosa.png)
+
+*Este objeto solo puede ser creado desde la parte superior del **"Altar of Creation".***
