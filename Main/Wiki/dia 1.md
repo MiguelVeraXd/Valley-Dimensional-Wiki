@@ -147,7 +147,7 @@ __*Para activar esta inferfaz el jugador debe de "interactuar" con la mesa mient
 
   - __Crea temblores que mandan al jugador por los aires y agitan su visión.__
 
-![coloso_salvaje]()
+![coloso_salvaje](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/bosses/coloso_salvaje.png)
 
 ## Generación del Mundo:
 
