@@ -1,4 +1,4 @@
-### Modo Pesadilla
+## Modo Pesadilla
 
 *¿Listo para enfrentarte a tus peores miedos?*
 
@@ -13,7 +13,7 @@ El **Modo Pesadilla** es una opción de dificultad avanzada introducida en **Val
 - La vida de todos los jefes aumenta un **50%** por cada jugador adicional que se una a la pelea.
 - Todos los enemigos normales tienen un **25%** más de vida.
 
-## [Dia 5](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%205.md)
+### Cambios Especiales | [Dia 5](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%205.md)
 
 - **Explosión en Cadena:** Cuando un ***RegenCreeper*** explota, generará una explosión en cadena con los demás creepers que se encuentren en un radio de 15 bloques, haciendo que estos también exploten.
 
