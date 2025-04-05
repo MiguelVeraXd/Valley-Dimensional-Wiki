@@ -166,7 +166,7 @@
 
 * __Guardián de las Profundidades:__
 
-![guardian_de_las_profundidades]()
+![guardian_de_las_profundidades](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/bosses/guardian_de_las_profundidades.png)
 
 * __Demonic Goat:__
 
