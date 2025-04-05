@@ -1,4 +1,4 @@
-# El Add-on: Valley Dimensional
+# El Add-On: Valley Dimensional
 
 **Valley Dimensional** es un add-on extenso para Minecraft Bedrock Edition que agrega una gran cantidad de contenido nuevo y mecánicas únicas al juego. Este add-on ofrece una experiencia enriquecida con varios cambios en la jugabilidad, nuevos biomas, estructuras, enemigos, y objetos que expanden las posibilidades del juego base.
 
