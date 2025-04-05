@@ -6,7 +6,7 @@ El **Modo Pesadilla** es una opción de dificultad avanzada introducida en **Val
 
 *Solo los jugadores más experimentados y valientes se atreverán a enfrentar el Modo Pesadilla Dimensional.*
 
-### Cambios generales
+### Cambios Generales
 
 - Las tasas de aparición de enemigos aumentan un **17,65%**.
 - Los jefes soltarán objetos exclusivos del **Modo Pesadilla Dimensional**.
