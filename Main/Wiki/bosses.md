@@ -68,7 +68,7 @@
 
 ![warden_of_devastation](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/bosses/warden_of_devastation-crop2.gif)
 
-## [Dia 10](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%2010.md)
+## [Dia 25](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%2025.md)
 
 * __Warden of the End:__
 
