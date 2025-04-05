@@ -170,7 +170,7 @@
 
 * __Demonic Goat:__
 
-![demonic_goat]()
+![demonic_goat](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/bosses/demonic_goat-ezgif.com-crop.gif)
 
 * __Warden of Devastation:__
 
