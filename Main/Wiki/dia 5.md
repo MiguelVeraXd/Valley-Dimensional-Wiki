@@ -295,7 +295,7 @@ Drop Especial = __"Arco Roto"__ (el cual es un arco que tendrá los encantamient
 
 ![invocador_del_guardian_de_las_profundidades](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/invocador_del_guardian_de_las_profundidades.png)
 
-## Potionexus
+## Potionexus(https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/potionexus.md)
 
 - El **"Potionexus"** es un nuevo "Brewing Stand" que sirve para combinar, potenciar y amplificar la duración de las pociones del juego. Aunque estas funciones no se llevan a cabo dentro de este como tal, permite que el "Brewing Stand" tradicional las pueda ejecutar.
 
