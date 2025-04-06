@@ -102,9 +102,13 @@
 
 ![mochila_mediana](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/mochila_mediana.png)
 
-- __"Caña de Pescar de Lava"__: Su uso es exclusivo del Nether. Su uso es simple: debes "interactuar" con esta mientras apuntas hacia alguna superficie cubierta de lava, cuando el señuelo haya pescado algo, particulas saldrán expulsadas de este, y es en ese preciso momento en el que debes "interactuar" nuevamente con la caña para adquirir tus recompensas.
+- __"Caña de Pescar de Lava":__ Su uso es exclusivo del Nether. Su uso es simple: debes "interactuar" con esta mientras apuntas hacia alguna superficie cubierta de lava, cuando el señuelo haya pescado algo, particulas saldrán expulsadas de este, y es en ese preciso momento en el que debes "interactuar" nuevamente con la caña para adquirir tus recompensas.
 
 ![caña_de_pescar_de_lava](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/ca%C3%B1a_de_pescar_de_lava.png)
+
+- __"Grand XP Bottle":__ Versión mejorada de las "Botellas de Experiencia", brindando así aún más puntos de XP con cada uso:
+
+![grand_xp_bottle](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/grand_xp_bottle.png)
 
 *Nuevos tesoros pueden ser obtenido a base de esta.*
 
