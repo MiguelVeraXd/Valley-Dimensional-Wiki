@@ -55,6 +55,7 @@ Aunado a esto, si estás interesado en ayudar a mejorar la Wiki, puedes contacta
 
 ### Mecánicas
 
+- **Sistema de Equipos**
 - **Sistema de Clases**
 - **Sistema de Crafteo**
 - **Maná**
