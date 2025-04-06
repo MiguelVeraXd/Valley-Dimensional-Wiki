@@ -6,7 +6,7 @@
 
 ### Creación de un Equipo (Proceso Automático)
 
-- Entrar al behavior pack del día 1 *(ya que solamente en los días 1-4 se puede llevar a cabo este proceso de forma que este sea "automático"),* más específicamente, a `_valley dimesional dia 1\scripts` y ejectuar el archivo `main.js`.
+- Entrar al behavior pack del día 1 *(ya que solamente en los días 1-4 se puede llevar a cabo este proceso de forma que este mismo sea "automático"),* más específicamente, a `_valley dimesional dia 1\scripts` y ejectuar el archivo `main.js`.
 
 - En la línea número 8 del `main.js` aparecerá la plantilla para crear los equipos, solo basta con modificar los valores mostrados de forma que coincidan con los nombres de los integrantes que quieras añadir al equipo y el nombre que le quieras dar al equipo como tal. El ejemplo de la plantilla se muestra a continuación:
 
