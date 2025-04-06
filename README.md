@@ -6,7 +6,7 @@
 
 Aunado a esto, si estás interesado en ayudar a mejorar la Wiki, puedes contactar a ***"Iam4ndrew"*** para discutir cambios y actualizaciones.
 
-## Últimas versiones compatibles
+## Últimas Versiones Compatibles
 
 - **Minecraft Bedrock Edition**: 1.21.71
 
