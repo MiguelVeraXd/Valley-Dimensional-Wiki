@@ -75,7 +75,7 @@ Aunado a esto, si estás interesado en ayudar a mejorar la Wiki, puedes contacta
 
 - **Nueva generación tanto para el Overworld como para el Nether, así como la inclusión de nuevos mundos con aún más contenido por ser descubierto...**
 
-### Jefes y Mini Jefes
+### [Jefes y Mini Jefes](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/bosses.md)
 
 - **Wither Boss**
 - **Coloso Salvaje**
