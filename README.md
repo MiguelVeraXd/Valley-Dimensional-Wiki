@@ -27,13 +27,13 @@ Aunado a esto, si estás interesado en ayudar a mejorar la Wiki, puedes contacta
 - **Sistema de Clases**
 - **Sistema de Crafteo**
 - **Maná**
-- [**Nuevos Encantamientos**](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/encartamiento.md)
+- [**Nuevos Encantamientos**](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/encantamientos.md)
 - **Mecánicas de Vida Avanzadas**
 - **Opciones de Configuración**
 - [**Dificultad**](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dificultad.md)
 - **Eventos**
 - **Pesca Mejorada**
-- [**Logros**](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/logros.md)
+- **Logros**
 - [**Rareza de Items**](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/rareza%20de%20item.md)
 
 ### Estructuras, Minerales y Nuevas Dimensiones
