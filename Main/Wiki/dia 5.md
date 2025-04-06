@@ -24,7 +24,7 @@
 
   - Mostrar la vida que tienen todas las entidades del juego (actualizada en tiempo real).
   - Hacer visibles los efectos de poción negativos que tengan los demás jugadores.
-  - Brindar un chat especial por equipo (escribir el comando "!p *mensaje*" para su uso).
+  - Brindar un chat especial por equipo (escribir el comando `!p *mensaje*` para su uso).
   - Proveer de un calendario lunar donde se muestra el pronóstico de las fases de la luna en el mundo.
   - Traducción de coordendas entre el Overworld y el Nether.
   - Información sobre los "Bosses" que se encuentran presentes en el mundo.
