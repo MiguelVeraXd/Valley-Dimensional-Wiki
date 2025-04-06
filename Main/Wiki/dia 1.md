@@ -46,9 +46,7 @@ __*Para activar esta inferfaz el jugador debe de "interactuar" con la mesa mient
 
 * Hay **"Fast Totem".**
 
-* Se añade un **"Sistema de Equipos"**, y su funcionamiento es el siguiente:
-
-  -
+* Se añade un [**"Sistema de Equipos"**](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/sistema%20de%20equipos.md)
 
 ## Cambios de Dificultad
 
