@@ -58,7 +58,7 @@ Aunado a esto, si estás interesado en ayudar a mejorar la Wiki, puedes contacta
 - [**Sistema de Equipos**](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/sistema%20de%20equipos.md)
 - **Sistema de Clases**
 - **Sistema de Crafteo**
-- [**Sistema de Muerte / Resurreción**](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/sistema%20de%20muerte-resurrecci%C3%B3n.md)
+- [**Sistema de Muerte / Resurreción**](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/sistema%20de%20muerte-resurreccion.md)
 - **Maná**
 - [**Nuevos Encantamientos**](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/encantamientos.md)
 - **Mecánicas de Vida Avanzadas**
