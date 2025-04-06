@@ -12,7 +12,9 @@ Aunado a esto, si estás interesado en ayudar a mejorar la Wiki, puedes contacta
 
 ---
 
-## Contenido del Add-on
+## Contenido del Add-On
+
+---
 
 ### Objetos
 
@@ -20,41 +22,40 @@ Aunado a esto, si estás interesado en ayudar a mejorar la Wiki, puedes contacta
 - **Armas**
 - **Herramientas**
 - [**Potionexus**](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/potionexus.md)
-- ![Vista previa del Valley Dimensional](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/items/ankh.png) [**Amuletos**](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/amuletos.md)
-- **Gemstones**
-- **Alquimista Avanzado**
+- [**Amuletos**](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/amuletos.md)
 
 ### Mecánicas
 
 - **Sistema de Clases**
 - **Sistema de Crafteo**
-- **Magia**
-- [**Nuevo Encantamientos**](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/encartamiento.md)
-- **Mecánica de Vida Avanzada**
-- [Opciones de configuración]
+- **Maná**
+- [**Nuevos Encantamientos**](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/encartamiento.md)
+- **Mecánicas de Vida Avanzadas**
+- **Opciones de Configuración**
 - [**Dificultad**](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dificultad.md)
-- [Eventos](#)
-- [Pesca](#)
+- **Eventos**
+- **Pesca Mejorada**
 - [**Logros**](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/logros.md)
-- [**Rareza de items**](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/rareza%20de%20item.md)
-### Biomas y Estructuras
+- [**Rareza de Items**](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/rareza%20de%20item.md)
 
-- [**Overworld and Nether**](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%201.md#generaci%C3%B3n-del-mundo)
+### Estructuras, Minerales y Nuevas Dimensiones
+
+- **Nueva generación tanto para Overworld como para el Nether, así como la inclusión de nuevos mundos con aún más contenido por ser descubierto.**
 
 ### Jefes y Mini Jefes
 
-- **Dragón Anciano**
-- **Elemental de Fuego**
-- **Coloso de Piedra**
-- **Bruja del Valle**
-- **Bestia de las Sombras**
+- **Wither Boss**
+- **Coloso Salvaje**
+- **Blizzard Lord**
+- **Flame Sentinel**
+- **Demonic Goat**
+- **Warden of Devastation**
+- **Guardián de las Profundidades**
+- **Warden of the End**
+- **???**
 
----
+### Recursos y Guías
 
-## Recursos y Guías
-
-- **Recetas de Crafteo**
-- **Erudición y Lore del Add-on**
-- **Guía de Instalación y Compatibilidad**
-- [Progresión de mods]
-- [Cambios en la vainilla]
+- **I.A.**
+- **Libro del Conocimiento**
+- **Scroll**
