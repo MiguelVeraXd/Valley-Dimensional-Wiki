@@ -14,9 +14,9 @@
 
 *__IMPORTANTE:__ Solo se puede tener un máximo de 10 personas en un mismo equipo.*
 
-- Por último, una vez estén creados los equipos y se hayan guardado los cambios dentro del archivo, se debe ejecutar el comando `/reload` dentro del mundo para que el código ya modificado funcione correctamente dentro del mismo. 
+- Por último, una vez estén creados los equipos y se hayan guardado los cambios dentro del archivo, se debe ejecutar el comando `/reload` dentro del "Mundo / Servidor" para que el código ya modificado funcione correctamente.
 
-***De esta forma, cada vez que un jugador entre al "Servidor / Mundo", la respectiva "tag" le será asignada automáticamente.***
+***De esta forma, cada vez que un jugador entre al "Mundo / Servidor", la respectiva "tag" le será asignada automáticamente.***
 
 ---
 
