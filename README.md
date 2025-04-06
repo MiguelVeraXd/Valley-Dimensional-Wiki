@@ -55,7 +55,7 @@ Aunado a esto, si estás interesado en ayudar a mejorar la Wiki, puedes contacta
 
 ### Mecánicas
 
-- **Sistema de Equipos**
+- [**Sistema de Equipos**](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/sistema%20de%20equipos.md)
 - **Sistema de Clases**
 - **Sistema de Crafteo**
 - **Maná**
