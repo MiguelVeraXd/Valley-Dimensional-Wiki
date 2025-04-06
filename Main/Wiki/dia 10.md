@@ -94,7 +94,7 @@
 
 ![super_fertilizante](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/super_fertilizante.png)
 
-- __Item para Revivir:__ Se le ha brindado al jugador la posibilidad de traer de vuelta a la vida a uno de sus compañeros caídos, esto a cambio de partir su alma a la mitad y compartir: el daño recibido y los efectos acumulados. Para más información al respecto, ver [**Sistema de Muerte / Resurrección**](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/sistema%20de%20muerte-resurreccion.md).
+- __Item para Revivir:__ Se le ha brindado al jugador la posibilidad de traer de vuelta a la vida a uno de sus compañeros caídos, esto a cambio de partir su alma a la mitad y compartir: el daño recibido, los efectos acumulados y los tótems consumidos. Para su uso, solo se necesita "interactuar" con el propio item, esto mostrará una interfaz donde se podrá escribir el ***"Gametag"*** del jugador que se desee revivir, así como una explicación más profunda de las implicaciones de todo esto.
 
 ![item_para_revivir](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/item_para_revivir.png)
 
