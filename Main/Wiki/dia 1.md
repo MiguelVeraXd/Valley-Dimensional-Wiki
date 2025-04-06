@@ -44,7 +44,11 @@ __*Para activar esta inferfaz el jugador debe de "interactuar" con la mesa mient
 
 * La "Miel" quita el "Fatal Poison".
 
-* Hay "Fast Totem".
+* Hay **"Fast Totem".**
+
+* Se añade un **"Sistema de Equipos"**, y su funcionamiento es el siguiente:
+
+  -
 
 ## Cambios de Dificultad
 
