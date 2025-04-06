@@ -12,6 +12,20 @@ Aunado a esto, si estás interesado en ayudar a mejorar la Wiki, puedes contacta
 
 ---
 
+## Funcionamiento del Add-On
+
+- Para el óptimo funcionamiento de este el administrador del mundo deberá activar las siguiente opciones experimentales:
+
+![opciones_experimentales](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/opciones_experimentales.png)
+
+![opciones_experimentales2](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/opciones_experimentales2.png)
+
+- Aunado a esto, hay algunos "comandos" que necesitan ser ejecutados durante el transcurso de los días para el correcto desarollo del mismo:
+
+
+
+---
+
 ## Contenido del Add-On
 
 ### Objetos
