@@ -14,8 +14,6 @@ Aunado a esto, si estás interesado en ayudar a mejorar la Wiki, puedes contacta
 
 ## Contenido del Add-On
 
----
-
 ### Objetos
 
 - **Armaduras**
