@@ -70,6 +70,6 @@
 
 ## [Dia 25](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%2025.md)
 
-* __Warden of the End:__
+* __Warden of End:__
 
 ![warden_of_the_end](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/bosses/boss_final-ezgif.com-crop.gif)
