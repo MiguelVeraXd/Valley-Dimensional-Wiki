@@ -18,10 +18,10 @@ Aunado a esto, si estás interesado en ayudar a mejorar la Wiki, puedes contacta
 
   - [***Día 1***](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%201.md)
   - [***Día 5***](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%205.md)
-  - [***Días 10***](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%2010.md)
-  - [***Días 15***](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%2010.md)
-  - [***Días 20***](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%2020.md)
-  - [***Días 25***](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%2025.md)
+  - [***Día 10***](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%2010.md)
+  - [***Día 15***](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%2010.md)
+  - [***Día 20***](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%2020.md)
+  - [***Día 25***](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/dia%2025.md)
  
 - Para poder intercalar entre estos (es decir, cambiar de un día a otro) **ES NECESARIO** remover el paquete de comportamientos del día que ya no se planea usar y añadir el ahora nuevo.
 
