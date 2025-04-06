@@ -40,7 +40,7 @@ Aunado a esto, si estás interesado en ayudar a mejorar la Wiki, puedes contacta
 
 ### Estructuras, Minerales y Nuevas Dimensiones
 
-- **Nueva generación tanto para Overworld como para el Nether, así como la inclusión de nuevos mundos con aún más contenido por ser descubierto.**
+- **Nueva generación tanto para el Overworld como para el Nether, así como la inclusión de nuevos mundos con aún más contenido por ser descubierto...**
 
 ### Jefes y Mini Jefes
 
