@@ -18,11 +18,15 @@
 
 ***De esta forma, cada vez que un jugador entre al "Servidor / Mundo", la respectiva "tag" le será asignada automáticamente.***
 
+---
+
 ### Creación de un Equipo (Proceso Manual)
 
 - Ahora bien, si se quieren crear equipos en días diferentes al 1-4 y/o se quiere llevar a cabo este proceso sin la necesidad de entrar a los archivos del Add-On, el proceso será manual, con la colocación de una "tag" mediante el comando: `/tag @*nametag del jugador* add m:*nombre del team*`. 
 
 ***Lo mismo se tendrá que hacer si un jugador no se conectó en los días 1-4, en estos casos, se tendrá que realizar el comando para ese jugador en específico.***
+
+---
  
 ### Cambio de un Equipo
 
