@@ -41,7 +41,7 @@ Aunado a esto, si estás interesado en ayudar a mejorar la Wiki, puedes contacta
 
   - ***Día 20:*** El administador deberá `teletransportar` a los supervivientes o a sí mismo (en caso de ser SinglePlayer) de regreso a sus bases (ya que, en este punto de la historia, ya se ha dado del regreso de "La Luna"). | Aunado a esto, SOLO en caso de que no se presente la "tormenta perpetua" del Overworld, se deberá relizar el comando `/weather thunder` para activarla.
 
-  - ***Día 25:*** El administrador deberá preparar el terreno para la batalla contra el "Warden of End", killeando así al "Ender Dragon", quitando los pilares que conforman a la isla principal, y llevando a cabo el siguiente comando para su invocación: `/scriptevent mv:configuracion_sculk` (ejecutar solo cuando todos los supervivientes se encuentren en la dimensión).
+  - ***Día 25:*** El administrador deberá preparar el terreno para la batalla contra el "Warden of End", para esto debe: killear al "Ender Dragon", quitar los pilares de obsidiana de la isla principal, y llevar a cabo el siguiente comando para su invocación: `/scriptevent mv:configuracion_sculk` (ejecutar solo cuando todos los supervivientes se encuentren en la dimensión).
 
 ---
 
