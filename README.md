@@ -39,7 +39,7 @@ Aunado a esto, si estás interesado en ayudar a mejorar la Wiki, puedes contacta
 
   - ***Día 15:*** `/function moon_sistema_on` (para activar las funciones de "La Luna") | Además, el administrador del mundo tendrá que `teletransportar` a los demás jugadores o teletransportarse a sí mismo (en caso de ser SinglePlayer) manualmente hacia "La Luna".
 
-  - ***Día 20:*** El administador deberá `teletransportar` a los supervivientes o a sí mismo (en caso de ser SinglePlayer) de regreso a sus bases (ya que, en este punto de la historia, ya se ha dado del regreso de "La Luna").
+  - ***Día 20:*** El administador deberá `teletransportar` a los supervivientes o a sí mismo (en caso de ser SinglePlayer) de regreso a sus bases (ya que, en este punto de la historia, ya se ha dado del regreso de "La Luna"). | Aunado a esto, SOLO en caso de que no se presente la "tormenta perpetua" del Overworld, se deberá relizar el comando `/weather thunder` para activarla.
 
   - ***Día 25:*** El administrador deberá preparar el terreno para la batalla contra el "Warden of End", quitando así los pilares que conforman a la isla principal, y llevando a cabo el siguiente comando para su invocación: `/scriptevent mv:configuracion_sculk` (ejecutar solo cuando todos los supervivientes se encuentren en la dimensión).
 
