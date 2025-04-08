@@ -28,7 +28,7 @@
   - Proveer de un calendario lunar donde se muestra el pronóstico de las fases de la luna en el mundo.
   - Traducción de coordendas entre el Overworld y el Nether.
   - Información sobre los "Bosses" que se encuentran presentes en el mundo.
-  - Bloquear o desbloquear el objeto en la mano principal para evitar moverlo o soltarlo. (Escribir !slot en el chat mientras sostienes el item).
+  - Bloquear o desbloquear el objeto en la mano principal para evitar moverlo o soltarlo. (Escribir `!slot` en el chat mientras sostienes el item).
     
 ![IA (1)](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/IA%20(1).png) ![IA (2)](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/IA%20(2).png)
 
