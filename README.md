@@ -43,6 +43,8 @@ Aunado a esto, si estás interesado en ayudar a mejorar la Wiki, puedes contacta
 
   - ***Día 25:*** El administrador deberá preparar el terreno para la batalla contra el "Warden of End", para esto debe: killear al "Ender Dragon", quitar los pilares de obsidiana de la isla principal, y llevar a cabo el siguiente comando para su invocación: `/scriptevent mv:configuracion_sculk` (ejecutar solo cuando todos los supervivientes se encuentren en la dimensión).
 
+- ***IMPORTANTE:*** Para que el complemento (Add-On) funcione en un 100% el jugador debe tener su Minecraft en el idioma: **English (United States).**
+
 ---
 
 ## Contenido del Add-On
