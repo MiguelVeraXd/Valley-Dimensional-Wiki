@@ -216,7 +216,7 @@ Drop Especial = __"Arco Roto"__ (el cual es un arco que tendrá los encantamient
 
 ## Items Nuevos
 
-* __Botella de Aire Puro:__ Se consigue "interactuando" con una botella vacía en mano. Con el uso de esta, podras refillear tu oxígeno.
+* __Botella de Aire Puro:__ Se consigue "interactuando" con una botella vacía en mano. Con el uso de esta, podras refillear tu oxígeno. ![aire_puro](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/items/aire_bueno.png)
 
 * __"Espada de las Almas Perdidas":__ Al sostenerla, quita el efecto de __"Darkness"__ y, aunado a esto, tiene la capacidad de hacer __"barrido"__ con cada golpe acertado.
 
